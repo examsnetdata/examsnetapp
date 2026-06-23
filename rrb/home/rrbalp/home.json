@@ -1,0 +1,177 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "RRB ALP Papers",
+          "slogo": "fa-solid fa-train-subway",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "RRB ALP Previous Papers",
+              "chapterpath": "examsnetdata/rrb/rrbalp/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA7",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "RRBALPENG"
+              ],
+              "totalTests": 35,
+              "testsLabel": "35 Tests",
+              "badgeText": "35 Tests"
+            },
+            {
+              "chaptertitle": "RRB ALP Model Papers",
+              "chapterpath": "examsnetdata/rrb/rrbalpmodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA8",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "RRBLOCO"
+              ],
+              "totalTests": 17,
+              "testsLabel": "17 Tests",
+              "badgeText": "17 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "General Studies",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Biology",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Environment Ecology",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/environmentecology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "History",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "India and World Geography",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indiaandworldgeography/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Economy",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianeconomy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Politics",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianpolitics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Science and Technology",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/scienceandtechnology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Aptitude Formula Notes",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Number System",
+              "chapterpath": "examsnetdata/notes/aptitude/numbers/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Basic Arithmetic",
+              "chapterpath": "examsnetdata/notes/aptitude/arithmetic/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}
