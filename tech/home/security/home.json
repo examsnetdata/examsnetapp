@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "CISSP Certification Practice Tests",
-              "chapterpath": "examsnetdata/tech/cissp/",
+              "chapterpath": "examsnetapp/tech/cissp/",
               "clogo": "fa-solid fa-pen",
               "savekey": "CISSP",
               "datatype": "exams",
@@ -30,7 +30,7 @@
             },
             {
               "chaptertitle": "COMP TIA Certification Tests",
-              "chapterpath": "examsnetdata/tech/comptia/",
+              "chapterpath": "examsnetapp/tech/comptia/",
               "clogo": "fa-solid fa-pen",
               "savekey": "COMPTIA",
               "datatype": "exams",
@@ -44,7 +44,7 @@
             },
             {
               "chaptertitle": "CCNA Certification Tests",
-              "chapterpath": "examsnetdata/tech/cisco/ccna200/",
+              "chapterpath": "examsnetapp/tech/cisco/ccna200/",
               "clogo": "fa-solid fa-pen",
               "savekey": "CISCO",
               "datatype": "exams",

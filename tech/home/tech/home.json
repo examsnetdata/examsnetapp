@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "Java Certification Practice Tests",
-              "chapterpath": "examsnetdata/tech/ocajp/",
+              "chapterpath": "examsnetapp/tech/ocajp/",
               "clogo": "fa-solid fa-pen",
               "savekey": "JavaCert",
               "datatype": "exams",
@@ -30,7 +30,7 @@
             },
             {
               "chaptertitle": "TOGAF Model Papers",
-              "chapterpath": "examsnetdata/tech/togaf/",
+              "chapterpath": "examsnetapp/tech/togaf/",
               "clogo": "fa-solid fa-pen",
               "savekey": "TOGAF",
               "datatype": "exams",

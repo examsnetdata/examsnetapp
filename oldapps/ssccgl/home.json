@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "SSC CGL Previous Papers",
-            "chapterpath": "examsnetdata/ssc/cglprev/",
+            "chapterpath": "examsnetapp/ssc/cglprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGL",
             "datatype": "exams",
@@ -20,7 +20,7 @@
           },
           {
             "chaptertitle": "SSC CGL Model Papers",
-            "chapterpath": "examsnetdata/ssc/cglmodel/",
+            "chapterpath": "examsnetapp/ssc/cglmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGM",
             "datatype": "exams",
@@ -29,7 +29,7 @@
           },
           {
             "chaptertitle": "SSC CGL Tier 2 Papers",
-            "chapterpath": "examsnetdata/ssc/cgltier2/",
+            "chapterpath": "examsnetapp/ssc/cgltier2/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CG2",
             "datatype": "exams",
@@ -52,7 +52,7 @@
         "chapters": [
           {
             "chaptertitle": "Algebra and Higher Math",
-            "chapterpath": "examsnetdata/aptitude/algebra/",
+            "chapterpath": "examsnetapp/aptitude/algebra/",
             "clogo": "fa-solid fa-square-root-variable",
             "savekey": "QA1",
             "datatype": "exams",
@@ -61,7 +61,7 @@
           },
           {
             "chaptertitle": "Arithmetic",
-            "chapterpath": "examsnetdata/aptitude/arithmetic/",
+            "chapterpath": "examsnetapp/aptitude/arithmetic/",
             "clogo": "fa-solid fa-pen-ruler",
             "savekey": "QA2",
             "datatype": "exams",
@@ -70,7 +70,7 @@
           },
           {
             "chaptertitle": "Commercial Math",
-            "chapterpath": "examsnetdata/aptitude/commercial/",
+            "chapterpath": "examsnetapp/aptitude/commercial/",
             "clogo": "fa-solid fa-hand-holding-dollar",
             "savekey": "QA3",
             "datatype": "exams",
@@ -79,7 +79,7 @@
           },
           {
             "chaptertitle": "Data Based Math",
-            "chapterpath": "examsnetdata/aptitude/data/",
+            "chapterpath": "examsnetapp/aptitude/data/",
             "clogo": "fa-solid fa-chart-pie",
             "savekey": "QA4",
             "datatype": "exams",
@@ -88,7 +88,7 @@
           },
           {
             "chaptertitle": "Geometry and Mensuration",
-            "chapterpath": "examsnetdata/aptitude/geometry/",
+            "chapterpath": "examsnetapp/aptitude/geometry/",
             "clogo": "fa-solid fa-shapes",
             "savekey": "QA5",
             "datatype": "exams",
@@ -97,7 +97,7 @@
           },
           {
             "chaptertitle": "Number System and Numeracy",
-            "chapterpath": "examsnetdata/aptitude/numbers/",
+            "chapterpath": "examsnetapp/aptitude/numbers/",
             "clogo": "fa-solid fa-sort-numeric-up-alt",
             "savekey": "QA6",
             "datatype": "exams",
@@ -106,7 +106,7 @@
           },
           {
             "chaptertitle": "Problem Solving",
-            "chapterpath": "examsnetdata/aptitude/problems/",
+            "chapterpath": "examsnetapp/aptitude/problems/",
             "clogo": "fa-solid fa-puzzle-piece",
             "savekey": "QA7",
             "datatype": "exams",
@@ -122,7 +122,7 @@
         "chapters": [
           {
             "chaptertitle": "Antonyms Tests",
-            "chapterpath": "examsnetdata/english/antonyms/",
+            "chapterpath": "examsnetapp/english/antonyms/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN1",
             "datatype": "exams",
@@ -131,7 +131,7 @@
           },
           {
             "chaptertitle": "Synonyms Tests",
-            "chapterpath": "examsnetdata/english/synonyms/",
+            "chapterpath": "examsnetapp/english/synonyms/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN2",
             "datatype": "exams",
@@ -140,7 +140,7 @@
           },
           {
             "chaptertitle": "Spelling Check Tests",
-            "chapterpath": "examsnetdata/english/spelling/",
+            "chapterpath": "examsnetapp/english/spelling/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN3",
             "datatype": "exams",
@@ -149,7 +149,7 @@
           },
           {
             "chaptertitle": "Spotting Errors",
-            "chapterpath": "examsnetdata/english/errors/",
+            "chapterpath": "examsnetapp/english/errors/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN4",
             "datatype": "exams",
@@ -158,7 +158,7 @@
           },
           {
             "chaptertitle": "One Word Substitutes",
-            "chapterpath": "examsnetdata/english/oneword/",
+            "chapterpath": "examsnetapp/english/oneword/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN5",
             "datatype": "exams",
@@ -167,7 +167,7 @@
           },
           {
             "chaptertitle": "Selecting Words",
-            "chapterpath": "examsnetdata/english/selecting/",
+            "chapterpath": "examsnetapp/english/selecting/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN6",
             "datatype": "exams",
@@ -176,7 +176,7 @@
           },
           {
             "chaptertitle": "Sentence Correction",
-            "chapterpath": "examsnetdata/english/correction/",
+            "chapterpath": "examsnetapp/english/correction/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN7",
             "datatype": "exams",
@@ -185,7 +185,7 @@
           },
           {
             "chaptertitle": "Idioms and Phrases",
-            "chapterpath": "examsnetdata/english/idioms/",
+            "chapterpath": "examsnetapp/english/idioms/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN8",
             "datatype": "exams",
@@ -194,7 +194,7 @@
           },
           {
             "chaptertitle": "Sentence Improvement",
-            "chapterpath": "examsnetdata/english/improvement/",
+            "chapterpath": "examsnetapp/english/improvement/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN9",
             "datatype": "exams",
@@ -203,7 +203,7 @@
           },
           {
             "chaptertitle": "Grammar Online",
-            "chapterpath": "examsnetdata/english/grammar/",
+            "chapterpath": "examsnetapp/english/grammar/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN10",
             "datatype": "exams",
@@ -212,7 +212,7 @@
           },
           {
             "chaptertitle": "Common Error Detection",
-            "chapterpath": "examsnetdata/english/commonerror/",
+            "chapterpath": "examsnetapp/english/commonerror/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN11",
             "datatype": "exams",
@@ -221,7 +221,7 @@
           },
           {
             "chaptertitle": "Sentence Completion",
-            "chapterpath": "examsnetdata/english/completion/",
+            "chapterpath": "examsnetapp/english/completion/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN12",
             "datatype": "exams",
@@ -230,7 +230,7 @@
           },
           {
             "chaptertitle": "Direct and Indirect Speech",
-            "chapterpath": "examsnetdata/english/speech/",
+            "chapterpath": "examsnetapp/english/speech/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN13",
             "datatype": "exams",
@@ -239,7 +239,7 @@
           },
           {
             "chaptertitle": "Ordering Words",
-            "chapterpath": "examsnetdata/english/orderingwords/",
+            "chapterpath": "examsnetapp/english/orderingwords/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN14",
             "datatype": "exams",
@@ -248,7 +248,7 @@
           },
           {
             "chaptertitle": "Ordering Sentences",
-            "chapterpath": "examsnetdata/english/orderingsentence/",
+            "chapterpath": "examsnetapp/english/orderingsentence/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN15",
             "datatype": "exams",
@@ -257,7 +257,7 @@
           },
           {
             "chaptertitle": "Verbal Analogies",
-            "chapterpath": "examsnetdata/english/verbal/",
+            "chapterpath": "examsnetapp/english/verbal/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN16",
             "datatype": "exams",
@@ -266,7 +266,7 @@
           },
           {
             "chaptertitle": "Sentence Formation",
-            "chapterpath": "examsnetdata/english/formation/",
+            "chapterpath": "examsnetapp/english/formation/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN17",
             "datatype": "exams",
@@ -275,7 +275,7 @@
           },
           {
             "chaptertitle": "Completing Statements",
-            "chapterpath": "examsnetdata/english/statements/",
+            "chapterpath": "examsnetapp/english/statements/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN18",
             "datatype": "exams",
@@ -284,7 +284,7 @@
           },
           {
             "chaptertitle": "Change of Speech",
-            "chapterpath": "examsnetdata/english/change/",
+            "chapterpath": "examsnetapp/english/change/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN19",
             "datatype": "exams",

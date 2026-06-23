@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "UPSC ESE Previous Papers",
-              "chapterpath": "examsnetdata/upsc/ese/",
+              "chapterpath": "examsnetapp/upsc/ese/",
               "clogo": "fa-solid fa-pen",
               "savekey": "ESE1",
               "datatype": "exams",

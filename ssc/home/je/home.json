@@ -17,7 +17,7 @@
           "chapters": [
             {
               "chaptertitle": "SSC JE Civil Engineering Previous Papers",
-              "chapterpath": "examsnetdata/ssc/je/civilprev/",
+              "chapterpath": "examsnetapp/ssc/je/civilprev/",
               "clogo": "fa-solid fa-pen",
               "savekey": "JECIVIL",
               "datatype": "exams",
@@ -32,7 +32,7 @@
             },
             {
               "chaptertitle": "SSC JE Mechanical Engineering Previous Papers",
-              "chapterpath": "examsnetdata/ssc/je/mechprev/",
+              "chapterpath": "examsnetapp/ssc/je/mechprev/",
               "clogo": "fa-solid fa-pen",
               "savekey": "JEMECH",
               "datatype": "exams",
@@ -47,7 +47,7 @@
             },
             {
               "chaptertitle": "SSC JE Electrical Engineering Previous Papers",
-              "chapterpath": "examsnetdata/ssc/je/electricprev/",
+              "chapterpath": "examsnetapp/ssc/je/electricprev/",
               "clogo": "fa-solid fa-pen",
               "savekey": "JEELECTRIC",
               "datatype": "exams",

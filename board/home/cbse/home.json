@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "Computer Applications",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/computerapplications/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/computerapplications/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA0",
               "datatype": "link",
@@ -25,7 +25,7 @@
             },
             {
               "chaptertitle": "English",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/english/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/english/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA1",
               "datatype": "link",
@@ -34,7 +34,7 @@
             },
             {
               "chaptertitle": "Hindi",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/hindi/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/hindi/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA2",
               "datatype": "link",
@@ -43,7 +43,7 @@
             },
             {
               "chaptertitle": "Math",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/math/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/math/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA3",
               "datatype": "link",
@@ -52,7 +52,7 @@
             },
             {
               "chaptertitle": "CBSE Class 10 Math Basic Papers",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/mathbasic/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/mathbasic/",
               "clogo": "fa-solid fa-list",
               "savekey": "BEXA3",
               "datatype": "link",
@@ -61,7 +61,7 @@
             },
             {
               "chaptertitle": "CBSE Class 10 Math Standard Papers",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/mathstandard/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/mathstandard/",
               "clogo": "fa-solid fa-list",
               "savekey": "BEXA4",
               "datatype": "link",
@@ -70,7 +70,7 @@
             },
             {
               "chaptertitle": "Science",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/science/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/science/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA4",
               "datatype": "link",
@@ -79,7 +79,7 @@
             },
             {
               "chaptertitle": "Social Science",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/socialscience/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/socialscience/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA5",
               "datatype": "link",
@@ -88,7 +88,7 @@
             },
             {
               "chaptertitle": "Sanskrit",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/sanskrit/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/sanskrit/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA6",
               "datatype": "link",
@@ -97,7 +97,7 @@
             },
             {
               "chaptertitle": "InformationTechnology",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class10/informationtechnology/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/informationtechnology/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA7",
               "datatype": "link",
@@ -114,7 +114,7 @@
           "chapters": [
             {
               "chaptertitle": "Accountancy",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/accountancy/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/accountancy/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA8",
               "datatype": "link",
@@ -123,7 +123,7 @@
             },
             {
               "chaptertitle": "Applied Mathematics",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/appliedmathematics/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/appliedmathematics/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA9",
               "datatype": "link",
@@ -132,7 +132,7 @@
             },
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/biology/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA10",
               "datatype": "link",
@@ -141,7 +141,7 @@
             },
             {
               "chaptertitle": "Biotechnology",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/biotechnology/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/biotechnology/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA11",
               "datatype": "link",
@@ -150,7 +150,7 @@
             },
             {
               "chaptertitle": "Business Studies",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/businessstudies/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/businessstudies/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA12",
               "datatype": "link",
@@ -159,7 +159,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/chemistry/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA13",
               "datatype": "link",
@@ -168,7 +168,7 @@
             },
             {
               "chaptertitle": "Computer Science",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/computerscience/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/computerscience/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA14",
               "datatype": "link",
@@ -177,7 +177,7 @@
             },
             {
               "chaptertitle": "Economics",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/economics/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/economics/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA15",
               "datatype": "link",
@@ -186,7 +186,7 @@
             },
             {
               "chaptertitle": "Engineering Graphics",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/engineeringgraphics/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/engineeringgraphics/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA16",
               "datatype": "link",
@@ -195,7 +195,7 @@
             },
             {
               "chaptertitle": "English",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/english/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/english/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA17",
               "datatype": "link",
@@ -204,7 +204,7 @@
             },
             {
               "chaptertitle": "Enterpreneurship",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/enterpreneurship/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/enterpreneurship/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA18",
               "datatype": "link",
@@ -213,7 +213,7 @@
             },
             {
               "chaptertitle": "Geography",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/geography/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/geography/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA19",
               "datatype": "link",
@@ -222,7 +222,7 @@
             },
             {
               "chaptertitle": "Hindi Core",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/hindicore/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/hindicore/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA20",
               "datatype": "link",
@@ -231,7 +231,7 @@
             },
             {
               "chaptertitle": "Hindi Elective",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/hindielective/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/hindielective/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA21",
               "datatype": "link",
@@ -240,7 +240,7 @@
             },
             {
               "chaptertitle": "History",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/history/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/history/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA22",
               "datatype": "link",
@@ -249,7 +249,7 @@
             },
             {
               "chaptertitle": "Home Science",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/homescience/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/homescience/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA23",
               "datatype": "link",
@@ -258,7 +258,7 @@
             },
             {
               "chaptertitle": "Informatics Practices",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/informaticspractices/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/informaticspractices/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA24",
               "datatype": "link",
@@ -267,7 +267,7 @@
             },
             {
               "chaptertitle": "Legal Studies",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/legalstudies/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/legalstudies/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA25",
               "datatype": "link",
@@ -276,7 +276,7 @@
             },
             {
               "chaptertitle": "Math",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/math/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/math/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA26",
               "datatype": "link",
@@ -285,7 +285,7 @@
             },
             {
               "chaptertitle": "Physical Education",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/physicaleducation/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA27",
               "datatype": "link",
@@ -294,7 +294,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/physics/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA28",
               "datatype": "link",
@@ -303,7 +303,7 @@
             },
             {
               "chaptertitle": "Political Science",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/politicalscience/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/politicalscience/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA29",
               "datatype": "link",
@@ -312,7 +312,7 @@
             },
             {
               "chaptertitle": "Psychology",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/psychology/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/psychology/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA30",
               "datatype": "link",
@@ -321,7 +321,7 @@
             },
             {
               "chaptertitle": "Sociology",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/sociology/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/sociology/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA31",
               "datatype": "link",
@@ -330,7 +330,7 @@
             },
             {
               "chaptertitle": "SanskritCore",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/sanskritcore/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/sanskritcore/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA32",
               "datatype": "link",
@@ -339,7 +339,7 @@
             },
             {
               "chaptertitle": "SanskritElective",
-              "chapterpath": "examsnetdata/gdrive/board/cbse/class12/sanskritelective/",
+              "chapterpath": "examsnetapp/gdrive/board/cbse/class12/sanskritelective/",
               "clogo": "fa-solid fa-list",
               "savekey": "BA33",
               "datatype": "link",
@@ -363,7 +363,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 10 Biology Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class10/biology/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
@@ -372,7 +372,7 @@
             },
             {
               "chaptertitle": "Class 10 Chemistry Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class10/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA1",
               "datatype": "link",
@@ -381,7 +381,7 @@
             },
             {
               "chaptertitle": "Class 10 Math Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class10/math/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/math/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA2",
               "datatype": "link",
@@ -390,7 +390,7 @@
             },
             {
               "chaptertitle": "Class 10 Physics Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class10/physics/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA3",
               "datatype": "link",
@@ -399,7 +399,7 @@
             },
             {
               "chaptertitle": "Class 10 Social Science Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class10/socialscience/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/socialscience/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA4",
               "datatype": "link",
@@ -416,7 +416,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 11 Chemistry Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class11/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA5",
               "datatype": "link",
@@ -425,7 +425,7 @@
             },
             {
               "chaptertitle": "Class 11 Math Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class11/math/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/math/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA6",
               "datatype": "link",
@@ -434,7 +434,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class11/physics/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA7",
               "datatype": "link",
@@ -451,7 +451,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 12 Biology Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class12/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA8",
               "datatype": "link",
@@ -460,7 +460,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class12/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA9",
               "datatype": "link",
@@ -469,7 +469,7 @@
             },
             {
               "chaptertitle": "Class 12 Math Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class12/math/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class12/math/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA10",
               "datatype": "link",
@@ -478,7 +478,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Concepts",
-              "chapterpath": "examsnetdata/gdrive/cbse/concepts/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/cbse/concepts/class12/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA11",
               "datatype": "link",
@@ -502,7 +502,7 @@
           "chapters": [
             {
               "chaptertitle": "Contemporary India",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/contemporaryindia/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/contemporaryindia/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
@@ -511,7 +511,7 @@
             },
             {
               "chaptertitle": "Democratic Politics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/democraticpolitics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/democraticpolitics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA1",
               "datatype": "link",
@@ -520,7 +520,7 @@
             },
             {
               "chaptertitle": "Design Thinking and Innovation",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/designthinkingandinnovation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/designthinkingandinnovation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA2",
               "datatype": "link",
@@ -529,7 +529,7 @@
             },
             {
               "chaptertitle": "First Flight",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/firstflight/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/firstflight/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA3",
               "datatype": "link",
@@ -538,7 +538,7 @@
             },
             {
               "chaptertitle": "Footprints Without Feet",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/footprintswithoutfeet/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/footprintswithoutfeet/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA4",
               "datatype": "link",
@@ -547,7 +547,7 @@
             },
             {
               "chaptertitle": "Health and Physical Education",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/healthandphysicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/healthandphysicaleducation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA5",
               "datatype": "link",
@@ -556,7 +556,7 @@
             },
             {
               "chaptertitle": "India and the Contemporary World 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/indiaandthecontemporaryworld2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/indiaandthecontemporaryworld2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA6",
               "datatype": "link",
@@ -565,7 +565,7 @@
             },
             {
               "chaptertitle": "Interact in English Communicative Course",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/interactinenglishcommunicativecourse/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/interactinenglishcommunicativecourse/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA7",
               "datatype": "link",
@@ -574,7 +574,7 @@
             },
             {
               "chaptertitle": "Interact in English Literature Reader",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/interactinenglishliteraturereader/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/interactinenglishliteraturereader/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA8",
               "datatype": "link",
@@ -583,7 +583,7 @@
             },
             {
               "chaptertitle": "Interact in English Main Course Book Communicative",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/interactinenglishmaincoursebookcommunicative/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/interactinenglishmaincoursebookcommunicative/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA9",
               "datatype": "link",
@@ -592,7 +592,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/mathematics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA10",
               "datatype": "link",
@@ -601,7 +601,7 @@
             },
             {
               "chaptertitle": "Mathematics Lab Manual",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/mathematicslabmanual/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/mathematicslabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA11",
               "datatype": "link",
@@ -610,7 +610,7 @@
             },
             {
               "chaptertitle": "Practice Book Maths CBSE",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/practicebookmathscbse/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/practicebookmathscbse/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA12",
               "datatype": "link",
@@ -619,7 +619,7 @@
             },
             {
               "chaptertitle": "Practice Book Science CBSE",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/practicebooksciencecbse/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/practicebooksciencecbse/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA13",
               "datatype": "link",
@@ -628,7 +628,7 @@
             },
             {
               "chaptertitle": "Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/science/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/science/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA14",
               "datatype": "link",
@@ -637,7 +637,7 @@
             },
             {
               "chaptertitle": "Science Lab Manual",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/sciencelabmanual/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/sciencelabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA15",
               "datatype": "link",
@@ -646,7 +646,7 @@
             },
             {
               "chaptertitle": "The Diary of a Young Girl",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/thediaryofayounggirl/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/thediaryofayounggirl/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA16",
               "datatype": "link",
@@ -655,7 +655,7 @@
             },
             {
               "chaptertitle": "The Story of My Life Novel",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/thestoryofmylifenovel/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/thestoryofmylifenovel/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA17",
               "datatype": "link",
@@ -664,7 +664,7 @@
             },
             {
               "chaptertitle": "Understanding Economic Development",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/understandingeconomicdevelopment/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/understandingeconomicdevelopment/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA18",
               "datatype": "link",
@@ -673,7 +673,7 @@
             },
             {
               "chaptertitle": "Words and Expressions 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class10/wordsandexpressions2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class10/wordsandexpressions2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA19",
               "datatype": "link",
@@ -690,7 +690,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 11 An Introduction to Indian Art Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/anintroductiontoindianartpart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/anintroductiontoindianartpart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA20",
               "datatype": "link",
@@ -699,7 +699,7 @@
             },
             {
               "chaptertitle": "Class 11 Applied Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/appliedmathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/appliedmathematics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA21",
               "datatype": "link",
@@ -708,7 +708,7 @@
             },
             {
               "chaptertitle": "Class 11 Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA22",
               "datatype": "link",
@@ -717,7 +717,7 @@
             },
             {
               "chaptertitle": "Class 11 Biotechnology",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/biotechnology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/biotechnology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA23",
               "datatype": "link",
@@ -726,7 +726,7 @@
             },
             {
               "chaptertitle": "Class 11 Business Studies",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/businessstudies/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/businessstudies/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA24",
               "datatype": "link",
@@ -735,7 +735,7 @@
             },
             {
               "chaptertitle": "Class 11 Chemistry Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/chemistrypart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/chemistrypart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA25",
               "datatype": "link",
@@ -744,7 +744,7 @@
             },
             {
               "chaptertitle": "Class 11 Chemistry Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/chemistrypart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/chemistrypart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA26",
               "datatype": "link",
@@ -753,7 +753,7 @@
             },
             {
               "chaptertitle": "Class 11 Computers and Communication Technology Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/computersandcommunicationtechnologypart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/computersandcommunicationtechnologypart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA27",
               "datatype": "link",
@@ -762,7 +762,7 @@
             },
             {
               "chaptertitle": "Class 11 Computers and Communication Technology Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/computersandcommunicationtechnologypart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/computersandcommunicationtechnologypart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA28",
               "datatype": "link",
@@ -771,7 +771,7 @@
             },
             {
               "chaptertitle": "Class 11 Computer Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/computerscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/computerscience/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA29",
               "datatype": "link",
@@ -780,7 +780,7 @@
             },
             {
               "chaptertitle": "Class 11 Design Thinking and Innovation",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/designthinkingandinnovation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/designthinkingandinnovation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA30",
               "datatype": "link",
@@ -789,7 +789,7 @@
             },
             {
               "chaptertitle": "Class 11 Exploring Craft Tradition of India",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/exploringcrafttraditionofindia/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/exploringcrafttraditionofindia/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA31",
               "datatype": "link",
@@ -798,7 +798,7 @@
             },
             {
               "chaptertitle": "Class 11 Financial Accounting Part I",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/financialaccountingparti/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/financialaccountingparti/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA32",
               "datatype": "link",
@@ -807,7 +807,7 @@
             },
             {
               "chaptertitle": "Class 11 Financial Accounting Part II",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/financialaccountingpartii/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/financialaccountingpartii/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA33",
               "datatype": "link",
@@ -816,7 +816,7 @@
             },
             {
               "chaptertitle": "Class 11 Fundamentals of Physical Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/fundamentalsofphysicalgeography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/fundamentalsofphysicalgeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA34",
               "datatype": "link",
@@ -825,7 +825,7 @@
             },
             {
               "chaptertitle": "Class 11 Health and Physical Education",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/healthandphysicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/healthandphysicaleducation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA35",
               "datatype": "link",
@@ -834,7 +834,7 @@
             },
             {
               "chaptertitle": "Class 11 Hornbill",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/hornbill/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/hornbill/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA36",
               "datatype": "link",
@@ -843,7 +843,7 @@
             },
             {
               "chaptertitle": "Class 11 Human Ecology and Family Sciences Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/humanecologyandfamilysciencespart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/humanecologyandfamilysciencespart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA37",
               "datatype": "link",
@@ -852,7 +852,7 @@
             },
             {
               "chaptertitle": "Class 11 Human Ecology and Family Sciences Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/humanecologyandfamilysciencespart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/humanecologyandfamilysciencespart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA38",
               "datatype": "link",
@@ -861,7 +861,7 @@
             },
             {
               "chaptertitle": "Class 11 India Constitution at Work",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/indiaconstitutionatwork/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/indiaconstitutionatwork/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA39",
               "datatype": "link",
@@ -870,7 +870,7 @@
             },
             {
               "chaptertitle": "Class 11 Indian Economic Development",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/indianeconomicdevelopment/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/indianeconomicdevelopment/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA40",
               "datatype": "link",
@@ -879,7 +879,7 @@
             },
             {
               "chaptertitle": "Class 11 India Physical Environment",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/indiaphysicalenvironment/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/indiaphysicalenvironment/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA41",
               "datatype": "link",
@@ -888,7 +888,7 @@
             },
             {
               "chaptertitle": "Class 11 Informatics Practices",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/informaticspractices/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/informaticspractices/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA42",
               "datatype": "link",
@@ -897,7 +897,7 @@
             },
             {
               "chaptertitle": "Class 11 Introducing Sociology",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/introducingsociology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/introducingsociology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA43",
               "datatype": "link",
@@ -906,7 +906,7 @@
             },
             {
               "chaptertitle": "Class 11 Living Craft Tradition of India",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/livingcrafttraditionofindia/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/livingcrafttraditionofindia/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA44",
               "datatype": "link",
@@ -915,7 +915,7 @@
             },
             {
               "chaptertitle": "Class 11 Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/mathematics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA45",
               "datatype": "link",
@@ -924,7 +924,7 @@
             },
             {
               "chaptertitle": "Class 11 Physical Education",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/physicaleducation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA46",
               "datatype": "link",
@@ -933,7 +933,7 @@
             },
             {
               "chaptertitle": "Class 11 Physical Education CBSE",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/physicaleducationcbse/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/physicaleducationcbse/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA47",
               "datatype": "link",
@@ -942,7 +942,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/physicspart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/physicspart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA48",
               "datatype": "link",
@@ -951,7 +951,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/physicspart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/physicspart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA49",
               "datatype": "link",
@@ -960,7 +960,7 @@
             },
             {
               "chaptertitle": "Class 11 Political Theory",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/politicaltheory/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/politicaltheory/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA50",
               "datatype": "link",
@@ -969,7 +969,7 @@
             },
             {
               "chaptertitle": "Class 11 Practical Work in Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/practicalworkingeography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/practicalworkingeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA51",
               "datatype": "link",
@@ -978,7 +978,7 @@
             },
             {
               "chaptertitle": "Class 11 Psychology",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/psychology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/psychology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA52",
               "datatype": "link",
@@ -987,7 +987,7 @@
             },
             {
               "chaptertitle": "Class 11 Srijan Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/srijanpart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/srijanpart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA53",
               "datatype": "link",
@@ -996,7 +996,7 @@
             },
             {
               "chaptertitle": "Class 11 Statistics for Economics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/statisticsforeconomics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/statisticsforeconomics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA54",
               "datatype": "link",
@@ -1005,7 +1005,7 @@
             },
             {
               "chaptertitle": "Class 11 Themes in World History",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/themesinworldhistory/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/themesinworldhistory/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA55",
               "datatype": "link",
@@ -1014,7 +1014,7 @@
             },
             {
               "chaptertitle": "Class 11 The Story of Graphic Design",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/thestoryofgraphicdesign/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/thestoryofgraphicdesign/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA56",
               "datatype": "link",
@@ -1023,7 +1023,7 @@
             },
             {
               "chaptertitle": "Class 11 Understanding Society",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/understandingsociety/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/understandingsociety/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA57",
               "datatype": "link",
@@ -1032,7 +1032,7 @@
             },
             {
               "chaptertitle": "Class 11 Woven Words",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class11/wovenwords/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class11/wovenwords/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA58",
               "datatype": "link",
@@ -1049,7 +1049,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 12 Accountancy Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/accountancypart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/accountancypart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA59",
               "datatype": "link",
@@ -1058,7 +1058,7 @@
             },
             {
               "chaptertitle": "Class 12 Accountancy Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/accountancypart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/accountancypart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA60",
               "datatype": "link",
@@ -1067,7 +1067,7 @@
             },
             {
               "chaptertitle": "Class 12 An Introduction to Indian Art",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/anintroductiontoindianart/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/anintroductiontoindianart/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA61",
               "datatype": "link",
@@ -1076,7 +1076,7 @@
             },
             {
               "chaptertitle": "Class 12 Applied Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/appliedmathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/appliedmathematics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA62",
               "datatype": "link",
@@ -1085,7 +1085,7 @@
             },
             {
               "chaptertitle": "Class 12 Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA63",
               "datatype": "link",
@@ -1094,7 +1094,7 @@
             },
             {
               "chaptertitle": "Class 12 Biology Lab Manual",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/biologylabmanual/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/biologylabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA64",
               "datatype": "link",
@@ -1103,7 +1103,7 @@
             },
             {
               "chaptertitle": "Class 12 Business Studies Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/businessstudiespart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/businessstudiespart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA65",
               "datatype": "link",
@@ -1112,7 +1112,7 @@
             },
             {
               "chaptertitle": "Class 12 Business Studies Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/businessstudiespart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/businessstudiespart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA66",
               "datatype": "link",
@@ -1121,7 +1121,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Lab Manual",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/chemistrylabmanual/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/chemistrylabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA67",
               "datatype": "link",
@@ -1130,7 +1130,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Part I",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/chemistryparti/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/chemistryparti/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA68",
               "datatype": "link",
@@ -1139,7 +1139,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Part II",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/chemistrypartii/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/chemistrypartii/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA69",
               "datatype": "link",
@@ -1148,7 +1148,7 @@
             },
             {
               "chaptertitle": "Class 12 Computerised Accounting System",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/computerisedaccountingsystem/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/computerisedaccountingsystem/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA70",
               "datatype": "link",
@@ -1157,7 +1157,7 @@
             },
             {
               "chaptertitle": "Class 12 Computer Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/computerscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/computerscience/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA71",
               "datatype": "link",
@@ -1166,7 +1166,7 @@
             },
             {
               "chaptertitle": "Class 12 Contemporary World Politics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/contemporaryworldpolitics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/contemporaryworldpolitics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA72",
               "datatype": "link",
@@ -1175,7 +1175,7 @@
             },
             {
               "chaptertitle": "Class 12 Craft Tradition of India",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/crafttraditionofindia/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/crafttraditionofindia/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA73",
               "datatype": "link",
@@ -1184,7 +1184,7 @@
             },
             {
               "chaptertitle": "Class 12 Design Thinking and Innovation",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/designthinkingandinnovation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/designthinkingandinnovation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA74",
               "datatype": "link",
@@ -1193,7 +1193,7 @@
             },
             {
               "chaptertitle": "Class 12 Exploring Craft Tradition of India Classes 11 and 12",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/exploringcrafttraditionofindiaclasses11and12/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/exploringcrafttraditionofindiaclasses11and12/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA75",
               "datatype": "link",
@@ -1202,7 +1202,7 @@
             },
             {
               "chaptertitle": "Class 12 Flamingo",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/flamingo/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/flamingo/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA76",
               "datatype": "link",
@@ -1211,7 +1211,7 @@
             },
             {
               "chaptertitle": "Class 12 Fundamentals of Human Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/fundamentalsofhumangeography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/fundamentalsofhumangeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA77",
               "datatype": "link",
@@ -1220,7 +1220,7 @@
             },
             {
               "chaptertitle": "Class 12 Human Ecology and Family Sciences Part I",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/humanecologyandfamilysciencesparti/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/humanecologyandfamilysciencesparti/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA78",
               "datatype": "link",
@@ -1229,7 +1229,7 @@
             },
             {
               "chaptertitle": "Class 12 Human Ecology and Family Sciences Part II",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/humanecologyandfamilysciencespartii/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/humanecologyandfamilysciencespartii/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA79",
               "datatype": "link",
@@ -1238,7 +1238,7 @@
             },
             {
               "chaptertitle": "Class 12 Indian Society",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/indiansociety/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/indiansociety/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA80",
               "datatype": "link",
@@ -1247,7 +1247,7 @@
             },
             {
               "chaptertitle": "Class 12 India People and Economy",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/indiapeopleandeconomy/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/indiapeopleandeconomy/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA81",
               "datatype": "link",
@@ -1256,7 +1256,7 @@
             },
             {
               "chaptertitle": "Class 12 Informatics Practices",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/informaticspractices/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/informaticspractices/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA82",
               "datatype": "link",
@@ -1265,7 +1265,7 @@
             },
             {
               "chaptertitle": "Class 12 Introductory Macroeconomics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/introductorymacroeconomics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/introductorymacroeconomics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA83",
               "datatype": "link",
@@ -1274,7 +1274,7 @@
             },
             {
               "chaptertitle": "Class 12 Introductory Microeconomics",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/introductorymicroeconomics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/introductorymicroeconomics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA84",
               "datatype": "link",
@@ -1283,7 +1283,7 @@
             },
             {
               "chaptertitle": "Class 12 Kaleidoscope",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/kaleidoscope/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/kaleidoscope/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA85",
               "datatype": "link",
@@ -1292,7 +1292,7 @@
             },
             {
               "chaptertitle": "Class 12 Legal Studies Revised",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/legalstudiesrevised/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/legalstudiesrevised/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA86",
               "datatype": "link",
@@ -1301,7 +1301,7 @@
             },
             {
               "chaptertitle": "Class 12 Mathematics Lab Manual",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/mathematicslabmanual/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/mathematicslabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA87",
               "datatype": "link",
@@ -1310,7 +1310,7 @@
             },
             {
               "chaptertitle": "Class 12 Mathematics Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/mathematicspart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/mathematicspart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA88",
               "datatype": "link",
@@ -1319,7 +1319,7 @@
             },
             {
               "chaptertitle": "Class 12 Mathematics Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/mathematicspart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/mathematicspart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA89",
               "datatype": "link",
@@ -1328,7 +1328,7 @@
             },
             {
               "chaptertitle": "Class 12 New Age Graphics Design",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/newagegraphicsdesign/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/newagegraphicsdesign/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA90",
               "datatype": "link",
@@ -1337,7 +1337,7 @@
             },
             {
               "chaptertitle": "Class 12 Physical Education",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/physicaleducation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA91",
               "datatype": "link",
@@ -1346,7 +1346,7 @@
             },
             {
               "chaptertitle": "Class 12 Physical Education Revised Edition",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/physicaleducationrevisededition/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/physicaleducationrevisededition/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA92",
               "datatype": "link",
@@ -1355,7 +1355,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Lab Manual",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/physicslabmanual/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/physicslabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA93",
               "datatype": "link",
@@ -1364,7 +1364,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/physicspart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/physicspart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA94",
               "datatype": "link",
@@ -1373,7 +1373,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/physicspart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/physicspart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA95",
               "datatype": "link",
@@ -1382,7 +1382,7 @@
             },
             {
               "chaptertitle": "Class 12 Political Science Part II",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/politicalsciencepartii/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/politicalsciencepartii/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA96",
               "datatype": "link",
@@ -1391,7 +1391,7 @@
             },
             {
               "chaptertitle": "Class 12 Practical Work in Geography Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/practicalworkingeographypart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/practicalworkingeographypart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA97",
               "datatype": "link",
@@ -1400,7 +1400,7 @@
             },
             {
               "chaptertitle": "Class 12 Psychology",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/psychology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/psychology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA98",
               "datatype": "link",
@@ -1409,7 +1409,7 @@
             },
             {
               "chaptertitle": "Class 12 Silas Marner by George Eliot Novel",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/silasmarnerbygeorgeeliotnovel/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/silasmarnerbygeorgeeliotnovel/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA99",
               "datatype": "link",
@@ -1418,7 +1418,7 @@
             },
             {
               "chaptertitle": "Class 12 Social Change and Development in India",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/socialchangeanddevelopmentinindia/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/socialchangeanddevelopmentinindia/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA100",
               "datatype": "link",
@@ -1427,7 +1427,7 @@
             },
             {
               "chaptertitle": "Class 12 Srijan Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/srijanpart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/srijanpart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA101",
               "datatype": "link",
@@ -1436,7 +1436,7 @@
             },
             {
               "chaptertitle": "Class 12 The Hound of the Baskervilles by Arthur Conan Doyle Novel",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/thehoundofthebaskervillesbyarthurconandoylenovel/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/thehoundofthebaskervillesbyarthurconandoylenovel/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA102",
               "datatype": "link",
@@ -1445,7 +1445,7 @@
             },
             {
               "chaptertitle": "Class 12 The Invisible Man by H G Wells Novel",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/theinvisiblemanbyhgwellsnovel/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/theinvisiblemanbyhgwellsnovel/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA103",
               "datatype": "link",
@@ -1454,7 +1454,7 @@
             },
             {
               "chaptertitle": "Class 12 Themes in Indian History Part 1",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/themesinindianhistorypart1/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/themesinindianhistorypart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA104",
               "datatype": "link",
@@ -1463,7 +1463,7 @@
             },
             {
               "chaptertitle": "Class 12 Themes in Indian History Part 2",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/themesinindianhistorypart2/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/themesinindianhistorypart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA105",
               "datatype": "link",
@@ -1472,7 +1472,7 @@
             },
             {
               "chaptertitle": "Class 12 Themes in Indian History Part 3",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/themesinindianhistorypart3/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/themesinindianhistorypart3/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA106",
               "datatype": "link",
@@ -1481,7 +1481,7 @@
             },
             {
               "chaptertitle": "Class 12 Vistas",
-              "chapterpath": "examsnetdata/gdrive/ncert/books/class12/vistas/",
+              "chapterpath": "examsnetapp/gdrive/ncert/books/class12/vistas/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA107",
               "datatype": "link",
@@ -1505,7 +1505,7 @@
           "chapters": [
             {
               "chaptertitle": "Abhyasvan Bhavah",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/abhyasvanbhavah/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/abhyasvanbhavah/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
@@ -1514,7 +1514,7 @@
             },
             {
               "chaptertitle": "English",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/english/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/english/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA1",
               "datatype": "link",
@@ -1523,7 +1523,7 @@
             },
             {
               "chaptertitle": "First Flight",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/firstflight/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/firstflight/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA2",
               "datatype": "link",
@@ -1532,7 +1532,7 @@
             },
             {
               "chaptertitle": "Footprints Without Feet",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/footprintswithoutfeet/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/footprintswithoutfeet/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA3",
               "datatype": "link",
@@ -1541,7 +1541,7 @@
             },
             {
               "chaptertitle": "Foundation of Information Technology",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/foundationofinformationtechnology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/foundationofinformationtechnology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA4",
               "datatype": "link",
@@ -1550,7 +1550,7 @@
             },
             {
               "chaptertitle": "Hindi",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/hindi/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/hindi/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA5",
               "datatype": "link",
@@ -1559,7 +1559,7 @@
             },
             {
               "chaptertitle": "Hindi Kritika",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/hindikritika/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/hindikritika/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA6",
               "datatype": "link",
@@ -1568,7 +1568,7 @@
             },
             {
               "chaptertitle": "Hindi Kshitiz",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/hindikshitiz/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/hindikshitiz/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA7",
               "datatype": "link",
@@ -1577,7 +1577,7 @@
             },
             {
               "chaptertitle": "Manika",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/manika/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/manika/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA8",
               "datatype": "link",
@@ -1586,7 +1586,7 @@
             },
             {
               "chaptertitle": "Maths",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/maths/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/maths/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA9",
               "datatype": "link",
@@ -1595,7 +1595,7 @@
             },
             {
               "chaptertitle": "Maths Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/mathsexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/mathsexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA10",
               "datatype": "link",
@@ -1604,7 +1604,7 @@
             },
             {
               "chaptertitle": "Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/science/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/science/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA11",
               "datatype": "link",
@@ -1613,7 +1613,7 @@
             },
             {
               "chaptertitle": "Science Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/scienceexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/scienceexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA12",
               "datatype": "link",
@@ -1622,7 +1622,7 @@
             },
             {
               "chaptertitle": "Shemushi",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/shemushi/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/shemushi/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA13",
               "datatype": "link",
@@ -1631,7 +1631,7 @@
             },
             {
               "chaptertitle": "Social Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/socialscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/socialscience/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA14",
               "datatype": "link",
@@ -1640,7 +1640,7 @@
             },
             {
               "chaptertitle": "Words and Expressions",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class10/wordsandexpressions/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/wordsandexpressions/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA15",
               "datatype": "link",
@@ -1657,7 +1657,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 11 Accountancy",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/accountancy/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/accountancy/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA16",
               "datatype": "link",
@@ -1666,7 +1666,7 @@
             },
             {
               "chaptertitle": "Class 11 Antra",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/antra/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/antra/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA17",
               "datatype": "link",
@@ -1675,7 +1675,7 @@
             },
             {
               "chaptertitle": "Class 11 Antral",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/antral/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/antral/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA18",
               "datatype": "link",
@@ -1684,7 +1684,7 @@
             },
             {
               "chaptertitle": "Class 11 Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA19",
               "datatype": "link",
@@ -1693,7 +1693,7 @@
             },
             {
               "chaptertitle": "Class 11 Biology Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/biologyexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/biologyexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA20",
               "datatype": "link",
@@ -1702,7 +1702,7 @@
             },
             {
               "chaptertitle": "Class 11 Business Studies",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/businessstudies/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/businessstudies/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA21",
               "datatype": "link",
@@ -1711,7 +1711,7 @@
             },
             {
               "chaptertitle": "Class 11 Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA22",
               "datatype": "link",
@@ -1720,7 +1720,7 @@
             },
             {
               "chaptertitle": "Class 11 Chemistry Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/chemistryexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/chemistryexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA23",
               "datatype": "link",
@@ -1729,7 +1729,7 @@
             },
             {
               "chaptertitle": "Class 11 Computer Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/computerscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/computerscience/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA24",
               "datatype": "link",
@@ -1738,7 +1738,7 @@
             },
             {
               "chaptertitle": "Class 11 Economics",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/economics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/economics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA25",
               "datatype": "link",
@@ -1747,7 +1747,7 @@
             },
             {
               "chaptertitle": "Class 11 English Hornbill",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/englishhornbill/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishhornbill/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA26",
               "datatype": "link",
@@ -1756,7 +1756,7 @@
             },
             {
               "chaptertitle": "Class 11 English Snapshots",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/englishsnapshots/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishsnapshots/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA27",
               "datatype": "link",
@@ -1765,7 +1765,7 @@
             },
             {
               "chaptertitle": "Class 11 English Woven Words Essays",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/englishwovenwordsessays/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishwovenwordsessays/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA28",
               "datatype": "link",
@@ -1774,7 +1774,7 @@
             },
             {
               "chaptertitle": "Class 11 English Woven Words Poetry",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/englishwovenwordspoetry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishwovenwordspoetry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA29",
               "datatype": "link",
@@ -1783,7 +1783,7 @@
             },
             {
               "chaptertitle": "Class 11 English Woven Words Short Stories",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/englishwovenwordsshortstories/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishwovenwordsshortstories/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA30",
               "datatype": "link",
@@ -1792,7 +1792,7 @@
             },
             {
               "chaptertitle": "Class 11 Entrepreneurship",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/entrepreneurship/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/entrepreneurship/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA31",
               "datatype": "link",
@@ -1801,7 +1801,7 @@
             },
             {
               "chaptertitle": "Class 11 Financial Accounting",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/financialaccounting/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/financialaccounting/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA32",
               "datatype": "link",
@@ -1810,7 +1810,7 @@
             },
             {
               "chaptertitle": "Class 11 Fundamentals of Physical Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/fundamentalsofphysicalgeography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/fundamentalsofphysicalgeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA33",
               "datatype": "link",
@@ -1819,7 +1819,7 @@
             },
             {
               "chaptertitle": "Class 11 Hindi Aroh Bhag I",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/hindiarohbhagi/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/hindiarohbhagi/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA34",
               "datatype": "link",
@@ -1828,7 +1828,7 @@
             },
             {
               "chaptertitle": "Class 11 Hindi Vitan Bhag I",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/hindivitanbhagi/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/hindivitanbhagi/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA35",
               "datatype": "link",
@@ -1837,7 +1837,7 @@
             },
             {
               "chaptertitle": "Class 11 History",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/history/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/history/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA36",
               "datatype": "link",
@@ -1846,7 +1846,7 @@
             },
             {
               "chaptertitle": "Class 11 India Constitution at Work",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/indiaconstitutionatwork/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/indiaconstitutionatwork/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA37",
               "datatype": "link",
@@ -1855,7 +1855,7 @@
             },
             {
               "chaptertitle": "Class 11 Indian Economic Development",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/indianeconomicdevelopment/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/indianeconomicdevelopment/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA38",
               "datatype": "link",
@@ -1864,7 +1864,7 @@
             },
             {
               "chaptertitle": "Class 11 India Physical Environment",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/indiaphysicalenvironment/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/indiaphysicalenvironment/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA39",
               "datatype": "link",
@@ -1873,7 +1873,7 @@
             },
             {
               "chaptertitle": "Class 11 Maths",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/maths/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/maths/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA40",
               "datatype": "link",
@@ -1882,7 +1882,7 @@
             },
             {
               "chaptertitle": "Class 11 Maths Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/mathsexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/mathsexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA41",
               "datatype": "link",
@@ -1891,7 +1891,7 @@
             },
             {
               "chaptertitle": "Class 11 Physical Education",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/physicaleducation/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA42",
               "datatype": "link",
@@ -1900,7 +1900,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA43",
               "datatype": "link",
@@ -1909,7 +1909,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/physicsexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/physicsexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA44",
               "datatype": "link",
@@ -1918,7 +1918,7 @@
             },
             {
               "chaptertitle": "Class 11 Political Theory",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/politicaltheory/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/politicaltheory/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA45",
               "datatype": "link",
@@ -1927,7 +1927,7 @@
             },
             {
               "chaptertitle": "Class 11 Practical Work in Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/practicalworkingeography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/practicalworkingeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA46",
               "datatype": "link",
@@ -1936,7 +1936,7 @@
             },
             {
               "chaptertitle": "Class 11 Psychology",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/psychology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/psychology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA47",
               "datatype": "link",
@@ -1945,7 +1945,7 @@
             },
             {
               "chaptertitle": "Class 11 Sociology",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/sociology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/sociology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA48",
               "datatype": "link",
@@ -1954,7 +1954,7 @@
             },
             {
               "chaptertitle": "Class 11 Urdu",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class11/urdu/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/urdu/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA49",
               "datatype": "link",
@@ -1971,7 +1971,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 12 Biology Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/biologyexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/biologyexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA50",
               "datatype": "link",
@@ -1980,7 +1980,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA51",
               "datatype": "link",
@@ -1989,7 +1989,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/chemistryexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/chemistryexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA52",
               "datatype": "link",
@@ -1998,7 +1998,7 @@
             },
             {
               "chaptertitle": "Class 12 Computer Science C",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/computersciencec/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/computersciencec/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA53",
               "datatype": "link",
@@ -2007,7 +2007,7 @@
             },
             {
               "chaptertitle": "Class 12 Computer Science Python",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/computersciencepython/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/computersciencepython/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA54",
               "datatype": "link",
@@ -2016,7 +2016,7 @@
             },
             {
               "chaptertitle": "Class 12 English Flamingo",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/englishflamingo/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/englishflamingo/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA55",
               "datatype": "link",
@@ -2025,7 +2025,7 @@
             },
             {
               "chaptertitle": "Class 12 English Vistas",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/englishvistas/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/englishvistas/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA56",
               "datatype": "link",
@@ -2034,7 +2034,7 @@
             },
             {
               "chaptertitle": "Class 12 Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/geography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/geography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA57",
               "datatype": "link",
@@ -2043,7 +2043,7 @@
             },
             {
               "chaptertitle": "Class 12 Geography Practical",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/geographypractical/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/geographypractical/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA58",
               "datatype": "link",
@@ -2052,7 +2052,7 @@
             },
             {
               "chaptertitle": "Class 12 Hindi Antra",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/hindiantra/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindiantra/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA59",
               "datatype": "link",
@@ -2061,7 +2061,7 @@
             },
             {
               "chaptertitle": "Class 12 Hindi Antral",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/hindiantral/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindiantral/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA60",
               "datatype": "link",
@@ -2070,7 +2070,7 @@
             },
             {
               "chaptertitle": "Class 12 Hindi Aroh",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/hindiaroh/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindiaroh/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA61",
               "datatype": "link",
@@ -2079,7 +2079,7 @@
             },
             {
               "chaptertitle": "Class 12 Hindi Vitan",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/hindivitan/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindivitan/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA62",
               "datatype": "link",
@@ -2088,7 +2088,7 @@
             },
             {
               "chaptertitle": "Class 12 Kaleidoscope",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/kaleidoscope/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/kaleidoscope/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA63",
               "datatype": "link",
@@ -2097,7 +2097,7 @@
             },
             {
               "chaptertitle": "Class 12 Macroeconomics",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/macroeconomics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/macroeconomics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA64",
               "datatype": "link",
@@ -2106,7 +2106,7 @@
             },
             {
               "chaptertitle": "Class 12 Maths",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/maths/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/maths/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA65",
               "datatype": "link",
@@ -2115,7 +2115,7 @@
             },
             {
               "chaptertitle": "Class 12 Maths Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/mathsexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/mathsexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA66",
               "datatype": "link",
@@ -2124,7 +2124,7 @@
             },
             {
               "chaptertitle": "Class 12 Microeconomics",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/microeconomics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/microeconomics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA67",
               "datatype": "link",
@@ -2133,7 +2133,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA68",
               "datatype": "link",
@@ -2142,7 +2142,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Exemplar",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/physicsexemplar/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/physicsexemplar/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA69",
               "datatype": "link",
@@ -2151,7 +2151,7 @@
             },
             {
               "chaptertitle": "Class 12 Political Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/politicalscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/politicalscience/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA70",
               "datatype": "link",
@@ -2160,7 +2160,7 @@
             },
             {
               "chaptertitle": "Class 12 Psychology",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/psychology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/psychology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA71",
               "datatype": "link",
@@ -2169,7 +2169,7 @@
             },
             {
               "chaptertitle": "Class 12 Sanskrit",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/sanskrit/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/sanskrit/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA72",
               "datatype": "link",
@@ -2178,7 +2178,7 @@
             },
             {
               "chaptertitle": "Class 12 Sociology",
-              "chapterpath": "examsnetdata/gdrive/ncert/solutions/class12/sociology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/sociology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA73",
               "datatype": "link",
@@ -2201,7 +2201,7 @@
           "chapters": [
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class10/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class10/mathematics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA0",
               "datatype": "link",
@@ -2210,7 +2210,7 @@
             },
             {
               "chaptertitle": "Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class10/science/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class10/science/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA1",
               "datatype": "link",
@@ -2226,7 +2226,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class11/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA2",
               "datatype": "link",
@@ -2235,7 +2235,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class11/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA3",
               "datatype": "link",
@@ -2244,7 +2244,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class11/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/mathematics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA4",
               "datatype": "link",
@@ -2253,7 +2253,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class11/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA5",
               "datatype": "link",
@@ -2269,7 +2269,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA6",
               "datatype": "link",
@@ -2278,7 +2278,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA7",
               "datatype": "link",
@@ -2287,7 +2287,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class12/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/mathematics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA8",
               "datatype": "link",
@@ -2296,7 +2296,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplar/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA9",
               "datatype": "link",
@@ -2319,7 +2319,7 @@
           "chapters": [
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class10/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class10/mathematics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA0",
               "datatype": "link",
@@ -2328,7 +2328,7 @@
             },
             {
               "chaptertitle": "Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class10/science/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class10/science/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA1",
               "datatype": "link",
@@ -2344,7 +2344,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class11/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA2",
               "datatype": "link",
@@ -2353,7 +2353,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class11/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA3",
               "datatype": "link",
@@ -2362,7 +2362,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class11/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/mathematics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA4",
               "datatype": "link",
@@ -2371,7 +2371,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class11/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA5",
               "datatype": "link",
@@ -2387,7 +2387,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA6",
               "datatype": "link",
@@ -2396,7 +2396,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA7",
               "datatype": "link",
@@ -2405,7 +2405,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class12/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/mathematics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA8",
               "datatype": "link",
@@ -2414,7 +2414,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/exemplarsolutions/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA9",
               "datatype": "link",
@@ -2437,7 +2437,7 @@
           "chapters": [
             {
               "chaptertitle": "English Communicative",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class10/englishcommunicative/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class10/englishcommunicative/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT0",
               "datatype": "link",
@@ -2446,7 +2446,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class10/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class10/mathematics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT1",
               "datatype": "link",
@@ -2455,7 +2455,7 @@
             },
             {
               "chaptertitle": "Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class10/science/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class10/science/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT2",
               "datatype": "link",
@@ -2464,7 +2464,7 @@
             },
             {
               "chaptertitle": "Social Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class10/socialscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class10/socialscience/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT3",
               "datatype": "link",
@@ -2480,7 +2480,7 @@
           "chapters": [
             {
               "chaptertitle": "Accountancy",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/accountancy/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/accountancy/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT4",
               "datatype": "link",
@@ -2489,7 +2489,7 @@
             },
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/biology/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT5",
               "datatype": "link",
@@ -2498,7 +2498,7 @@
             },
             {
               "chaptertitle": "Business Studies",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/businessstudies/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/businessstudies/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT6",
               "datatype": "link",
@@ -2507,7 +2507,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/chemistry/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT7",
               "datatype": "link",
@@ -2516,7 +2516,7 @@
             },
             {
               "chaptertitle": "Computer Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/computerscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/computerscience/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT8",
               "datatype": "link",
@@ -2525,7 +2525,7 @@
             },
             {
               "chaptertitle": "Economics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/economics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/economics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT9",
               "datatype": "link",
@@ -2534,7 +2534,7 @@
             },
             {
               "chaptertitle": "English",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/english/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/english/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT10",
               "datatype": "link",
@@ -2543,7 +2543,7 @@
             },
             {
               "chaptertitle": "Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/geography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/geography/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT11",
               "datatype": "link",
@@ -2552,7 +2552,7 @@
             },
             {
               "chaptertitle": "History",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/history/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/history/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT12",
               "datatype": "link",
@@ -2561,7 +2561,7 @@
             },
             {
               "chaptertitle": "Indian Economic Development",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/indianeconomicdevelopment/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/indianeconomicdevelopment/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT13",
               "datatype": "link",
@@ -2570,7 +2570,7 @@
             },
             {
               "chaptertitle": "Informatics Practices",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/informaticspractices/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/informaticspractices/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT14",
               "datatype": "link",
@@ -2579,7 +2579,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/mathematics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT15",
               "datatype": "link",
@@ -2588,7 +2588,7 @@
             },
             {
               "chaptertitle": "Physical Education",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/physicaleducation/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT16",
               "datatype": "link",
@@ -2597,7 +2597,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/physics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT17",
               "datatype": "link",
@@ -2606,7 +2606,7 @@
             },
             {
               "chaptertitle": "Political Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/politicalscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/politicalscience/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT18",
               "datatype": "link",
@@ -2615,7 +2615,7 @@
             },
             {
               "chaptertitle": "Psychology",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/psychology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/psychology/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT19",
               "datatype": "link",
@@ -2624,7 +2624,7 @@
             },
             {
               "chaptertitle": "Sociology",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/sociology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/sociology/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT20",
               "datatype": "link",
@@ -2633,7 +2633,7 @@
             },
             {
               "chaptertitle": "Statistics For Economics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class11/statisticsforeconomics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class11/statisticsforeconomics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT21",
               "datatype": "link",
@@ -2649,7 +2649,7 @@
           "chapters": [
             {
               "chaptertitle": "Accountancy",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/accountancy/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/accountancy/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT22",
               "datatype": "link",
@@ -2658,7 +2658,7 @@
             },
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/biology/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT23",
               "datatype": "link",
@@ -2667,7 +2667,7 @@
             },
             {
               "chaptertitle": "Business Studies",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/businessstudies/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/businessstudies/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT24",
               "datatype": "link",
@@ -2676,7 +2676,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/chemistry/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT25",
               "datatype": "link",
@@ -2685,7 +2685,7 @@
             },
             {
               "chaptertitle": "Computer Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/computerscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/computerscience/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT26",
               "datatype": "link",
@@ -2694,7 +2694,7 @@
             },
             {
               "chaptertitle": "Economics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/economics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/economics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT27",
               "datatype": "link",
@@ -2703,7 +2703,7 @@
             },
             {
               "chaptertitle": "English Core",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/englishcore/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/englishcore/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT28",
               "datatype": "link",
@@ -2712,7 +2712,7 @@
             },
             {
               "chaptertitle": "Geography",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/geography/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/geography/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT29",
               "datatype": "link",
@@ -2721,7 +2721,7 @@
             },
             {
               "chaptertitle": "History",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/history/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/history/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT30",
               "datatype": "link",
@@ -2730,7 +2730,7 @@
             },
             {
               "chaptertitle": "Indian Economics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/indianeconomics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/indianeconomics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT31",
               "datatype": "link",
@@ -2739,7 +2739,7 @@
             },
             {
               "chaptertitle": "Information Practice",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/informationpractice/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/informationpractice/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT32",
               "datatype": "link",
@@ -2748,7 +2748,7 @@
             },
             {
               "chaptertitle": "Mathematics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/mathematics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT33",
               "datatype": "link",
@@ -2757,7 +2757,7 @@
             },
             {
               "chaptertitle": "Physical Education",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/physicaleducation/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT34",
               "datatype": "link",
@@ -2766,7 +2766,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/physics/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT35",
               "datatype": "link",
@@ -2775,7 +2775,7 @@
             },
             {
               "chaptertitle": "Political Science",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/politicalscience/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/politicalscience/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT36",
               "datatype": "link",
@@ -2784,7 +2784,7 @@
             },
             {
               "chaptertitle": "Psychology",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/psychology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/psychology/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "NOT37",
               "datatype": "link",
@@ -2793,7 +2793,7 @@
             },
             {
               "chaptertitle": "Sociology",
-              "chapterpath": "examsnetdata/gdrive/ncert/notes/class12/sociology/",
+              "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/sociology/",
               "clogo": "fa-solid fa-receipt",
               "savekey": "EXA38",
               "datatype": "link",

@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "AP EAPCET Previous Papers",
-            "chapterpath": "examsnetdata/engineering/apeamcetmed/",
+            "chapterpath": "examsnetapp/engineering/apeamcetmed/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",
@@ -20,7 +20,7 @@
           },
           {
             "chaptertitle": "TS EAPCET Previous Papers",
-            "chapterpath": "examsnetdata/engineering/tseamcetmed/",
+            "chapterpath": "examsnetapp/engineering/tseamcetmed/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA2",
             "datatype": "exams",
@@ -36,7 +36,7 @@
         "chapters": [
           {
             "chaptertitle": "AP & TS Model Papers",
-            "chapterpath": "examsnetdata/engineering/aptseamcetmedmodel/",
+            "chapterpath": "examsnetapp/engineering/aptseamcetmedmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA17",
             "datatype": "exams",

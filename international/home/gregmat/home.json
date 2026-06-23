@@ -14,7 +14,7 @@
           "chapters": [
             {
               "chaptertitle": "GMAT Practice Tests",
-              "chapterpath": "examsnetdata/international/gmat/",
+              "chapterpath": "examsnetapp/international/gmat/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "GMAT",
               "datatype": "exams",
@@ -29,7 +29,7 @@
             },
             {
               "chaptertitle": "GRE Practice Tests",
-              "chapterpath": "examsnetdata/international/gre/",
+              "chapterpath": "examsnetapp/international/gre/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "GRE",
               "datatype": "exams",

@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "CA Foundation Prev Tests",
-            "chapterpath": "examsnetdata/caexam/cafoundprev/",
+            "chapterpath": "examsnetapp/caexam/cafoundprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA4",
             "datatype": "exams",
@@ -47,7 +47,7 @@
           },
           {
             "chaptertitle": "CA Foundation By Chapter",
-            "chapterpath": "examsnetdata/caexam/cafoundchapter/math/",
+            "chapterpath": "examsnetapp/caexam/cafoundchapter/math/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA2",
             "datatype": "exams",
@@ -56,7 +56,7 @@
           },
           {
             "chaptertitle": "CA CPT Model Papers",
-            "chapterpath": "examsnetdata/caexam/cptmodel/",
+            "chapterpath": "examsnetapp/caexam/cptmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA0",
             "datatype": "exams",
@@ -65,7 +65,7 @@
           },
           {
             "chaptertitle": "CA CPT Previous Papers",
-            "chapterpath": "examsnetdata/caexam/cptprev/",
+            "chapterpath": "examsnetapp/caexam/cptprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",

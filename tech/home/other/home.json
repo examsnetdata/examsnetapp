@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "ITIL Certification Practice Tests",
-              "chapterpath": "examsnetdata/tech/itil/",
+              "chapterpath": "examsnetapp/tech/itil/",
               "clogo": "fa-solid fa-pen",
               "savekey": "ITIL",
               "datatype": "exams",

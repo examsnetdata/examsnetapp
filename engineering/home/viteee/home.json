@@ -17,7 +17,7 @@
           "chapters": [
             {
               "chaptertitle": "VITEEE Previous Papers",
-              "chapterpath": "examsnetdata/engineering/viteee/",
+              "chapterpath": "examsnetapp/engineering/viteee/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA5",
               "datatype": "exams",
@@ -43,7 +43,7 @@
           "chapters": [
             {
               "chaptertitle": "Math Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/math11/",
+              "chapterpath": "examsnetapp/notes/hb/math11/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -51,7 +51,7 @@
             },
             {
               "chaptertitle": "Math Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/math12/",
+              "chapterpath": "examsnetapp/notes/hb/math12/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -65,7 +65,7 @@
           "chapters": [
             {
               "chaptertitle": "Chemistry Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/chemistry11/",
+              "chapterpath": "examsnetapp/notes/hb/chemistry11/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -73,7 +73,7 @@
             },
             {
               "chaptertitle": "Chemistry Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/chemistry12/",
+              "chapterpath": "examsnetapp/notes/hb/chemistry12/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -87,7 +87,7 @@
           "chapters": [
             {
               "chaptertitle": "Physics Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/physics11/",
+              "chapterpath": "examsnetapp/notes/hb/physics11/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -95,7 +95,7 @@
             },
             {
               "chaptertitle": "Physics Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/physics12/",
+              "chapterpath": "examsnetapp/notes/hb/physics12/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,

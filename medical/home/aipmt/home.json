@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "AIPMT Previous Papers",
-              "chapterpath": "examsnetdata/medical/aipmt/",
+              "chapterpath": "examsnetapp/medical/aipmt/",
               "clogo": "fa-solid fa-pen",
               "savekey": "AIPMT",
               "datatype": "exams",
@@ -44,7 +44,7 @@
           "chapters": [
             {
               "chaptertitle": "NEET Biology Class 11 Lecture",
-              "chapterpath": "examsnetdata/neet/youtube/class11biology/",
+              "chapterpath": "examsnetapp/neet/youtube/class11biology/",
               "clogo": "fa-brands fa-youtube",
               "savekey": "EXA0",
               "datatype": "link",
@@ -65,7 +65,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/biology11/",
+              "chapterpath": "examsnetapp/notes/hb/biology11/",
               "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,
@@ -73,7 +73,7 @@
             },
             {
               "chaptertitle": "Biology Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/biology12/",
+              "chapterpath": "examsnetapp/notes/hb/biology12/",
               "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,
@@ -87,7 +87,7 @@
           "chapters": [
             {
               "chaptertitle": "Chemistry Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/chemistry11/",
+              "chapterpath": "examsnetapp/notes/hb/chemistry11/",
               "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,
@@ -95,7 +95,7 @@
             },
             {
               "chaptertitle": "Chemistry Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/chemistry12/",
+              "chapterpath": "examsnetapp/notes/hb/chemistry12/",
               "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,
@@ -109,7 +109,7 @@
           "chapters": [
             {
               "chaptertitle": "Physics Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/physics11/",
+              "chapterpath": "examsnetapp/notes/hb/physics11/",
               "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,
@@ -117,7 +117,7 @@
             },
             {
               "chaptertitle": "Physics Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/physics12/",
+              "chapterpath": "examsnetapp/notes/hb/physics12/",
               "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,

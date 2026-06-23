@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "AP EAMCET Previous Papers",
-            "chapterpath": "examsnetdata/engineering/eamcet/",
+            "chapterpath": "examsnetapp/engineering/eamcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",
@@ -20,7 +20,7 @@
           },
           {
             "chaptertitle": "AP EAPCET Previous Papers",
-            "chapterpath": "examsnetdata/engineering/eapcet/",
+            "chapterpath": "examsnetapp/engineering/eapcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA2",
             "datatype": "exams",
@@ -35,7 +35,7 @@
         "chapters": [
           {
             "chaptertitle": "AP EAPCET Class 11 Math Questions",
-            "chapterpath": "examsnetdata/engineering/apeapcetchapters/math11/",
+            "chapterpath": "examsnetapp/engineering/apeapcetchapters/math11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP1M",
             "datatype": "exams",
@@ -44,7 +44,7 @@
           },
           {
             "chaptertitle": "AP EAPCET Class 12 Math Questions",
-            "chapterpath": "examsnetdata/engineering/apeapcetchapters/math12/",
+            "chapterpath": "examsnetapp/engineering/apeapcetchapters/math12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP2M",
             "datatype": "exams",
@@ -53,7 +53,7 @@
           },
           {
             "chaptertitle": "AP EAPCET Class 11 Chemistry Questions",
-            "chapterpath": "examsnetdata/engineering/apeapcetchapters/chemistry11/",
+            "chapterpath": "examsnetapp/engineering/apeapcetchapters/chemistry11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP1C",
             "datatype": "exams",
@@ -62,7 +62,7 @@
           },
           {
             "chaptertitle": "AP EAPCET Class 12 Chemistry Questions",
-            "chapterpath": "examsnetdata/engineering/apeapcetchapters/chemistry12/",
+            "chapterpath": "examsnetapp/engineering/apeapcetchapters/chemistry12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP2C",
             "datatype": "exams",
@@ -71,7 +71,7 @@
           },
           {
             "chaptertitle": "AP EAPCET Class 11 Physics Questions",
-            "chapterpath": "examsnetdata/engineering/apeapcetchapters/physics11/",
+            "chapterpath": "examsnetapp/engineering/apeapcetchapters/physics11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP1P",
             "datatype": "exams",
@@ -80,7 +80,7 @@
           },
           {
             "chaptertitle": "AP EAPCET Class 12 Physics Questions",
-            "chapterpath": "examsnetdata/engineering/apeapcetchapters/physics12/",
+            "chapterpath": "examsnetapp/engineering/apeapcetchapters/physics12/",
             "clogo": "fa-solid fa-user-pen",
             "savekey": "AP2P",
             "datatype": "exams",
@@ -96,7 +96,7 @@
         "chapters": [
           {
             "chaptertitle": "TS EAMCET Previous Papers",
-            "chapterpath": "examsnetdata/engineering/tseamcet/",
+            "chapterpath": "examsnetapp/engineering/tseamcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA17",
             "datatype": "exams",
@@ -111,7 +111,7 @@
         "chapters": [
           {
             "chaptertitle": "TG EAPCET Class 11 Math Questions",
-            "chapterpath": "examsnetdata/engineering/tgeapcetchapters/math11/",
+            "chapterpath": "examsnetapp/engineering/tgeapcetchapters/math11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG1M",
             "datatype": "exams",
@@ -120,7 +120,7 @@
           },
           {
             "chaptertitle": "TG EAPCET Class 12 Math Questions",
-            "chapterpath": "examsnetdata/engineering/tgeapcetchapters/math12/",
+            "chapterpath": "examsnetapp/engineering/tgeapcetchapters/math12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG2M",
             "datatype": "exams",
@@ -129,7 +129,7 @@
           },
           {
             "chaptertitle": "TG EAPCET Class 11 Chemistry Questions",
-            "chapterpath": "examsnetdata/engineering/tgeapcetchapters/chemistry11/",
+            "chapterpath": "examsnetapp/engineering/tgeapcetchapters/chemistry11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG1C",
             "datatype": "exams",
@@ -138,7 +138,7 @@
           },
           {
             "chaptertitle": "TG EAPCET Class 12 Chemistry Questions",
-            "chapterpath": "examsnetdata/engineering/tgeapcetchapters/chemistry12/",
+            "chapterpath": "examsnetapp/engineering/tgeapcetchapters/chemistry12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG2C",
             "datatype": "exams",
@@ -147,7 +147,7 @@
           },
           {
             "chaptertitle": "TG EAPCET Class 11 Physics Questions",
-            "chapterpath": "examsnetdata/engineering/tgeapcetchapters/physics11/",
+            "chapterpath": "examsnetapp/engineering/tgeapcetchapters/physics11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG1P",
             "datatype": "exams",
@@ -156,7 +156,7 @@
           },
           {
             "chaptertitle": "TG EAPCET Class 12 Physics Questions",
-            "chapterpath": "examsnetdata/engineering/tgeapcetchapters/physics12/",
+            "chapterpath": "examsnetapp/engineering/tgeapcetchapters/physics12/",
             "clogo": "fa-solid fa-user-pen",
             "savekey": "TG2P",
             "datatype": "exams",
@@ -172,7 +172,7 @@
         "chapters": [
           {
             "chaptertitle": "AP and TS EAMCET Model Papers",
-            "chapterpath": "examsnetdata/engineering/eamcetmd/",
+            "chapterpath": "examsnetapp/engineering/eamcetmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA4",
             "datatype": "exams",

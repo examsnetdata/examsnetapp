@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "SSC CGL Previous Papers",
-              "chapterpath": "examsnetdata/ssc/cglprev/",
+              "chapterpath": "examsnetapp/ssc/cglprev/",
               "clogo": "fa-solid fa-pen",
               "savekey": "CGL",
               "datatype": "exams",
@@ -31,7 +31,7 @@
             },
             {
               "chaptertitle": "SSC CGL Model Papers",
-              "chapterpath": "examsnetdata/ssc/cglmodel/",
+              "chapterpath": "examsnetapp/ssc/cglmodel/",
               "clogo": "fa-solid fa-pen",
               "savekey": "CGM",
               "datatype": "exams",
@@ -46,7 +46,7 @@
             },
             {
               "chaptertitle": "SSC CGL Tier 2 Papers",
-              "chapterpath": "examsnetdata/ssc/cgltier2/",
+              "chapterpath": "examsnetapp/ssc/cgltier2/",
               "clogo": "fa-solid fa-pen",
               "savekey": "CG2",
               "datatype": "exams",
@@ -75,7 +75,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/biology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
@@ -84,7 +84,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA1",
               "datatype": "link",
@@ -93,7 +93,7 @@
             },
             {
               "chaptertitle": "Environment Ecology",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/environmentecology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/environmentecology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA2",
               "datatype": "link",
@@ -102,7 +102,7 @@
             },
             {
               "chaptertitle": "History",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/history/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/history/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA3",
               "datatype": "link",
@@ -111,7 +111,7 @@
             },
             {
               "chaptertitle": "India and World Geography",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indiaandworldgeography/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indiaandworldgeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA4",
               "datatype": "link",
@@ -120,7 +120,7 @@
             },
             {
               "chaptertitle": "Indian Economy",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianeconomy/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianeconomy/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA5",
               "datatype": "link",
@@ -129,7 +129,7 @@
             },
             {
               "chaptertitle": "Indian Politics",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianpolitics/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianpolitics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA6",
               "datatype": "link",
@@ -138,7 +138,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/physics/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA7",
               "datatype": "link",
@@ -147,7 +147,7 @@
             },
             {
               "chaptertitle": "Science and Technology",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/scienceandtechnology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/scienceandtechnology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA8",
               "datatype": "link",

@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "UPSC NDA Previous Papers",
-              "chapterpath": "examsnetdata/upsc/nda/",
+              "chapterpath": "examsnetapp/upsc/nda/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA9",
               "datatype": "exams",
@@ -31,7 +31,7 @@
             },
             {
               "chaptertitle": "UPSC NDA Model Papers",
-              "chapterpath": "examsnetdata/upsc/ndamodel/",
+              "chapterpath": "examsnetapp/upsc/ndamodel/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA8",
               "datatype": "exams",
@@ -53,7 +53,7 @@
           "chapters": [
             {
               "chaptertitle": "NDA English Questions",
-              "chapterpath": "examsnetdata/upsc/ndachapter/english/",
+              "chapterpath": "examsnetapp/upsc/ndachapter/english/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA7",
               "datatype": "exams",
@@ -68,7 +68,7 @@
             },
             {
               "chaptertitle": "NDA General Science Questions",
-              "chapterpath": "examsnetdata/upsc/ndachapter/science/",
+              "chapterpath": "examsnetapp/upsc/ndachapter/science/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA9",
               "datatype": "exams",
@@ -83,7 +83,7 @@
             },
             {
               "chaptertitle": "NDA General Studies Questions",
-              "chapterpath": "examsnetdata/upsc/ndachapter/gs/",
+              "chapterpath": "examsnetapp/upsc/ndachapter/gs/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA9",
               "datatype": "exams",
@@ -98,7 +98,7 @@
             },
             {
               "chaptertitle": "NDA Math Questions",
-              "chapterpath": "examsnetdata/upsc/ndachapter/math/",
+              "chapterpath": "examsnetapp/upsc/ndachapter/math/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA8",
               "datatype": "exams",
@@ -128,7 +128,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/biology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
@@ -137,7 +137,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA1",
               "datatype": "link",
@@ -146,7 +146,7 @@
             },
             {
               "chaptertitle": "Environment Ecology",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/environmentecology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/environmentecology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA2",
               "datatype": "link",
@@ -155,7 +155,7 @@
             },
             {
               "chaptertitle": "History",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/history/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/history/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA3",
               "datatype": "link",
@@ -164,7 +164,7 @@
             },
             {
               "chaptertitle": "India and World Geography",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indiaandworldgeography/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indiaandworldgeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA4",
               "datatype": "link",
@@ -173,7 +173,7 @@
             },
             {
               "chaptertitle": "Indian Economy",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianeconomy/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianeconomy/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA5",
               "datatype": "link",
@@ -182,7 +182,7 @@
             },
             {
               "chaptertitle": "Indian Politics",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianpolitics/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianpolitics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA6",
               "datatype": "link",
@@ -191,7 +191,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/physics/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA7",
               "datatype": "link",
@@ -200,7 +200,7 @@
             },
             {
               "chaptertitle": "Science and Technology",
-              "chapterpath": "examsnetdata/gdrive/study/generalstudies/scienceandtechnology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/scienceandtechnology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA8",
               "datatype": "link",

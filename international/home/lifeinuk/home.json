@@ -14,7 +14,7 @@
           "chapters": [
             {
               "chaptertitle": "Life In UK Tests",
-              "chapterpath": "examsnetdata/international/lifeinuk/",
+              "chapterpath": "examsnetapp/international/lifeinuk/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "LIFE_IN_UK",
               "datatype": "exams",

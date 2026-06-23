@@ -16,7 +16,7 @@
           "chapters": [
             {
               "chaptertitle": "PMP Certification Practice Tests",
-              "chapterpath": "examsnetdata/tech/pmp/",
+              "chapterpath": "examsnetapp/tech/pmp/",
               "clogo": "fa-solid fa-pen",
               "savekey": "PMP",
               "datatype": "exams",
@@ -30,7 +30,7 @@
             },
             {
               "chaptertitle": "SCRUM Certification Papers",
-              "chapterpath": "examsnetdata/tech/othercerts/scrummaster/",
+              "chapterpath": "examsnetapp/tech/othercerts/scrummaster/",
               "clogo": "fa-solid fa-pen",
               "savekey": "SCRUM",
               "datatype": "exams",
@@ -44,7 +44,7 @@
             },
             {
               "chaptertitle": "PMI ACP Certification Papers",
-              "chapterpath": "examsnetdata/tech/othercerts/pmiacp/",
+              "chapterpath": "examsnetapp/tech/othercerts/pmiacp/",
               "clogo": "fa-solid fa-pen",
               "savekey": "PMIACP",
               "datatype": "exams",

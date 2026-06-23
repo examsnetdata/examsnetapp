@@ -14,7 +14,7 @@
           "chapters": [
             {
               "chaptertitle": "Algebra and Higher Math",
-              "chapterpath": "examsnetdata/aptitude/algebra/",
+              "chapterpath": "examsnetapp/aptitude/algebra/",
               "clogo": "fa-solid fa-square-root-variable",
               "savekey": "QA1",
               "datatype": "exams",
@@ -28,7 +28,7 @@
             },
             {
               "chaptertitle": "Arithmetic",
-              "chapterpath": "examsnetdata/aptitude/arithmetic/",
+              "chapterpath": "examsnetapp/aptitude/arithmetic/",
               "clogo": "fa-solid fa-pen-ruler",
               "savekey": "QA2",
               "datatype": "exams",
@@ -42,7 +42,7 @@
             },
             {
               "chaptertitle": "Commercial Math",
-              "chapterpath": "examsnetdata/aptitude/commercial/",
+              "chapterpath": "examsnetapp/aptitude/commercial/",
               "clogo": "fa-solid fa-hand-holding-dollar",
               "savekey": "QA3",
               "datatype": "exams",
@@ -56,7 +56,7 @@
             },
             {
               "chaptertitle": "Data Based Math",
-              "chapterpath": "examsnetdata/aptitude/data/",
+              "chapterpath": "examsnetapp/aptitude/data/",
               "clogo": "fa-solid fa-chart-pie",
               "savekey": "QA4",
               "datatype": "exams",
@@ -70,7 +70,7 @@
             },
             {
               "chaptertitle": "Geometry and Mensuration",
-              "chapterpath": "examsnetdata/aptitude/geometry/",
+              "chapterpath": "examsnetapp/aptitude/geometry/",
               "clogo": "fa-solid fa-shapes",
               "savekey": "QA5",
               "datatype": "exams",
@@ -84,7 +84,7 @@
             },
             {
               "chaptertitle": "Number System and Numeracy",
-              "chapterpath": "examsnetdata/aptitude/numbers/",
+              "chapterpath": "examsnetapp/aptitude/numbers/",
               "clogo": "fa-solid fa-sort-numeric-up-alt",
               "savekey": "QA6",
               "datatype": "exams",
@@ -98,7 +98,7 @@
             },
             {
               "chaptertitle": "Problem Solving",
-              "chapterpath": "examsnetdata/aptitude/problems/",
+              "chapterpath": "examsnetapp/aptitude/problems/",
               "clogo": "fa-solid fa-puzzle-piece",
               "savekey": "QA7",
               "datatype": "exams",

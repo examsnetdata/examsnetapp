@@ -14,7 +14,7 @@
           "chapters": [
             {
               "chaptertitle": "JEE Advanced Previous Papers",
-              "chapterpath": "examsnetdata/jee/advprevious/",
+              "chapterpath": "examsnetapp/jee/advprevious/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "JAP",
               "datatype": "exams",
@@ -29,7 +29,7 @@
             },
             {
               "chaptertitle": "JEE Advanced Model Papers",
-              "chapterpath": "examsnetdata/jee/advmodel/",
+              "chapterpath": "examsnetapp/jee/advmodel/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "JAM",
               "datatype": "exams",
@@ -51,7 +51,7 @@
           "chapters": [
             {
               "chaptertitle": "JEE Adv Class 11 Math Questions",
-              "chapterpath": "examsnetdata/jee/advchapters/math11/",
+              "chapterpath": "examsnetapp/jee/advchapters/math11/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J1AD",
               "datatype": "exams",
@@ -66,7 +66,7 @@
             },
             {
               "chaptertitle": "JEE Adv Class 12 Math Questions",
-              "chapterpath": "examsnetdata/jee/advchapters/math12/",
+              "chapterpath": "examsnetapp/jee/advchapters/math12/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J2AD",
               "datatype": "exams",
@@ -81,7 +81,7 @@
             },
             {
               "chaptertitle": "JEE Adv Class 11 Chemistry Questions",
-              "chapterpath": "examsnetdata/jee/advchapters/chemistry11/",
+              "chapterpath": "examsnetapp/jee/advchapters/chemistry11/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J3AD",
               "datatype": "exams",
@@ -96,7 +96,7 @@
             },
             {
               "chaptertitle": "JEE Adv Class 12 Chemistry Questions",
-              "chapterpath": "examsnetdata/jee/advchapters/chemistry12/",
+              "chapterpath": "examsnetapp/jee/advchapters/chemistry12/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J4AD",
               "datatype": "exams",
@@ -111,7 +111,7 @@
             },
             {
               "chaptertitle": "JEE Adv Class 11 Physics Questions",
-              "chapterpath": "examsnetdata/jee/advchapters/physics11/",
+              "chapterpath": "examsnetapp/jee/advchapters/physics11/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J5AD",
               "datatype": "exams",
@@ -126,7 +126,7 @@
             },
             {
               "chaptertitle": "JEE Adv Class 12 Physics Questions",
-              "chapterpath": "examsnetdata/jee/advchapters/physics12/",
+              "chapterpath": "examsnetapp/jee/advchapters/physics12/",
               "clogo": "fa-solid fa-user-pen",
               "savekey": "J6AD",
               "datatype": "exams",
@@ -152,7 +152,7 @@
           "chapters": [
             {
               "chaptertitle": "Math Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/math11/",
+              "chapterpath": "examsnetapp/notes/hb/math11/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -160,7 +160,7 @@
             },
             {
               "chaptertitle": "Math Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/math12/",
+              "chapterpath": "examsnetapp/notes/hb/math12/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -174,7 +174,7 @@
           "chapters": [
             {
               "chaptertitle": "Chemistry Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/chemistry11/",
+              "chapterpath": "examsnetapp/notes/hb/chemistry11/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -182,7 +182,7 @@
             },
             {
               "chaptertitle": "Chemistry Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/chemistry12/",
+              "chapterpath": "examsnetapp/notes/hb/chemistry12/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -196,7 +196,7 @@
           "chapters": [
             {
               "chaptertitle": "Physics Class 11 Notes",
-              "chapterpath": "examsnetdata/notes/hb/physics11/",
+              "chapterpath": "examsnetapp/notes/hb/physics11/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
@@ -204,7 +204,7 @@
             },
             {
               "chaptertitle": "Physics Class 12 Notes",
-              "chapterpath": "examsnetdata/notes/hb/physics12/",
+              "chapterpath": "examsnetapp/notes/hb/physics12/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
               "active": true,
