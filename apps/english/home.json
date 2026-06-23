@@ -1,9 +1,8 @@
 [
-  
   {
     "categorytitle": "Practice Tests",
     "elogo": "fa-solid fa-file-pen",
-    "subjects": [ 
+    "subjects": [
       {
         "subjecttitle": "English Practice",
         "slogo": "fa-solid fa-user-tie",

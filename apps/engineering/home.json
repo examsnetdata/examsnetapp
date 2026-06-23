@@ -3,7 +3,7 @@
     "categorytitle": "Choose Your Exam",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
-    "subjects": [ 
+    "subjects": [
       {
         "subjecttitle": "BITSAT Papers",
         "slogo": "fa-solid fa-user-group",
@@ -411,14 +411,8 @@
             "active": true,
             "common": true
           }
-           
         ]
       }
-       
-      
-       
-      
-       
     ]
   },
   {
@@ -431,7 +425,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-           
           {
             "chaptertitle": "Class 11 Chemistry Part 1",
             "chapterpath": "board/ncert/books/class11/chemistrypart1/",
@@ -477,7 +470,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -485,7 +477,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-           
           {
             "chaptertitle": "Class 11 Chemistry",
             "chapterpath": "board/ncert/solutions/class11/chemistry/",
@@ -520,7 +511,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-         
           {
             "chaptertitle": "Class 12 Chemistry Lab Manual",
             "chapterpath": "board/ncert/books/class12/chemistrylabmanual/",
@@ -602,7 +592,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -637,7 +626,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -645,7 +633,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "board/ncert/exemplar/class11/chemistry/",
@@ -673,7 +660,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -681,7 +667,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "board/ncert/exemplarsolutions/class11/chemistry/",
@@ -709,7 +694,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -717,7 +701,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "board/ncert/exemplar/class12/chemistry/",
@@ -745,7 +728,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -753,7 +735,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "board/ncert/exemplarsolutions/class12/chemistry/",
@@ -781,7 +762,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       }
     ]

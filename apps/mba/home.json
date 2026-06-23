@@ -41,7 +41,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       },
       {
@@ -57,7 +57,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -73,7 +73,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -89,7 +89,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -105,7 +105,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       }
     ]
@@ -336,11 +336,11 @@
       }
     ]
   },
-   {
+  {
     "categorytitle": "Study Material",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
-    "subjects": [ 
+    "subjects": [
       {
         "subjecttitle": "Mind Maps",
         "slogo": "fa-solid fa-user-group",
@@ -375,7 +375,6 @@
           }
         ]
       }
-      
     ]
   }
 ]

@@ -7,7 +7,6 @@
         "subjecttitle": "UGCNET Papers",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-          
           {
             "chaptertitle": "UGCNET 1 Previous Papers",
             "chapterpath": "examsnetdata/tets/ugcnet/p1/",
@@ -16,11 +15,9 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
-          
+          }
         ]
       }
-        
     ]
   },
   {

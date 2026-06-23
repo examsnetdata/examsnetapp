@@ -14,7 +14,7 @@
             "chapterpath": "examsnetdata/ssc/cglprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGL",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -23,7 +23,7 @@
             "chapterpath": "examsnetdata/ssc/cglmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGM",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -32,12 +32,12 @@
             "chapterpath": "examsnetdata/ssc/cgltier2/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CG2",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           }
         ]
-      } 
+      }
     ]
   },
   {

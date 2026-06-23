@@ -75,9 +75,9 @@
               "subjectKeys": [
                 "jee-main-chapter-wise-questions"
               ],
-              "totalTests": 25,
-              "testsLabel": "25 Tests",
-              "badgeText": "25 Tests"
+              "totalTests": 180,
+              "testsLabel": "180 Tests",
+              "badgeText": "180 Tests"
             },
             {
               "chaptertitle": "JEE Main Class 12 Math Questions",
@@ -90,9 +90,9 @@
               "subjectKeys": [
                 "jee-main-chapter-wise-questions"
               ],
-              "totalTests": 34,
-              "testsLabel": "34 Tests",
-              "badgeText": "34 Tests"
+              "totalTests": 180,
+              "testsLabel": "180 Tests",
+              "badgeText": "180 Tests"
             },
             {
               "chaptertitle": "JEE Main Class 11 Chemistry Questions",
@@ -105,9 +105,9 @@
               "subjectKeys": [
                 "jee-main-chapter-wise-questions"
               ],
-              "totalTests": 28,
-              "testsLabel": "28 Tests",
-              "badgeText": "28 Tests"
+              "totalTests": 180,
+              "testsLabel": "180 Tests",
+              "badgeText": "180 Tests"
             },
             {
               "chaptertitle": "JEE Main Class 12 Chemistry Questions",
@@ -120,9 +120,9 @@
               "subjectKeys": [
                 "jee-main-chapter-wise-questions"
               ],
-              "totalTests": 30,
-              "testsLabel": "30 Tests",
-              "badgeText": "30 Tests"
+              "totalTests": 180,
+              "testsLabel": "180 Tests",
+              "badgeText": "180 Tests"
             },
             {
               "chaptertitle": "JEE Main Class 11 Physics Questions",
@@ -135,9 +135,9 @@
               "subjectKeys": [
                 "jee-main-chapter-wise-questions"
               ],
-              "totalTests": 31,
-              "testsLabel": "31 Tests",
-              "badgeText": "31 Tests"
+              "totalTests": 180,
+              "testsLabel": "180 Tests",
+              "badgeText": "180 Tests"
             },
             {
               "chaptertitle": "JEE Main Class 12 Physics Questions",
@@ -150,9 +150,9 @@
               "subjectKeys": [
                 "jee-main-chapter-wise-questions"
               ],
-              "totalTests": 32,
-              "testsLabel": "32 Tests",
-              "badgeText": "32 Tests"
+              "totalTests": 180,
+              "testsLabel": "180 Tests",
+              "badgeText": "180 Tests"
             }
           ]
         }

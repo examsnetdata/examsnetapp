@@ -3,7 +3,7 @@
     "categorytitle": "Choose Your Exam",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
-    "subjects": [    
+    "subjects": [
       {
         "subjecttitle": "AP EAMCET Papers",
         "slogo": "fa-solid fa-user-group",
@@ -26,9 +26,9 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
-      },   
+      },
       {
         "subjecttitle": "AP EAPCET Chapters Wise Questions",
         "slogo": "fa-solid fa-user-pen",
@@ -38,7 +38,7 @@
             "chapterpath": "examsnetdata/engineering/apeapcetchapters/math11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP1M",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -47,7 +47,7 @@
             "chapterpath": "examsnetdata/engineering/apeapcetchapters/math12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP2M",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -56,7 +56,7 @@
             "chapterpath": "examsnetdata/engineering/apeapcetchapters/chemistry11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP1C",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -65,7 +65,7 @@
             "chapterpath": "examsnetdata/engineering/apeapcetchapters/chemistry12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP2C",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -74,7 +74,7 @@
             "chapterpath": "examsnetdata/engineering/apeapcetchapters/physics11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "AP1P",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -83,17 +83,17 @@
             "chapterpath": "examsnetdata/engineering/apeapcetchapters/physics12/",
             "clogo": "fa-solid fa-user-pen",
             "savekey": "AP2P",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           }
         ]
-      }, 
+      },
       {
         "subjecttitle": "TS EAMCET Papers",
         "slogo": "fa-solid fa-user-group",
         "active": true,
-        "chapters": [ 
+        "chapters": [
           {
             "chaptertitle": "TS EAMCET Previous Papers",
             "chapterpath": "examsnetdata/engineering/tseamcet/",
@@ -103,7 +103,6 @@
             "active": true,
             "common": false
           }
-          
         ]
       },
       {
@@ -115,7 +114,7 @@
             "chapterpath": "examsnetdata/engineering/tgeapcetchapters/math11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG1M",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -124,7 +123,7 @@
             "chapterpath": "examsnetdata/engineering/tgeapcetchapters/math12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG2M",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -133,7 +132,7 @@
             "chapterpath": "examsnetdata/engineering/tgeapcetchapters/chemistry11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG1C",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -142,7 +141,7 @@
             "chapterpath": "examsnetdata/engineering/tgeapcetchapters/chemistry12/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG2C",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -151,7 +150,7 @@
             "chapterpath": "examsnetdata/engineering/tgeapcetchapters/physics11/",
             "clogo": "fa-solid fa-pencil",
             "savekey": "TG1P",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -160,17 +159,17 @@
             "chapterpath": "examsnetdata/engineering/tgeapcetchapters/physics12/",
             "clogo": "fa-solid fa-user-pen",
             "savekey": "TG2P",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           }
         ]
-      }, 
+      },
       {
         "subjecttitle": "EAMCET Model Papers",
         "slogo": "fa-solid fa-user-group",
         "active": true,
-        "chapters": [ 
+        "chapters": [
           {
             "chaptertitle": "AP and TS EAMCET Model Papers",
             "chapterpath": "examsnetdata/engineering/eamcetmd/",
@@ -180,11 +179,8 @@
             "active": true,
             "common": false
           }
-           
         ]
       }
-      
-      
     ]
   },
   {
@@ -258,5 +254,4 @@
       }
     ]
   }
-  
 ]

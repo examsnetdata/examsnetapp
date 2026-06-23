@@ -14,7 +14,7 @@
             "chapterpath": "exams/ssc/cglprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGL",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -23,7 +23,7 @@
             "chapterpath": "exams/ssc/cglmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGM",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -32,7 +32,7 @@
             "chapterpath": "exams/ssc/cgltier2/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CG2",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           }
@@ -47,7 +47,7 @@
             "chapterpath": "exams/ssc/chslprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGL",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -64,7 +64,7 @@
       },
       {
         "subjecttitle": "SSC GD Constable Papers",
-        "slogo": "fa-solid fa-shield-halved",  
+        "slogo": "fa-solid fa-shield-halved",
         "active": true,
         "chapters": [
           {
@@ -75,7 +75,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       },
       {

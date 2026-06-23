@@ -3,7 +3,7 @@
     "categorytitle": "Choose Your Exam",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
-    "subjects": [ 
+    "subjects": [
       {
         "subjecttitle": "Bihar PSC Exam Papers",
         "slogo": "fa-solid fa-user-group",
@@ -18,11 +18,12 @@
             "expand": true,
             "active": true,
             "common": false
-        }
+          }
         ]
-      } 
+      }
     ]
-  },{
+  },
+  {
     "categorytitle": "Study Material",
     "elogo": "fa-solid fa-file-pen",
     "active": true,

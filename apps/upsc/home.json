@@ -7,7 +7,6 @@
         "subjecttitle": "UPSC CDS Papers",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-          
           {
             "chaptertitle": "UPSC CDS Model Papers",
             "chapterpath": "exams/upsc/cdsmodel/",
@@ -41,7 +40,6 @@
         "subjecttitle": "UPSC CDS Chapterwise Papers",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-         
           {
             "chaptertitle": "CDS English Questions",
             "chapterpath": "exams/upsc/cdschapter/english/",
@@ -83,7 +81,7 @@
       {
         "subjecttitle": "UPSC ESE Papers",
         "slogo": "fa-solid fa-gear",
-        "chapters": [ 
+        "chapters": [
           {
             "chaptertitle": "UPSC ESE Previous Papers",
             "chapterpath": "exams/upsc/ese/",
@@ -92,7 +90,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       },
       {
@@ -100,7 +98,6 @@
         "slogo": "fa-solid fa-user-shield",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "UPSC NDA Model Papers",
             "chapterpath": "exams/upsc/ndamodel/",
@@ -143,7 +140,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          }, 
+          },
           {
             "chaptertitle": "NDA General Science Questions",
             "chapterpath": "exams/upsc/ndachapter/science/",
@@ -229,7 +226,7 @@
             "datatype": "link",
             "active": true,
             "common": true
-        }   
+          }
         ]
       }
     ]
@@ -250,7 +247,7 @@
             "datatype": "link",
             "active": true,
             "common": true
-          },   
+          },
           {
             "chaptertitle": "CMS Previous Papers",
             "chapterpath": "india/upsc/cms/previouspapers/",
@@ -259,7 +256,7 @@
             "datatype": "link",
             "active": true,
             "common": true
-          },     
+          },
           {
             "chaptertitle": "Engineering Mains Previous Papers",
             "chapterpath": "india/upsc/engineering/mainspreviouspapers/",
@@ -279,7 +276,7 @@
             "common": true
           }
         ]
-      } 
+      }
     ]
   },
   {

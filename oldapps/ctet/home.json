@@ -3,7 +3,7 @@
     "categorytitle": "Choose Your Exam",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
-    "subjects": [       
+    "subjects": [
       {
         "subjecttitle": "CTET Exam Practice",
         "slogo": "fa-solid fa-user-group",
@@ -36,10 +36,9 @@
             "common": false
           }
         ]
-      } 
+      }
     ]
   },
-  
   {
     "categorytitle": "Study Material",
     "elogo": "fa-solid fa-file-pen",
@@ -59,9 +58,8 @@
             "active": true,
             "common": true
           }
-           
         ]
-      } 
+      }
     ]
   },
   {
@@ -69,7 +67,6 @@
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
-      
       {
         "subjecttitle": "English Practice",
         "slogo": "fa-solid fa-user-tie",
@@ -247,7 +244,7 @@
             "common": true
           }
         ]
-      } 
+      }
     ]
   }
 ]

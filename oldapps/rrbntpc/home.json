@@ -4,7 +4,6 @@
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
-       
       {
         "subjecttitle": "RRB NTPC Papers",
         "slogo": "fa-solid fa-train-subway",
@@ -18,8 +17,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "RRB NTPC Previous Papers",
             "chapterpath": "examsnetdata/rrb/rrbntpcprev/",
             "clogo": "fa-solid fa-pen",
@@ -27,14 +26,12 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
-      } 
-      
+      }
     ]
   },
-
-   {
+  {
     "categorytitle": "Study Material",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
@@ -132,7 +129,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Number System",
             "chapterpath": "notes/aptitude/numbers/",
@@ -150,8 +146,7 @@
             "datatype": "notes",
             "active": true,
             "common": true
-          } 
-           
+          }
         ]
       }
     ]

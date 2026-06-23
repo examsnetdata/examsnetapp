@@ -3,7 +3,7 @@
     "categorytitle": "Choose Your Exam",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
-    "subjects": [    
+    "subjects": [
       {
         "subjecttitle": "Previous Papers",
         "slogo": "fa-solid fa-user-group",
@@ -26,14 +26,14 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
-      },    
+      },
       {
         "subjecttitle": "Model Papers",
         "slogo": "fa-solid fa-user-group",
         "active": true,
-        "chapters": [ 
+        "chapters": [
           {
             "chaptertitle": "AP & TS Model Papers",
             "chapterpath": "examsnetdata/engineering/aptseamcetmedmodel/",
@@ -43,10 +43,8 @@
             "active": true,
             "common": false
           }
-          
         ]
-      } 
-      
+      }
     ]
   },
   {
@@ -61,16 +59,16 @@
             "chapterpath": "notes/hb/biology11/",
             "clogo": "fa-solid fa-book-open",
             "datatype": "notes",
-            "active" : true,
-            "common":true
+            "active": true,
+            "common": true
           },
           {
             "chaptertitle": "Biology Class 12 Notes",
             "chapterpath": "notes/hb/biology12/",
             "clogo": "fa-solid fa-book-open",
             "datatype": "notes",
-            "active" : true,
-            "common":true
+            "active": true,
+            "common": true
           }
         ]
       },
@@ -130,7 +128,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-           
           {
             "chaptertitle": "Class 11 Chemistry Part 1",
             "chapterpath": "gdrive/study/ncert/books/class11/chemistrypart1/",
@@ -176,7 +173,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -184,7 +180,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-           
           {
             "chaptertitle": "Class 11 Chemistry",
             "chapterpath": "gdrive/study/ncert/solutions/class11/chemistry/",
@@ -219,7 +214,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-         
           {
             "chaptertitle": "Class 12 Chemistry Lab Manual",
             "chapterpath": "gdrive/study/ncert/books/class12/chemistrylabmanual/",
@@ -301,7 +295,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -336,7 +329,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -344,7 +336,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "gdrive/study/ncert/exemplar/class11/chemistry/",
@@ -372,7 +363,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -380,7 +370,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "gdrive/study/ncert/exemplarsolutions/class11/chemistry/",
@@ -408,7 +397,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -416,7 +404,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "gdrive/study/ncert/exemplar/class12/chemistry/",
@@ -444,7 +431,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -452,7 +438,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Chemistry",
             "chapterpath": "gdrive/study/ncert/exemplarsolutions/class12/chemistry/",
@@ -480,7 +465,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       }
     ]

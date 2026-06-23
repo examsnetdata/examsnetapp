@@ -387,7 +387,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          },{
+          },
+          {
             "chaptertitle": "Telangana History Model Papers",
             "chapterpath": "exams/police/tspolicechap/historymd/",
             "clogo": "fa-solid fa-pen",
@@ -395,7 +396,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          },{
+          },
+          {
             "chaptertitle": "Telangana Geography Chapters wise",
             "chapterpath": "exams/police/tspolicechap/geographycp/",
             "clogo": "fa-solid fa-pen",
@@ -415,7 +417,6 @@
           }
         ]
       },
-
       {
         "subjecttitle": "UP Police Exams",
         "slogo": "fa-solid fa-shield-halved",

@@ -7,7 +7,6 @@
         "subjecttitle": "AFCAT Papers",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-          
           {
             "chaptertitle": "AFCAT Previous Papers",
             "chapterpath": "exams/defence/afcat/",
@@ -16,14 +15,13 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          }           
+          }
         ]
       },
       {
         "subjecttitle": "IAF Agniveer",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-         
           {
             "chaptertitle": "IAF Agniveer Group X",
             "chapterpath": "exams/defence/iafx/",
@@ -41,7 +39,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       },
       {
@@ -49,7 +47,6 @@
         "slogo": "fa-solid fa-user-shield",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Sainik School Previous Papers",
             "chapterpath": "exams/defence/sainik/",
@@ -58,9 +55,9 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
-      }  
+      }
     ]
   },
   {

@@ -4,7 +4,6 @@
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
-       
       {
         "subjecttitle": "SSC CHSL Practice Tests",
         "slogo": "fa-solid fa-user-group",
@@ -14,7 +13,7 @@
             "chapterpath": "examsnetdata/ssc/chslprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGL",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -28,7 +27,7 @@
             "common": false
           }
         ]
-      } 
+      }
     ]
   },
   {

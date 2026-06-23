@@ -4,7 +4,6 @@
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
-      
       {
         "subjecttitle": "Delhi Police Exams",
         "slogo": "fa-solid fa-shield-halved",
@@ -39,7 +38,6 @@
           }
         ]
       }
-       
     ]
   },
   {

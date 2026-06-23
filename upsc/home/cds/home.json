@@ -61,9 +61,9 @@
               "subjectKeys": [
                 "upsc-cds-exam-chapters-wise"
               ],
-              "totalTests": 19,
-              "testsLabel": "19 Tests",
-              "badgeText": "19 Tests"
+              "totalTests": 62,
+              "testsLabel": "62 Tests",
+              "badgeText": "62 Tests"
             },
             {
               "chaptertitle": "CDS Math Questions",
@@ -76,9 +76,9 @@
               "subjectKeys": [
                 "upsc-cds-exam-chapters-wise"
               ],
-              "totalTests": 26,
-              "testsLabel": "26 Tests",
-              "badgeText": "26 Tests"
+              "totalTests": 62,
+              "testsLabel": "62 Tests",
+              "badgeText": "62 Tests"
             },
             {
               "chaptertitle": "CDS General Science Questions",
@@ -91,9 +91,9 @@
               "subjectKeys": [
                 "upsc-cds-exam-chapters-wise"
               ],
-              "totalTests": 5,
-              "testsLabel": "5 Tests",
-              "badgeText": "5 Tests"
+              "totalTests": 62,
+              "testsLabel": "62 Tests",
+              "badgeText": "62 Tests"
             },
             {
               "chaptertitle": "CDS General Studies Questions",
@@ -106,9 +106,9 @@
               "subjectKeys": [
                 "upsc-cds-exam-chapters-wise"
               ],
-              "totalTests": 12,
-              "testsLabel": "12 Tests",
-              "badgeText": "12 Tests"
+              "totalTests": 62,
+              "testsLabel": "62 Tests",
+              "badgeText": "62 Tests"
             }
           ]
         }

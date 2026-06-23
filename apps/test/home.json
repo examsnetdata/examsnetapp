@@ -132,14 +132,8 @@
             "active": true,
             "common": true
           }
-           
         ]
       }
-       
-      
-       
-      
-       
     ]
   },
   {
@@ -363,7 +357,7 @@
             "chapterpath": "exams/ssc/cglprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGL",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -372,7 +366,7 @@
             "chapterpath": "exams/ssc/cglmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGM",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           },
@@ -381,7 +375,7 @@
             "chapterpath": "exams/ssc/cgltier2/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CG2",
-            "datatype": "exams", 
+            "datatype": "exams",
             "active": true,
             "common": false
           }
@@ -446,7 +440,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -596,7 +589,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -631,7 +623,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -675,7 +666,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -719,7 +709,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -763,7 +752,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -807,7 +795,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       }
     ]
@@ -822,7 +809,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Number System",
             "chapterpath": "notes/aptitude/numbers/",
@@ -850,7 +836,6 @@
             "active": true,
             "common": true
           },
-
           {
             "chaptertitle": "Commercial Math",
             "chapterpath": "notes/aptitude/commercial/",
@@ -878,7 +863,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -895,7 +879,6 @@
             "active": true,
             "common": true
           }
-           
         ]
       },
       {
@@ -1020,7 +1003,6 @@
           }
         ]
       }
-      
     ]
   },
   {
@@ -2024,10 +2006,10 @@
     ]
   },
   {
-      "categorytitle": "NCERT Book Solutions",
-      "elogo": "fa-solid fa-file-pen",
-      "active": true,
-      "subjects": [
+    "categorytitle": "NCERT Book Solutions",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
       {
         "subjecttitle": "NCERT Class 10 Book Solutions",
         "slogo": "fa-solid fa-book",

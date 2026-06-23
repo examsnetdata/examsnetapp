@@ -4,7 +4,6 @@
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
-        
       {
         "subjecttitle": "SSC Steno Practice Tests",
         "slogo": "fa-solid fa-user-group",
@@ -20,7 +19,7 @@
             "common": false
           }
         ]
-      } 
+      }
     ]
   },
   {

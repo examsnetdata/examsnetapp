@@ -4,11 +4,11 @@
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
-        {
+      {
         "subjecttitle": "UP Police Exams",
         "slogo": "fa-solid fa-shield-halved",
         "active": true,
-        "expand":true,
+        "expand": true,
         "chapters": [
           {
             "chaptertitle": "UP Police Constable Model Papers",

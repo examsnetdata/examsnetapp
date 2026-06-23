@@ -7,7 +7,6 @@
         "subjecttitle": "AFCAT Papers",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-          
           {
             "chaptertitle": "AFCAT Previous Papers",
             "chapterpath": "examsnetdata/defence/afcat/",
@@ -16,9 +15,9 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          }           
+          }
         ]
-      }  
+      }
     ]
   },
   {

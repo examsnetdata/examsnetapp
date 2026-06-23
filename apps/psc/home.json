@@ -17,8 +17,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "APPSC Group I & II Previous papers",
             "chapterpath": "exams/psc/appscprev/",
             "clogo": "fa-solid fa-pen",
@@ -26,8 +26,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "APPSC Group III & IV Previous papers",
             "chapterpath": "exams/psc/appscgroup3/",
             "clogo": "fa-solid fa-pen",
@@ -35,7 +35,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -50,7 +50,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -66,7 +66,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -82,7 +82,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -98,7 +98,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -114,7 +114,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -130,7 +130,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -146,8 +146,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "Odisha PSC Exam Previous Papers",
             "chapterpath": "exams/psc/opsc/",
             "clogo": "fa-solid fa-pen",
@@ -155,7 +155,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -171,7 +171,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -187,8 +187,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "Telangana PSC Previous Papers",
             "chapterpath": "exams/psc/tspscprev/",
             "clogo": "fa-solid fa-pen",
@@ -196,7 +196,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -212,7 +212,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -228,7 +228,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -244,9 +244,9 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       }
     ]
-  } 
+  }
 ]

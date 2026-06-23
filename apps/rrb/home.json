@@ -17,8 +17,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "RRB ALP Model Papers",
             "chapterpath": "exams/rrb/rrbalpmodel/",
             "clogo": "fa-solid fa-pen",
@@ -26,14 +26,13 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
         "subjecttitle": "RRB Group D Papers",
         "slogo": "fa-solid fa-train",
         "chapters": [
-           
           {
             "chaptertitle": "RRB Group D Model Papers",
             "chapterpath": "exams/rrb/rrbgdmodel/",
@@ -42,8 +41,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "RRB Group D Previous Papers",
             "chapterpath": "exams/rrb/rrbgdprev/",
             "clogo": "fa-solid fa-pen",
@@ -51,7 +50,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -67,8 +66,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "RRB NTPC Previous Papers",
             "chapterpath": "exams/rrb/rrbntpcprev/",
             "clogo": "fa-solid fa-pen",
@@ -76,7 +75,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -92,8 +91,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "RRB RPF SI Exam Model Papers",
             "chapterpath": "exams/rrb/rrbrpfmodel/",
             "clogo": "fa-solid fa-pen",
@@ -101,8 +100,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "RRB RPF SI Exam Previous Papers",
             "chapterpath": "exams/rrb/rrbrpfsiprev/",
             "clogo": "fa-solid fa-pen",
@@ -110,7 +109,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -126,8 +125,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        },
-        {
+          },
+          {
             "chaptertitle": "RRB Junior Engineer Stage 1 Previous Papers",
             "chapterpath": "exams/rrb/rrbjestage1/",
             "clogo": "fa-solid fa-pen",
@@ -135,7 +134,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -151,7 +150,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       },
       {
@@ -167,14 +166,12 @@
             "datatype": "exams",
             "active": true,
             "common": false
-        }
+          }
         ]
       }
-      
     ]
   },
-
-   {
+  {
     "categorytitle": "Study Material",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
@@ -272,7 +269,6 @@
         "slogo": "fa-solid fa-book",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "Number System",
             "chapterpath": "notes/aptitude/numbers/",
@@ -290,8 +286,7 @@
             "datatype": "notes",
             "active": true,
             "common": true
-          } 
-           
+          }
         ]
       }
     ]

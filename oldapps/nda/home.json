@@ -3,13 +3,11 @@
     "categorytitle": "Entrance Exams",
     "elogo": "fa-solid fa-file-pen",
     "subjects": [
-       
       {
         "subjecttitle": "UPSC NDA Papers",
         "slogo": "fa-solid fa-user-shield",
         "active": true,
         "chapters": [
-          
           {
             "chaptertitle": "UPSC NDA Model Papers",
             "chapterpath": "examsnetdata/upsc/ndamodel/",
@@ -43,7 +41,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          }, 
+          },
           {
             "chaptertitle": "NDA General Science Questions",
             "chapterpath": "examsnetdata/upsc/ndachapter/science/",
@@ -72,7 +70,7 @@
             "common": false
           }
         ]
-      } 
+      }
     ]
   },
   {

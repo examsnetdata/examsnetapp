@@ -7,7 +7,6 @@
         "subjecttitle": "UPSC CDS Papers",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-          
           {
             "chaptertitle": "UPSC CDS Model Papers",
             "chapterpath": "examsnetdata/upsc/cdsmodel/",
@@ -32,7 +31,6 @@
         "subjecttitle": "UPSC CDS Chapterwise Papers",
         "slogo": "fa-solid fa-user-shield",
         "chapters": [
-         
           {
             "chaptertitle": "CDS English Questions",
             "chapterpath": "examsnetdata/upsc/cdschapter/english/",
@@ -70,7 +68,7 @@
             "common": false
           }
         ]
-      } 
+      }
     ]
   },
   {

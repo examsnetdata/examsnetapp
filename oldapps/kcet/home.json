@@ -3,7 +3,7 @@
     "categorytitle": "Practice Exams",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
-    "subjects": [         
+    "subjects": [
       {
         "subjecttitle": "KCET Papers",
         "slogo": "fa-solid fa-user-group",
@@ -19,7 +19,7 @@
             "common": false
           }
         ]
-      } 
+      }
     ]
   },
   {
@@ -100,19 +100,19 @@
             "chapterpath": "notes/hb/biology11/",
             "clogo": "fa-solid fa-book-open",
             "datatype": "notes",
-            "active" : true,
-            "common":true
+            "active": true,
+            "common": true
           },
           {
             "chaptertitle": "Biology Class 12 Notes",
             "chapterpath": "notes/hb/biology12/",
             "clogo": "fa-solid fa-book-open",
             "datatype": "notes",
-            "active" : true,
-            "common":true
+            "active": true,
+            "common": true
           }
         ]
       }
     ]
-  } 
+  }
 ]

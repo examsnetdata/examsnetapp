@@ -38,9 +38,9 @@
               "subjectKeys": [
                 "other-certifications"
               ],
-              "totalTests": 10,
-              "testsLabel": "10 Tests",
-              "badgeText": "10 Tests"
+              "totalTests": 27,
+              "testsLabel": "27 Tests",
+              "badgeText": "27 Tests"
             },
             {
               "chaptertitle": "PMI ACP Certification Papers",
@@ -52,9 +52,9 @@
               "subjectKeys": [
                 "other-certifications"
               ],
-              "totalTests": 6,
-              "testsLabel": "6 Tests",
-              "badgeText": "6 Tests"
+              "totalTests": 27,
+              "testsLabel": "27 Tests",
+              "badgeText": "27 Tests"
             }
           ]
         }
