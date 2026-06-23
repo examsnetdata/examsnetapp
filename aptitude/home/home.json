@@ -1,0 +1,122 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Aptitude Practice",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "Quantitative Aptitude",
+          "slogo": "fa-solid fa-calculator",
+          "chapters": [
+            {
+              "chaptertitle": "Algebra and Higher Math",
+              "chapterpath": "examsnetdata/aptitude/algebra/",
+              "clogo": "fa-solid fa-square-root-variable",
+              "savekey": "QA1",
+              "datatype": "exams",
+              "common": true,
+              "subjectKeys": [
+                "aptitude-algebra_others"
+              ],
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
+            },
+            {
+              "chaptertitle": "Arithmetic",
+              "chapterpath": "examsnetdata/aptitude/arithmetic/",
+              "clogo": "fa-solid fa-pen-ruler",
+              "savekey": "QA2",
+              "datatype": "exams",
+              "common": true,
+              "subjectKeys": [
+                "aptitude-arithmetic"
+              ],
+              "totalTests": 22,
+              "testsLabel": "22 Tests",
+              "badgeText": "22 Tests"
+            },
+            {
+              "chaptertitle": "Commercial Math",
+              "chapterpath": "examsnetdata/aptitude/commercial/",
+              "clogo": "fa-solid fa-hand-holding-dollar",
+              "savekey": "QA3",
+              "datatype": "exams",
+              "common": true,
+              "subjectKeys": [
+                "aptitude-commercial-maths"
+              ],
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
+            },
+            {
+              "chaptertitle": "Data Based Math",
+              "chapterpath": "examsnetdata/aptitude/data/",
+              "clogo": "fa-solid fa-chart-pie",
+              "savekey": "QA4",
+              "datatype": "exams",
+              "common": true,
+              "subjectKeys": [
+                "aptitude-data-maths"
+              ],
+              "totalTests": 17,
+              "testsLabel": "17 Tests",
+              "badgeText": "17 Tests"
+            },
+            {
+              "chaptertitle": "Geometry and Mensuration",
+              "chapterpath": "examsnetdata/aptitude/geometry/",
+              "clogo": "fa-solid fa-shapes",
+              "savekey": "QA5",
+              "datatype": "exams",
+              "common": true,
+              "subjectKeys": [
+                "aptitude-geometry-mensuration"
+              ],
+              "totalTests": 26,
+              "testsLabel": "26 Tests",
+              "badgeText": "26 Tests"
+            },
+            {
+              "chaptertitle": "Number System and Numeracy",
+              "chapterpath": "examsnetdata/aptitude/numbers/",
+              "clogo": "fa-solid fa-sort-numeric-up-alt",
+              "savekey": "QA6",
+              "datatype": "exams",
+              "common": true,
+              "subjectKeys": [
+                "aptitude-numbers-others"
+              ],
+              "totalTests": 64,
+              "testsLabel": "64 Tests",
+              "badgeText": "64 Tests"
+            },
+            {
+              "chaptertitle": "Problem Solving",
+              "chapterpath": "examsnetdata/aptitude/problems/",
+              "clogo": "fa-solid fa-puzzle-piece",
+              "savekey": "QA7",
+              "datatype": "exams",
+              "common": true,
+              "subjectKeys": [
+                "aptitude-problem-solving"
+              ],
+              "totalTests": 26,
+              "testsLabel": "26 Tests",
+              "badgeText": "26 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

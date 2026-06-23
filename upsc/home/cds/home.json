@@ -1,0 +1,218 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "UPSC CDS Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "UPSC CDS Previous Papers",
+              "chapterpath": "examsnetdata/upsc/cds/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA3",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "UPSCCDS"
+              ],
+              "totalTests": 117,
+              "testsLabel": "117 Tests",
+              "badgeText": "117 Tests"
+            },
+            {
+              "chaptertitle": "UPSC CDS Model Papers",
+              "chapterpath": "examsnetdata/upsc/cdsmodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA2",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "upsc-cds-model-papers"
+              ],
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "UPSC CDS Chapterwise",
+          "slogo": "fa-solid fa-user-shield",
+          "chapters": [
+            {
+              "chaptertitle": "CDS English Questions",
+              "chapterpath": "examsnetdata/upsc/cdschapter/english/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA2",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "upsc-cds-exam-chapters-wise"
+              ],
+              "totalTests": 19,
+              "testsLabel": "19 Tests",
+              "badgeText": "19 Tests"
+            },
+            {
+              "chaptertitle": "CDS Math Questions",
+              "chapterpath": "examsnetdata/upsc/cdschapter/math/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "upsc-cds-exam-chapters-wise"
+              ],
+              "totalTests": 26,
+              "testsLabel": "26 Tests",
+              "badgeText": "26 Tests"
+            },
+            {
+              "chaptertitle": "CDS General Science Questions",
+              "chapterpath": "examsnetdata/upsc/cdschapter/science/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA3",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "upsc-cds-exam-chapters-wise"
+              ],
+              "totalTests": 5,
+              "testsLabel": "5 Tests",
+              "badgeText": "5 Tests"
+            },
+            {
+              "chaptertitle": "CDS General Studies Questions",
+              "chapterpath": "examsnetdata/upsc/cdschapter/gs/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA3",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "upsc-cds-exam-chapters-wise"
+              ],
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "General Studies",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "expand": false,
+          "chapters": [
+            {
+              "chaptertitle": "Biology",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Environment Ecology",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/environmentecology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "History",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "India and World Geography",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indiaandworldgeography/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Economy",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianeconomy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Politics",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/indianpolitics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Science and Technology",
+              "chapterpath": "examsnetdata/gdrive/study/generalstudies/scienceandtechnology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

@@ -1,0 +1,253 @@
+[
+  {
+    "categorytitle": "Choose Your Exam",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [       
+      {
+        "subjecttitle": "CTET Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "chapters": [
+          {
+            "chaptertitle": "CTET 1 Previous Papers",
+            "chapterpath": "tets/ctetiv/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA4",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "CTET 2 Maths Science Past Papers",
+            "chapterpath": "tets/ctetmath/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA5",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "CTET 2 Social Science Past Papers ",
+            "chapterpath": "tets/ctetsocial/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA6",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      } 
+    ]
+  },
+  
+  {
+    "categorytitle": "Study Material",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
+      {
+        "subjecttitle": "CTET Notes",
+        "slogo": "fa-solid fa-book",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Child Development & Pedagogy",
+            "chapterpath": "gdrive/study/ctet/pedagogy/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA0",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          }
+           
+        ]
+      } 
+    ]
+  },
+  {
+    "categorytitle": "More Practice Tests",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
+      
+      {
+        "subjecttitle": "English Practice",
+        "slogo": "fa-solid fa-user-tie",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Antonyms Tests",
+            "chapterpath": "english/antonyms/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN1",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Synonyms Tests",
+            "chapterpath": "english/synonyms/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN2",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Spelling Check Tests",
+            "chapterpath": "english/spelling/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN3",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Spotting Errors",
+            "chapterpath": "english/errors/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN4",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "One Word Substitutes",
+            "chapterpath": "english/oneword/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN5",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Selecting Words",
+            "chapterpath": "english/selecting/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN6",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Correction",
+            "chapterpath": "english/correction/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN7",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Idioms and Phrases",
+            "chapterpath": "english/idioms/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN8",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Improvement",
+            "chapterpath": "english/improvement/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN9",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Grammar Online",
+            "chapterpath": "english/grammar/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN10",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Common Error Detection",
+            "chapterpath": "english/commonerror/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN11",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Completion",
+            "chapterpath": "english/completion/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN12",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Direct and Indirect Speech",
+            "chapterpath": "english/speech/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN13",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Ordering Words",
+            "chapterpath": "english/orderingwords/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN14",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Ordering Sentences",
+            "chapterpath": "english/orderingsentence/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN15",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Verbal Analogies",
+            "chapterpath": "english/verbal/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN16",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Formation",
+            "chapterpath": "english/formation/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN17",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Completing Statements",
+            "chapterpath": "english/statements/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN18",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Change of Speech",
+            "chapterpath": "english/change/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN19",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          }
+        ]
+      } 
+    ]
+  }
+]

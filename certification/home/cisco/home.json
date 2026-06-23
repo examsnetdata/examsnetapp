@@ -1,0 +1,11 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

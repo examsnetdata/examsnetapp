@@ -1,0 +1,73 @@
+[
+  {
+    "categorytitle": "Choose An Exam",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
+      {
+        "subjecttitle": "AIIMS Nursing Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "AIIMS Nursing Previous Papers",
+            "chapterpath": "exams/nurse/aiimsnurse/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA1",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "Auxiliary Nurse Midwife",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "ANM Previous Papers",
+            "chapterpath": "exams/nurse/anm/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA2",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "ESIC Nursing Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "ESIC Nursing Previous Papers",
+            "chapterpath": "exams/nurse/esicnurse/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA3",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "BSc Nursing GNM Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "BSc Nursing GNM Previous Papers",
+            "chapterpath": "exams/nurse/bscnurse/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA4",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,393 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Telangana Board Previous Papers",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "Telangana Board Class 10 Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "expand": false,
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Telangana State Class 10 English Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class10/english/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 10 Hindi Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class10/hindi/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 10 Math Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class10/math/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 10 Sanskrit Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class10/sanskrit/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 10 Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class10/science/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 10 Social Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class10/social/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 10 Telugu Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class10/telugu/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Telangana Board Class 11 Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "active": true,
+          "expand": false,
+          "chapters": [
+            {
+              "chaptertitle": "Telangana State Class 11 Arabic Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/arabic/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Botany Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/botany/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Chemistry Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA9",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Civics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/civics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA10",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Commerce Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/commerce/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA11",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Economics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/economics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA12",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 English Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/english/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA13",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 French Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/french/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA14",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Hindi Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/hindi/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA15",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 History Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA16",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Maths Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/maths/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA17",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Physics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA18",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Political Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/politicalscience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA19",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Sanskrit Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/sanskrit/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA20",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Telugu Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/telugu/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA21",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 11 Zoology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class11/zoology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA22",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Telangana Board Class 12  Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "active": true,
+          "expand": false,
+          "chapters": [
+            {
+              "chaptertitle": "Telangana State Class 12 Arabic Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/arabic/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA23",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Botany Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/botany/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA24",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Chemistry Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA25",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Civics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/civics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA26",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Commerce Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/commerce/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA27",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Economics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/economics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA28",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 English Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/english/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA29",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 French Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/french/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA30",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Hindi Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/hindi/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA31",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 History Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA32",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Math Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/math/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA33",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Physics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA34",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Political Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/politicalscience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA35",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Sanskrit Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/sanskrit/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA36",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Telugu Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/telugu/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA37",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Telangana State Class 12 Zoology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/telangana/class12/zoology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA38",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

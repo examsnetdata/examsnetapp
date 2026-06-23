@@ -1,0 +1,64 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Certifications",
+      "elogo": "fa-solid fa-file-pen",
+      "showCategoryTitle": true,
+      "subjects": [
+        {
+          "subjecttitle": "Management Certifications",
+          "slogo": "fa-solid fa-stethoscope",
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "PMP Certification Practice Tests",
+              "chapterpath": "examsnetdata/tech/pmp/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "PMP",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "PMPCERT"
+              ],
+              "totalTests": 29,
+              "testsLabel": "29 Tests",
+              "badgeText": "29 Tests"
+            },
+            {
+              "chaptertitle": "SCRUM Certification Papers",
+              "chapterpath": "examsnetdata/tech/othercerts/scrummaster/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "SCRUM",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "other-certifications"
+              ],
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
+            },
+            {
+              "chaptertitle": "PMI ACP Certification Papers",
+              "chapterpath": "examsnetdata/tech/othercerts/pmiacp/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "PMIACP",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "other-certifications"
+              ],
+              "totalTests": 6,
+              "testsLabel": "6 Tests",
+              "badgeText": "6 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Certifications",
+      "elogo": "fa-solid fa-file-pen",
+      "showCategoryTitle": true,
+      "subjects": [
+        {
+          "subjecttitle": "Technical Certifications",
+          "slogo": "fa-solid fa-stethoscope",
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Java Certification Practice Tests",
+              "chapterpath": "examsnetdata/tech/ocajp/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "JavaCert",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "OCAJP"
+              ],
+              "totalTests": 24,
+              "testsLabel": "24 Tests",
+              "badgeText": "24 Tests"
+            },
+            {
+              "chaptertitle": "TOGAF Model Papers",
+              "chapterpath": "examsnetdata/tech/togaf/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "TOGAF",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "TOGAF"
+              ],
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": [
+      {
+        "id": "new-product-ad",
+        "active": false,
+        "kind": "image",
+        "priority": 50,
+        "title": "",
+        "subtitle": "",
+        "imageUrl": "https://examsnet.github.io/cde/ads/img/neetbanner.png",
+        "ctaText": "Watch Now",
+        "ctaUrl": "https://www.youtube.com/watch?v=BhUdv__mMBI&list=PLJAZj2grKHUNaUUGhtKZix7XEqtsxccFn",
+        "startDate": "2026-01-01",
+        "endDate": "2026-12-31",
+        "dismissible": true,
+        "backgroundColor": "#f4f7ff",
+        "borderColor": "#5e78ff",
+        "textColor": "#1d2459",
+        "ctaBackgroundColor": "#2d58d8",
+        "ctaTextColor": "#ffffff"
+      }
+    ]
+  }
+}

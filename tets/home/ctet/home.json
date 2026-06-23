@@ -1,0 +1,93 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Choose Your Exam",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "CTET Exam Practice",
+          "slogo": "fa-solid fa-user-group",
+          "chapters": [
+            {
+              "chaptertitle": "CTET 1 Previous Papers",
+              "chapterpath": "examsnetdata/tets/ctetiv/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA4",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CTETPREV"
+              ],
+              "totalTests": 88,
+              "testsLabel": "88 Tests",
+              "badgeText": "88 Tests"
+            },
+            {
+              "chaptertitle": "CTET 2 Maths Science Past Papers",
+              "chapterpath": "examsnetdata/tets/ctetmath/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA5",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CTET2MATHS"
+              ],
+              "totalTests": 82,
+              "testsLabel": "82 Tests",
+              "badgeText": "82 Tests"
+            },
+            {
+              "chaptertitle": "CTET 2 Social Science Past Papers ",
+              "chapterpath": "examsnetdata/tets/ctetsocial/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA6",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CTET2SOCIAL"
+              ],
+              "totalTests": 83,
+              "testsLabel": "83 Tests",
+              "badgeText": "83 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "CTET Notes",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Child Development & Pedagogy",
+              "chapterpath": "examsnetdata/gdrive/study/ctet/pedagogy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

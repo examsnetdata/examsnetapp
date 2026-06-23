@@ -1,0 +1,72 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "SSC Junior Engineering",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "SSC JE Civil Engineering Previous Papers",
+              "chapterpath": "examsnetdata/ssc/je/civilprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "JECIVIL",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "SSCJECIVILS"
+              ],
+              "totalTests": 49,
+              "testsLabel": "49 Tests",
+              "badgeText": "49 Tests"
+            },
+            {
+              "chaptertitle": "SSC JE Mechanical Engineering Previous Papers",
+              "chapterpath": "examsnetdata/ssc/je/mechprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "JEMECH",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "SSCJEMECH"
+              ],
+              "totalTests": 42,
+              "testsLabel": "42 Tests",
+              "badgeText": "42 Tests"
+            },
+            {
+              "chaptertitle": "SSC JE Electrical Engineering Previous Papers",
+              "chapterpath": "examsnetdata/ssc/je/electricprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "JEELECTRIC",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "SSCJEELECTRIC"
+              ],
+              "totalTests": 45,
+              "testsLabel": "45 Tests",
+              "badgeText": "45 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

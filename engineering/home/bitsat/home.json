@@ -1,0 +1,113 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Choose Your Exam",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "BITSAT Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "BITSAT Previous Papers",
+              "chapterpath": "examsnetdata/engineering/bitsat/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA5",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BITSAT"
+              ],
+              "totalTests": 23,
+              "testsLabel": "23 Tests",
+              "badgeText": "23 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Resources",
+      "subjects": [
+        {
+          "subjecttitle": "Math Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Math Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/math11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Math Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/math12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Chemistry Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Chemistry Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/chemistry11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/chemistry12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Physics Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Physics Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/physics11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/physics12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

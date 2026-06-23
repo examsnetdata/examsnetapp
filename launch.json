@@ -1,0 +1,455 @@
+{
+  "searchBar": {
+    "active": true,
+    "placeholder": "Search exams or subjects..."
+  },
+  "expandByDefault": false,
+  "favoritesTitle": "Favorites",
+  "stats": {
+    "active": true,
+    "items": [
+      {
+        "value": "34",
+        "label": "Exams"
+      },
+      {
+        "value": "0",
+        "label": "Mock Tests"
+      },
+      {
+        "value": "1M+",
+        "label": "Students"
+      }
+    ]
+  },
+  "bannerConfig": {
+    "active": false,
+    "path": "examsnetdata/launch-banners"
+  },
+  "gptOptions": {
+    "provider": "ollama",
+    "model": "gemma4:e4b",
+    "maxTokens": 15000,
+    "fixMaxTokens": 15000
+  },
+  "sections": [
+    {
+      "id": "exam-categories",
+      "active": true,
+      "title": "Exam Categories",
+      "emptyMessage": "No matching exam categories found.",
+      "categories": [
+        {
+          "id": "jeeexams",
+          "active": true,
+          "title": "JEE Exams",
+          "subtitle": "JEE Main, JEE Advanced, AIEEE, and more",
+          "expanded": false,
+          "icon": "fa-solid fa-atom",
+          "exams": [
+            {
+              "id": "jee-advanced",
+              "title": "JEE Advanced",
+              "subtitle": "JEE Advanced Exam Papers",
+              "testsLabel": "50 Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetdata/jee/home/adv/"
+            },
+            {
+              "id": "jee-main",
+              "title": "JEE Main",
+              "subtitle": "JEE Main Exam Papers",
+              "testsLabel": "42 Tests",
+              "icon": "fa-solid fa-calculator",
+              "homePath": "examsnetdata/jee/home/main/"
+            }
+          ]
+        },
+        {
+          "id": "medical",
+          "active": true,
+          "title": "Medical Exams",
+          "subtitle": "NEET, AIPMT, EAMCET, and more",
+          "expanded": false,
+          "icon": "fa-solid fa-stethoscope",
+          "exams": [
+            {
+              "id": "neet",
+              "title": "NEET",
+              "subtitle": "NEET Exam Papers",
+              "testsLabel": "38 Tests",
+              "icon": "fa-solid fa-stethoscope",
+              "homePath": "examsnetdata/medical/home/neet/"
+            },
+            {
+              "id": "aipmt",
+              "title": "AIPMT",
+              "subtitle": "AIPMT Exam Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-user-doctor",
+              "homePath": "examsnetdata/medical/home/aipmt/"
+            },
+            {
+              "id": "eamcet-medical",
+              "title": "EAMCET Medical",
+              "subtitle": "EAMCET Medical Exam Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-heart-pulse",
+              "homePath": "examsnetdata/medical/home/eamcet/"
+            }
+          ]
+        },
+        {
+          "id": "engineering",
+          "active": true,
+          "title": "Engineering Exams",
+          "subtitle": "BITSAT, EAMCET, KCET, VITEEE, and more",
+          "expanded": false,
+          "icon": "fa-solid fa-gears",
+          "exams": [
+            {
+              "id": "eng-bitsat",
+              "title": "BITSAT",
+              "subtitle": "BITSAT Exam Papers",
+              "testsLabel": "28 Tests",
+              "icon": "fa-solid fa-lightbulb",
+              "homePath": "examsnetdata/engineering/home/bitsat/"
+            },
+            {
+              "id": "eng-eamcet",
+              "title": "EAMCET or EAPCET",
+              "subtitle": "AP and TS EAMCET Papers",
+              "testsLabel": "50 Tests",
+              "icon": "fa-solid fa-gears",
+              "homePath": "examsnetdata/engineering/home/eamcet/"
+            },
+            {
+              "id": "eng-kcet",
+              "title": "KCET",
+              "subtitle": "KCET Exam Papers",
+              "testsLabel": "30 Tests",
+              "icon": "fa-solid fa-compass-drafting",
+              "homePath": "examsnetdata/engineering/home/kcet/"
+            },
+            {
+              "id": "eng-viteee",
+              "title": "VITEEE",
+              "subtitle": "VIT Engineering Entrance Exam Papers",
+              "testsLabel": "30 Tests",
+              "icon": "fa-solid fa-microchip",
+              "homePath": "examsnetdata/engineering/home/viteee/"
+            }
+          ]
+        },
+        {
+          "id": "ssc",
+          "active": true,
+          "title": "SSC Exams",
+          "subtitle": "CGL, CHSL, Stenographer, and other SSC exams",
+          "expanded": false,
+          "icon": "fa-solid fa-users-gear",
+          "exams": [
+            {
+              "id": "ssc-cgl",
+              "title": "SSC CGL",
+              "subtitle": "SSC CGL Exam Papers",
+              "testsLabel": "45 Tests",
+              "icon": "fa-solid fa-file-lines",
+              "homePath": "examsnetdata/ssc/home/cgl/"
+            },
+            {
+              "id": "ssc-chsl",
+              "title": "SSC CHSL",
+              "subtitle": "SSC CHSL Exam Papers",
+              "testsLabel": "45 Tests",
+              "icon": "fa-solid fa-file-lines",
+              "homePath": "examsnetdata/ssc/home/chsl/"
+            },
+            {
+              "id": "ssc-steno",
+              "title": "SSC Stenographer",
+              "subtitle": "SSC Stenographer Exam Papers",
+              "testsLabel": "45 Tests",
+              "icon": "fa-solid fa-file-lines",
+              "homePath": "examsnetdata/ssc/home/steno/"
+            },
+            {
+              "id": "ssc-junior-engineer",
+              "title": "SSC Junior Engineer",
+              "subtitle": "SSC JE Exam Papers",
+              "testsLabel": "45 Tests",
+              "icon": "fa-solid fa-file-lines",
+              "homePath": "examsnetdata/ssc/home/je/"
+            }
+          ]
+        },
+        {
+          "id": "rrb",
+          "active": true,
+          "title": "RRB Exams",
+          "subtitle": "ALP, NTPC, Group D, and other Railway exams",
+          "expanded": false,
+          "icon": "fa-solid fa-train",
+          "exams": [
+            {
+              "id": "rrb-alp",
+              "title": "RRB ALP",
+              "subtitle": "RRB ALP Exam Papers",
+              "testsLabel": "45 Tests",
+              "icon": "fa-solid fa-train",
+              "homePath": "examsnetdata/rrb/home/rrbalp/"
+            },
+            {
+              "id": "rrb-groupd",
+              "title": "RRB Group D",
+              "subtitle": "RRB Group D Exam Papers",
+              "testsLabel": "45 Tests",
+              "icon": "fa-solid fa-train",
+              "homePath": "examsnetdata/rrb/home/groupd/"
+            },
+            {
+              "id": "rrb-ntpc",
+              "title": "RRB NTPC",
+              "subtitle": "RRB NTPC Exam Papers",
+              "testsLabel": "45 Tests",
+              "icon": "fa-solid fa-train",
+              "homePath": "examsnetdata/rrb/home/rrbntpc/"
+            }
+          ]
+        },
+        {
+          "id": "teacher-exams",
+          "active": true,
+          "title": "Teacher Exams",
+          "subtitle": "CTET, UGC NET, and other teaching exams",
+          "expanded": false,
+          "icon": "fa-solid fa-chalkboard-user",
+          "exams": [
+            {
+              "id": "teacher-ctet",
+              "title": "CTET",
+              "subtitle": "CTET 1 and CTET 2 Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetdata/tets/home/ctet/"
+            },
+            {
+              "id": "teacher-ugcnet",
+              "title": "UGC NET",
+              "subtitle": "UGC NET Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-user-pen",
+              "homePath": "examsnetdata/tets/home/ugcnet/"
+            }
+          ]
+        },
+        {
+          "id": "defence-exams",
+          "active": true,
+          "title": "Defence Exams",
+          "subtitle": "AFCAT and other defence entrance exams",
+          "expanded": false,
+          "icon": "fa-solid fa-shield-halved",
+          "exams": [
+            {
+              "id": "defence-afcat",
+              "title": "AFCAT",
+              "subtitle": "AFCAT Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetdata/defence/home/afcat/"
+            }
+          ]
+        },
+        {
+          "id": "upsc-exams",
+          "active": true,
+          "title": "UPSC Exams",
+          "subtitle": "Civils, CDS, NDA, and other UPSC exams",
+          "expanded": false,
+          "icon": "fa-solid fa-landmark-dome",
+          "exams": [
+            {
+              "id": "upsc-cds",
+              "title": "UPSC CDS",
+              "subtitle": "CDS Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetdata/upsc/home/cds/"
+            },
+            {
+              "id": "upsc-civils",
+              "title": "UPSC Civils",
+              "subtitle": "UPSC Civils Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-landmark-dome",
+              "homePath": "examsnetdata/upsc/home/civils/"
+            },
+            {
+              "id": "upsc-ese",
+              "title": "UPSC ESE",
+              "subtitle": "ESE Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetdata/upsc/home/ese/"
+            },
+            {
+              "id": "upsc-nda",
+              "title": "UPSC NDA",
+              "subtitle": "NDA Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetdata/upsc/home/nda/"
+            }
+          ]
+        },
+        {
+          "id": "board-exams",
+          "active": true,
+          "title": "Board Exams",
+          "subtitle": "Central and state board exams",
+          "expanded": false,
+          "icon": "fa-solid fa-school",
+          "exams": [
+            {
+              "id": "board-cbse",
+              "title": "CBSE Board",
+              "subtitle": "CBSE Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/board/home/cbse/"
+            },
+            {
+              "id": "board-icse",
+              "title": "ICSE Board",
+              "subtitle": "ICSE Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/board/home/icse/"
+            },
+            {
+              "id": "board-andhra",
+              "title": "Andhra Pradesh Board",
+              "subtitle": "Andhra Pradesh Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/board/home/andhra/"
+            }
+          ]
+        },
+        {
+          "id": "certification-exams",
+          "active": true,
+          "title": "Certification Exams",
+          "subtitle": "Professional certification exams",
+          "expanded": false,
+          "icon": "fa-solid fa-graduation-cap",
+          "exams": [
+            {
+              "id": "tech-certification",
+              "title": "Technical Certification",
+              "subtitle": "Java, TOGAF etc.",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/tech/home/tech/"
+            },
+            {
+              "id": "manage-certification",
+              "title": "Management Certification",
+              "subtitle": "PMP, Scrum, PMI-ACP etc",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/tech/home/manag/"
+            },
+            {
+              "id": "security-certification",
+              "title": "Security Certification",
+              "subtitle": "CISSP, CCNA etc.",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/tech/home/security/"
+            },
+            {
+              "id": "other-certification",
+              "title": "Other Certifications",
+              "subtitle": "ITIL and other certifications",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/tech/home/other/"
+            }
+          ]
+        },
+        {
+          "id": "international-exams",
+          "active": true,
+          "title": "International Exams",
+          "subtitle": "International exams",
+          "expanded": false,
+          "icon": "fa-solid fa-graduation-cap",
+          "exams": [
+            {
+              "id": "gmat-practice",
+              "title": "GRE/GMAT Exams",
+              "subtitle": "GRE and GMAT Tests",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/international/home/gregmat/"
+            },
+            {
+              "id": "uk-related-exams",
+              "title": "UK Related Exams",
+              "subtitle": "Driving, Life In UK",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetdata/international/home/lifeinuk/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "study-material",
+      "active": true,
+      "title": "Study Material",
+      "emptyMessage": "No matching exam categories found.",
+      "categories": [
+        {
+          "id": "ncertbooks",
+          "active": true,
+          "title": "CBSE Related",
+          "subtitle": "CBSE, Exempler, Notes, Solutions and more",
+          "expanded": false,
+          "icon": "fa-solid fa-book-open",
+          "exams": [
+            {
+              "id": "cbse-material",
+              "title": "CBSE Material",
+              "subtitle": "CBSE Material",
+              "testsLabel": "Resources",
+              "icon": "fa-solid fa-book-open-reader",
+              "homePath": "examsnetdata/gdrive/home/ncert/"
+            }
+          ]
+        },
+        {
+          "id": "general-books",
+          "active": true,
+          "title": "General Studies",
+          "subtitle": "History, Geography, Polity, Economy, Science, and more",
+          "expanded": false,
+          "icon": "fa-solid fa-book-open",
+          "exams": [
+            {
+              "id": "general-studies",
+              "title": "General Studies",
+              "subtitle": "General Studies materials for various subjects",
+              "testsLabel": "Resources",
+              "icon": "fa-solid fa-book-open-reader",
+              "homePath": "examsnetdata/gdrive/home/generalstudies/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Certifications",
+      "elogo": "fa-solid fa-file-pen",
+      "showCategoryTitle": true,
+      "subjects": [
+        {
+          "subjecttitle": "Security Tech Certifications",
+          "slogo": "fa-solid fa-stethoscope",
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "CISSP Certification Practice Tests",
+              "chapterpath": "examsnetdata/tech/cissp/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "CISSP",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "cissp-certifications"
+              ],
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
+            },
+            {
+              "chaptertitle": "COMP TIA Certification Tests",
+              "chapterpath": "examsnetdata/tech/comptia/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "COMPTIA",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "comp-tia-certifications"
+              ],
+              "totalTests": 11,
+              "testsLabel": "11 Tests",
+              "badgeText": "11 Tests"
+            },
+            {
+              "chaptertitle": "CCNA Certification Tests",
+              "chapterpath": "examsnetdata/tech/cisco/ccna200/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "CISCO",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "cisco-certification-exams"
+              ],
+              "totalTests": 6,
+              "testsLabel": "6 Tests",
+              "badgeText": "6 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Tamil Nadu Board Previous Papers",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "Tamil Nadu Board Class 10 Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "expand": false,
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Tamilnadu Class 10 English P1 Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class10/englishp1/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 10 English P2 Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class10/englishp2/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 10 Maths Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class10/maths/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 10 Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class10/science/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 10 Social Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class10/social/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 10 Tamil P1 Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class10/tamilp1/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 10 Tamil P2 Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class10/tamilp2/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "AP State Board Class 11 Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "active": true,
+          "expand": false,
+          "chapters": [
+            {
+              "chaptertitle": "Tamilnadu Class 11 Accountancy Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/accountancy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Biology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Botany Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/botany/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA9",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Business Maths Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/businessmaths/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA10",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Chemistry Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA11",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Commerce Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/commerce/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA12",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Computer Applications Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/computerapplications/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA13",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Computer Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/computerscience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA14",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Computer Tech Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/computertech/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA15",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Economics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/economics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA16",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 English Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/english/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA17",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 History Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA18",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Maths Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/maths/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA19",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Physics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA20",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Tamil Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/tamil/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA21",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 11 Zoology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class11/zoology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA22",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "AP State Board Class 12  Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "active": true,
+          "expand": false,
+          "chapters": [
+            {
+              "chaptertitle": "Tamilnadu Class 12 Accountancy Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/accountancy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA23",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Advanced Tamil Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/advancedtamil/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA24",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Biology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA25",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Botany Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/botany/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA26",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Business Maths Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/businessmaths/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA27",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Chemistry Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA28",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Commerce Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/commerce/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA29",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Computer Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/computerscience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA30",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Economics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/economics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA31",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Electronical Machines Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/electronicalmachines/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA32",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 English 1 Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/english1/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA33",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 English 2 Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/english2/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA34",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 French Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/french/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA35",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Hindi Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/hindi/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA36",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 History Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA37",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Maths Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/maths/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA38",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Office Management Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/officemanagement/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA39",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Physics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA40",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Political Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/politicalscience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA41",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Tamil 2 Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/tamil2/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA43",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Tamil Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/tamil/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA42",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Urdu Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/urdu/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA44",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Tamilnadu Class 12 Zoology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/tamilnadu/class12/zoology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA45",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

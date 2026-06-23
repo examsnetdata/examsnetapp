@@ -1,0 +1,135 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "KCET Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "KCET Previous Papers",
+              "chapterpath": "examsnetdata/engineering/kcet/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA10",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "KCET"
+              ],
+              "totalTests": 86,
+              "testsLabel": "86 Tests",
+              "badgeText": "86 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Resources",
+      "subjects": [
+        {
+          "subjecttitle": "Math Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Math Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/math11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Math Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/math12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Chemistry Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Chemistry Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/chemistry11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/chemistry12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Physics Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Physics Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/physics11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/physics12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Biology Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Biology Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/biology11/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Biology Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/biology12/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

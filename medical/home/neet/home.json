@@ -1,0 +1,287 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "showCategoryTitle": true,
+      "subjects": [
+        {
+          "subjecttitle": "NEET Practice Papers",
+          "slogo": "fa-solid fa-stethoscope",
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "NEET Previous Papers",
+              "chapterpath": "examsnetdata/medical/neetprevious/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "NPP",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEET"
+              ],
+              "totalTests": 44,
+              "testsLabel": "44 Tests",
+              "badgeText": "44 Tests"
+            },
+            {
+              "chaptertitle": "NEET Model Papers",
+              "chapterpath": "examsnetdata/medical/neetmodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "NMP",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEETMOD"
+              ],
+              "totalTests": 41,
+              "testsLabel": "41 Tests",
+              "badgeText": "41 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "NEET Chapters Wise",
+          "slogo": "fa-solid fa-stethoscope",
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Class 11 Biology Questions",
+              "chapterpath": "examsnetdata/medical/neetchapters/biology11/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "N1B",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEETPT"
+              ],
+              "totalTests": 27,
+              "testsLabel": "27 Tests",
+              "badgeText": "27 Tests"
+            },
+            {
+              "chaptertitle": "Class 12 Biology Questions",
+              "chapterpath": "examsnetdata/medical/neetchapters/biology12/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "N2B",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEETPT"
+              ],
+              "totalTests": 20,
+              "testsLabel": "20 Tests",
+              "badgeText": "20 Tests"
+            },
+            {
+              "chaptertitle": "Class 11 Chemistry Questions",
+              "chapterpath": "examsnetdata/medical/neetchapters/chemistry11/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "N1C",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEETPT"
+              ],
+              "totalTests": 13,
+              "testsLabel": "13 Tests",
+              "badgeText": "13 Tests"
+            },
+            {
+              "chaptertitle": "Class 12 Chemistry Questions",
+              "chapterpath": "examsnetdata/medical/neetchapters/chemistry12/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "N2C",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEETPT"
+              ],
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
+            },
+            {
+              "chaptertitle": "Class 11 Physics Questions",
+              "chapterpath": "examsnetdata/medical/neetchapters/physics11/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "N1P",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEETPT"
+              ],
+              "totalTests": 11,
+              "testsLabel": "11 Tests",
+              "badgeText": "11 Tests"
+            },
+            {
+              "chaptertitle": "Class 12 Physics Questions",
+              "chapterpath": "examsnetdata/medical/neetchapters/physics12/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "N2P",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "NEETPT"
+              ],
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Youtube Tutorials",
+      "elogo": "fa-brands fa-youtube",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "NEET Video Tutorials",
+          "slogo": "fa-solid fa-video",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "NEET Biology Class 11 Lecture",
+              "chapterpath": "examsnetdata/youtube/neet/class11biology/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "NEET Biology Class 12 Lecture",
+              "chapterpath": "examsnetdata/youtube/neet/class12biology/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "NEET Biology Previous Year Solutions",
+              "chapterpath": "examsnetdata/youtube/neet/biologysolutions/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "NEET Physics Previous Year Solutions",
+              "chapterpath": "examsnetdata/youtube/neet/phychemsolutions/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Notes",
+      "elogo": "fa-solid fa-book-open-reader",
+      "subjects": [
+        {
+          "subjecttitle": "Biology Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Biology Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/biology11/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Biology Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/biology12/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Chemistry Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Chemistry Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/chemistry11/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/chemistry12/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Physics Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Physics Class 11 Notes",
+              "chapterpath": "examsnetdata/notes/hb/physics11/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics Class 12 Notes",
+              "chapterpath": "examsnetdata/notes/hb/physics12/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": [
+      {
+        "id": "new-product-ad",
+        "active": false,
+        "kind": "image",
+        "priority": 50,
+        "title": "",
+        "subtitle": "",
+        "imageUrl": "https://examsnet.github.io/cde/ads/img/neetbanner.png",
+        "ctaText": "Watch Now",
+        "ctaUrl": "https://www.youtube.com/watch?v=BhUdv__mMBI&list=PLJAZj2grKHUNaUUGhtKZix7XEqtsxccFn",
+        "startDate": "2026-01-01",
+        "endDate": "2026-12-31",
+        "dismissible": true,
+        "backgroundColor": "#f4f7ff",
+        "borderColor": "#5e78ff",
+        "textColor": "#1d2459",
+        "ctaBackgroundColor": "#2d58d8",
+        "ctaTextColor": "#ffffff"
+      }
+    ]
+  }
+}

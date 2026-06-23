@@ -1,0 +1,36 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Certifications",
+      "elogo": "fa-solid fa-file-pen",
+      "showCategoryTitle": true,
+      "subjects": [
+        {
+          "subjecttitle": "Infra Certifications",
+          "slogo": "fa-solid fa-stethoscope",
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "ITIL Certification Practice Tests",
+              "chapterpath": "examsnetdata/tech/itil/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "ITIL",
+              "datatype": "exams",
+              "common": false,
+              "subjectKeys": [
+                "itil-foundation-certification"
+              ],
+              "totalTests": 6,
+              "testsLabel": "6 Tests",
+              "badgeText": "6 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

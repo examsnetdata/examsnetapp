@@ -1,0 +1,41 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "UPSC ESE Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "UPSC ESE Previous Papers",
+              "chapterpath": "examsnetdata/upsc/ese/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "ESE1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "UPSCESE"
+              ],
+              "totalTests": 42,
+              "testsLabel": "42 Tests",
+              "badgeText": "42 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

@@ -1,0 +1,471 @@
+[
+  {
+    "categorytitle": "Entrance Exams",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
+      {
+        "subjecttitle": "IBPS PO Exam Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "IBPS PO Previous Papers",
+            "chapterpath": "exams/bank/ibpspoprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA5",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS PO Model Papers",
+            "chapterpath": "exams/bank/ibpspomodel/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA4",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS PO Mains Previous Papers",
+            "chapterpath": "exams/bank/ibpspomain/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA3",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "IBPS Clerk Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "IBPS Clerk Previous Papers",
+            "chapterpath": "exams/bank/ibpsclerkprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA2",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+
+          {
+            "chaptertitle": "IBPS Clerk Model Papers ",
+            "chapterpath": "exams/bank/ibpsclerkmodel/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA1",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS Clerk Mains Previous",
+            "chapterpath": "exams/bank/ibpsclerkmain/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA0",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "IBPS RRB Exam Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "IBPS RRB Office Assistant Model Papers",
+            "chapterpath": "exams/bank/ibpsrrbofficeassistmd/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA6",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS RRB Office Assistant Previous Papers",
+            "chapterpath": "exams/bank/ibpsrrbofficeassistprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA7",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS RRB Office Assistant Mains Papers",
+            "chapterpath": "exams/bank/ibpsrrboamains/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA9",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS RRB PO Previous Papers",
+            "chapterpath": "exams/bank/ibpsrrbpoprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA9",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS RRB PO Mains Papers",
+            "chapterpath": "exams/bank/ibpsrrbpomains/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA9",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS RRB Officer Scale 1 Papers",
+            "chapterpath": "exams/bank/ibpsrrbofficersscale1mod/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA8",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "IBPS RRB Officers Previous Papers",
+            "chapterpath": "exams/bank/ibpsrrbofficersprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA9",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "RBI Exam Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "RBI Assistant Prelims & Mains Previous",
+            "chapterpath": "exams/bank/rbiassistantmodel/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA13",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "RBI Assistant Exam Model Papers",
+            "chapterpath": "exams/bank/rbiassitantprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA12",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "RBI Grade B Officers Previous Papers",
+            "chapterpath": "exams/bank/rbigradeb/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA14",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "SBI Exam Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "SBI PO Previous Papers",
+            "chapterpath": "exams/bank/sbipoprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA20",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "SBI Clerk Previous Papers",
+            "chapterpath": "exams/bank/sbiclerkprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA21",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "SBI PO Mains Previous Papers",
+            "chapterpath": "exams/bank/sbipomains/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA18",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categorytitle": "More Practice Tests",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
+      {
+        "subjecttitle": "Quantitative Aptitude",
+        "slogo": "fa-solid fa-calculator",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Algebra and Higher Math",
+            "chapterpath": "exams/aptitude/algebra/",
+            "clogo": "fa-solid fa-square-root-variable",
+            "savekey": "QA1",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Arithmetic",
+            "chapterpath": "exams/aptitude/arithmetic/",
+            "clogo": "fa-solid fa-pen-ruler",
+            "savekey": "QA2",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Commercial Math",
+            "chapterpath": "exams/aptitude/commercial/",
+            "clogo": "fa-solid fa-hand-holding-dollar",
+            "savekey": "QA3",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Data Based Math",
+            "chapterpath": "exams/aptitude/data/",
+            "clogo": "fa-solid fa-chart-pie",
+            "savekey": "QA4",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Geometry and Mensuration",
+            "chapterpath": "exams/aptitude/geometry/",
+            "clogo": "fa-solid fa-shapes",
+            "savekey": "QA5",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Number System and Numeracy",
+            "chapterpath": "exams/aptitude/numbers/",
+            "clogo": "fa-solid fa-sort-numeric-up-alt",
+            "savekey": "QA6",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Problem Solving",
+            "chapterpath": "exams/aptitude/problems/",
+            "clogo": "fa-solid fa-puzzle-piece",
+            "savekey": "QA7",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          }
+        ]
+      },
+      {
+        "subjecttitle": "English Practice",
+        "slogo": "fa-solid fa-user-tie",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Antonyms Tests",
+            "chapterpath": "exams/english/antonyms/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN1",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Synonyms Tests",
+            "chapterpath": "exams/english/synonyms/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN2",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Spelling Check Tests",
+            "chapterpath": "exams/english/spelling/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN3",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Spotting Errors",
+            "chapterpath": "exams/english/errors/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN4",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "One Word Substitutes",
+            "chapterpath": "exams/english/oneword/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN5",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Selecting Words",
+            "chapterpath": "exams/english/selecting/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN6",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Correction",
+            "chapterpath": "exams/english/correction/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN7",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Idioms and Phrases",
+            "chapterpath": "exams/english/idioms/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN8",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Improvement",
+            "chapterpath": "exams/english/improvement/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN9",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Grammar Online",
+            "chapterpath": "exams/english/grammar/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN10",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Common Error Detection",
+            "chapterpath": "exams/english/commonerror/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN11",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Completion",
+            "chapterpath": "exams/english/completion/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN12",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Direct and Indirect Speech",
+            "chapterpath": "exams/english/speech/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN13",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Ordering Words",
+            "chapterpath": "exams/english/orderingwords/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN14",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Ordering Sentences",
+            "chapterpath": "exams/english/orderingsentence/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN15",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Verbal Analogies",
+            "chapterpath": "exams/english/verbal/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN16",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Sentence Formation",
+            "chapterpath": "exams/english/formation/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN17",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Completing Statements",
+            "chapterpath": "exams/english/statements/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN18",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Change of Speech",
+            "chapterpath": "exams/english/change/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "EN19",
+            "datatype": "exams",
+            "active": true,
+            "common": true
+          }
+        ]
+      }
+    ]
+  }
+]

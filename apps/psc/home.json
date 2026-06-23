@@ -1,0 +1,252 @@
+[
+  {
+    "categorytitle": "Publice Service Commision (PSC) Exams",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
+      {
+        "subjecttitle": "Andhra Pradesh PSC Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "APPSC Exam Model Papers",
+            "chapterpath": "exams/psc/appscmd/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA0",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        },
+        {
+            "chaptertitle": "APPSC Group I & II Previous papers",
+            "chapterpath": "exams/psc/appscprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA1",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        },
+        {
+            "chaptertitle": "APPSC Group III & IV Previous papers",
+            "chapterpath": "exams/psc/appscgroup3/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "PA1",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Bihar PSC Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "chapters": [
+          {
+            "chaptertitle": "BPSC Exam Previous Papers",
+            "chapterpath": "exams/psc/bpsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA2",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Chhattisgarh PSC Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Chhattisgarh PSC Previous Papers",
+            "chapterpath": "exams/psc/appscmd/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA3",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Jharkhand PSC Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Jharkhand PSC Previous Papers",
+            "chapterpath": "exams/psc/jpsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA4",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Kerala PSC Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Kerala State PSC Papers",
+            "chapterpath": "exams/psc/kpsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA5",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Madhya Pradesh PSC Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "MPPSC Previous Papers",
+            "chapterpath": "exams/psc/mppsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA7",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Maharashtra PSC Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Maharashtra PSC Papers",
+            "chapterpath": "exams/psc/appscmd/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA8",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Odisha PSC Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "OPSC OAS Exam Previous Papers",
+            "chapterpath": "exams/psc/opscoas/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA9",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        },
+        {
+            "chaptertitle": "Odisha PSC Exam Previous Papers",
+            "chapterpath": "exams/psc/opsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA10",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Tamilnadu PSC Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Tamilnadu PSC Model Papers",
+            "chapterpath": "exams/psc/tnpsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA11",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Telangana PSC Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Telangana PSC Model Papers",
+            "chapterpath": "exams/psc/tspscmd/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA12",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        },
+        {
+            "chaptertitle": "Telangana PSC Previous Papers",
+            "chapterpath": "exams/psc/tspscprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA13",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Uttar Pradesh PSC Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "UPPSC Exam Previous Papers",
+            "chapterpath": "exams/psc/uppsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA14",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "West Bengal PSC Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "WBPSC Exam Previous Papers",
+            "chapterpath": "exams/psc/wbpsc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA15",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      },
+      {
+        "subjecttitle": "Punjab PSC Exam Practice",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Punjab Civil Service Previous Papers",
+            "chapterpath": "exams/psc/punjab/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA16",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+        }
+        ]
+      }
+    ]
+  } 
+]

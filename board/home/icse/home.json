@@ -1,0 +1,340 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "ICSE Previous Papers",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "ICSE Class 10 Previous Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "expand": false,
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "ICSE Class 10 Biology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Chemistry Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Commercial Applications Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/commercialapplications/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Commercial Studies Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/commercialstudies/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Computer Applications Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/computerapplications/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Economics Applications Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/economicsapplications/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Economics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/economics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 English Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/english/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Geography Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/geography/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Hindi Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/hindi/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA9",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 History Civics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/historycivics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA10",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Home Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/homescience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA11",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Mathematics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/mathematics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA12",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Physical Education Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/physicaleducation/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA13",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ICSE Class 10 Physics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class10/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA14",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "ISC Class 12 Previous Papers",
+          "slogo": "fa-solid fa-user-astronaut",
+          "active": true,
+          "expand": false,
+          "chapters": [
+            {
+              "chaptertitle": "ISC Class 12 Accountancy Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/accountancy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA15",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Biology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA16",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Biotechnology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/biotechnology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA17",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Business Studies Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/businessstudies/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA18",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Chemistry Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA19",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Commerce Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/commerce/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA20",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Computer Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/computerscience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA21",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Economics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/economics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA22",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 English Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/english/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA23",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Geography Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/geography/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA24",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Hindi Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/hindi/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA25",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 History Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA26",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Home Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/homescience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA27",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Mathematics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/mathematics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA28",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Physical Education Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/physicaleducation/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA29",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Physics Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA30",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Political Science Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/politicalscience/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA31",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Psychology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/psychology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA32",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "ISC Class 12 Sociology Papers",
+              "chapterpath": "examsnetdata/gdrive/board/icse/class12/sociology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA33",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}
