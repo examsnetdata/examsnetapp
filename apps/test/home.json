@@ -872,7 +872,7 @@
         "chapters": [
           {
             "chaptertitle": "Child Development & Pedagogy",
-            "chapterpath": "study/ctet/pedagogy/",
+            "chapterpath": "gdrive/study/ctet/pedagogy/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
@@ -888,7 +888,7 @@
         "chapters": [
           {
             "chaptertitle": "General Studies Biology",
-            "chapterpath": "study/generalstudies/biology/",
+            "chapterpath": "gdrive/study/generalstudies/biology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
@@ -897,7 +897,7 @@
           },
           {
             "chaptertitle": "General Studies Chemistry",
-            "chapterpath": "study/generalstudies/chemistry/",
+            "chapterpath": "gdrive/study/generalstudies/chemistry/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA1",
             "datatype": "link",
@@ -906,7 +906,7 @@
           },
           {
             "chaptertitle": "General Studies Environment Ecology",
-            "chapterpath": "study/generalstudies/environmentecology/",
+            "chapterpath": "gdrive/study/generalstudies/environmentecology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA2",
             "datatype": "link",
@@ -915,7 +915,7 @@
           },
           {
             "chaptertitle": "General Studies History",
-            "chapterpath": "study/generalstudies/history/",
+            "chapterpath": "gdrive/study/generalstudies/history/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA3",
             "datatype": "link",
@@ -924,7 +924,7 @@
           },
           {
             "chaptertitle": "General Studies India and World Geography",
-            "chapterpath": "study/generalstudies/indiaandworldgeography/",
+            "chapterpath": "gdrive/study/generalstudies/indiaandworldgeography/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA4",
             "datatype": "link",
@@ -933,7 +933,7 @@
           },
           {
             "chaptertitle": "General Studies Indian Economy",
-            "chapterpath": "study/generalstudies/indianeconomy/",
+            "chapterpath": "gdrive/study/generalstudies/indianeconomy/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA5",
             "datatype": "link",
@@ -942,7 +942,7 @@
           },
           {
             "chaptertitle": "General Studies Indian Politics",
-            "chapterpath": "study/generalstudies/indianpolitics/",
+            "chapterpath": "gdrive/study/generalstudies/indianpolitics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA6",
             "datatype": "link",
@@ -951,7 +951,7 @@
           },
           {
             "chaptertitle": "General Studies Physics",
-            "chapterpath": "study/generalstudies/physics/",
+            "chapterpath": "gdrive/study/generalstudies/physics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA7",
             "datatype": "link",
@@ -960,7 +960,7 @@
           },
           {
             "chaptertitle": "General Studies Science and Technology",
-            "chapterpath": "study/generalstudies/scienceandtechnology/",
+            "chapterpath": "gdrive/study/generalstudies/scienceandtechnology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA8",
             "datatype": "link",
@@ -976,7 +976,7 @@
         "chapters": [
           {
             "chaptertitle": "Mind Maps Aptitude",
-            "chapterpath": "study/mindmaps/aptitude/",
+            "chapterpath": "gdrive/study/mindmaps/aptitude/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
@@ -985,7 +985,7 @@
           },
           {
             "chaptertitle": "Mind Maps Logical Reasoning",
-            "chapterpath": "study/mindmaps/logicalreasoning/",
+            "chapterpath": "gdrive/study/mindmaps/logicalreasoning/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA1",
             "datatype": "link",
@@ -994,7 +994,7 @@
           },
           {
             "chaptertitle": "Mind Maps Verbal",
-            "chapterpath": "study/mindmaps/verbal/",
+            "chapterpath": "gdrive/study/mindmaps/verbal/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA2",
             "datatype": "link",

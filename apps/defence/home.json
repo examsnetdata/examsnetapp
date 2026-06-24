@@ -298,7 +298,7 @@
         "chapters": [
           {
             "chaptertitle": "Biology",
-            "chapterpath": "study/generalstudies/biology/",
+            "chapterpath": "gdrive/study/generalstudies/biology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
@@ -307,7 +307,7 @@
           },
           {
             "chaptertitle": "Chemistry",
-            "chapterpath": "study/generalstudies/chemistry/",
+            "chapterpath": "gdrive/study/generalstudies/chemistry/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA1",
             "datatype": "link",
@@ -316,7 +316,7 @@
           },
           {
             "chaptertitle": "Environment Ecology",
-            "chapterpath": "study/generalstudies/environmentecology/",
+            "chapterpath": "gdrive/study/generalstudies/environmentecology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA2",
             "datatype": "link",
@@ -325,7 +325,7 @@
           },
           {
             "chaptertitle": "History",
-            "chapterpath": "study/generalstudies/history/",
+            "chapterpath": "gdrive/study/generalstudies/history/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA3",
             "datatype": "link",
@@ -334,7 +334,7 @@
           },
           {
             "chaptertitle": "India and World Geography",
-            "chapterpath": "study/generalstudies/indiaandworldgeography/",
+            "chapterpath": "gdrive/study/generalstudies/indiaandworldgeography/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA4",
             "datatype": "link",
@@ -343,7 +343,7 @@
           },
           {
             "chaptertitle": "Indian Economy",
-            "chapterpath": "study/generalstudies/indianeconomy/",
+            "chapterpath": "gdrive/study/generalstudies/indianeconomy/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA5",
             "datatype": "link",
@@ -352,7 +352,7 @@
           },
           {
             "chaptertitle": "Indian Politics",
-            "chapterpath": "study/generalstudies/indianpolitics/",
+            "chapterpath": "gdrive/study/generalstudies/indianpolitics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA6",
             "datatype": "link",
@@ -361,7 +361,7 @@
           },
           {
             "chaptertitle": "Physics",
-            "chapterpath": "study/generalstudies/physics/",
+            "chapterpath": "gdrive/study/generalstudies/physics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA7",
             "datatype": "link",
@@ -370,7 +370,7 @@
           },
           {
             "chaptertitle": "Science and Technology",
-            "chapterpath": "study/generalstudies/scienceandtechnology/",
+            "chapterpath": "gdrive/study/generalstudies/scienceandtechnology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA8",
             "datatype": "link",
