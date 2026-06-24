@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "AP Police Constable Exam Practice",
-            "chapterpath": "exams/police/apconstmd/",
+            "chapterpath": "apps/police/apconstmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA0",
             "datatype": "exams",
@@ -20,7 +20,7 @@
           },
           {
             "chaptertitle": "AP Police SI Exam Practice",
-            "chapterpath": "exams/police/apsiprev/",
+            "chapterpath": "apps/police/apsiprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",
@@ -36,7 +36,7 @@
         "chapters": [
           {
             "chaptertitle": "Indian History Chapters Wise",
-            "chapterpath": "exams/police/aptschapter/history/",
+            "chapterpath": "apps/police/aptschapter/history/",
             "clogo": "fa-solid fa-pen",
             "savekey": "HA1",
             "datatype": "exams",
@@ -45,7 +45,7 @@
           },
           {
             "chaptertitle": "Indian History Model Papers Set 1",
-            "chapterpath": "exams/police/aptschapter/historymp1/",
+            "chapterpath": "apps/police/aptschapter/historymp1/",
             "clogo": "fa-solid fa-pen",
             "savekey": "HA2",
             "datatype": "exams",
@@ -54,7 +54,7 @@
           },
           {
             "chaptertitle": "Indian History Model Papers Set 2",
-            "chapterpath": "exams/police/aptschapter/historymp2/",
+            "chapterpath": "apps/police/aptschapter/historymp2/",
             "clogo": "fa-solid fa-pen",
             "savekey": "HA3",
             "datatype": "exams",
@@ -63,7 +63,7 @@
           },
           {
             "chaptertitle": "Indian History Model Papers Set 3",
-            "chapterpath": "exams/police/aptschapter/historymp3/",
+            "chapterpath": "apps/police/aptschapter/historymp3/",
             "clogo": "fa-solid fa-pen",
             "savekey": "HA4",
             "datatype": "exams",
@@ -72,7 +72,7 @@
           },
           {
             "chaptertitle": "Indian Geography Chapters Wise",
-            "chapterpath": "exams/police/aptschapter/geography/",
+            "chapterpath": "apps/police/aptschapter/geography/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA1",
             "datatype": "exams",
@@ -81,7 +81,7 @@
           },
           {
             "chaptertitle": "Indian Geography Model Papers Set 1 ",
-            "chapterpath": "exams/police/aptschapter/igeography1/",
+            "chapterpath": "apps/police/aptschapter/igeography1/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA2",
             "datatype": "exams",
@@ -90,7 +90,7 @@
           },
           {
             "chaptertitle": "Indian Geography Model Papers Set 2 ",
-            "chapterpath": "exams/police/aptschapter/igeography1/",
+            "chapterpath": "apps/police/aptschapter/igeography1/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA3",
             "datatype": "exams",
@@ -99,7 +99,7 @@
           },
           {
             "chaptertitle": "World Geography Chapters Wise",
-            "chapterpath": "exams/police/aptschapter/wgeography/",
+            "chapterpath": "apps/police/aptschapter/wgeography/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA4",
             "datatype": "exams",
@@ -108,7 +108,7 @@
           },
           {
             "chaptertitle": "Indian Economy Chapters Wise",
-            "chapterpath": "exams/police/aptschapter/ieconomy/",
+            "chapterpath": "apps/police/aptschapter/ieconomy/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA5",
             "datatype": "exams",
@@ -117,7 +117,7 @@
           },
           {
             "chaptertitle": "Indian Economy Model Papers",
-            "chapterpath": "exams/police/aptschapter/ieconomymp/",
+            "chapterpath": "apps/police/aptschapter/ieconomymp/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA6",
             "datatype": "exams",
@@ -126,7 +126,7 @@
           },
           {
             "chaptertitle": "Indian Polity Chapters Wise",
-            "chapterpath": "exams/police/aptschapter/ipolity/",
+            "chapterpath": "apps/police/aptschapter/ipolity/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA7",
             "datatype": "exams",
@@ -135,7 +135,7 @@
           },
           {
             "chaptertitle": "Indian Polity Model Papers",
-            "chapterpath": "exams/police/aptschapter/ipolitymp/",
+            "chapterpath": "apps/police/aptschapter/ipolitymp/",
             "clogo": "fa-solid fa-pen",
             "savekey": "GA8",
             "datatype": "exams",
@@ -151,7 +151,7 @@
         "chapters": [
           {
             "chaptertitle": "Bihar Police Constable & SI Exam Papers",
-            "chapterpath": "exams/police/biharconst/",
+            "chapterpath": "apps/police/biharconst/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA3",
             "datatype": "exams",
@@ -167,7 +167,7 @@
         "chapters": [
           {
             "chaptertitle": "Delhi Police  Head Constable Previous",
-            "chapterpath": "exams/police/dpheadprev/",
+            "chapterpath": "apps/police/dpheadprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA4",
             "datatype": "exams",
@@ -176,7 +176,7 @@
           },
           {
             "chaptertitle": "Delhi Police Constable Model Papers",
-            "chapterpath": "exams/police/dpconstmd/",
+            "chapterpath": "apps/police/dpconstmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA5",
             "datatype": "exams",
@@ -185,7 +185,7 @@
           },
           {
             "chaptertitle": "Delhi Police Constable Previous Papers",
-            "chapterpath": "exams/police/dpconstprev/",
+            "chapterpath": "apps/police/dpconstprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA6",
             "datatype": "exams",
@@ -201,7 +201,7 @@
         "chapters": [
           {
             "chaptertitle": "Haryana Police Constable Exam Papers",
-            "chapterpath": "exams/police/haryconst/",
+            "chapterpath": "apps/police/haryconst/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA7",
             "datatype": "exams",
@@ -217,7 +217,7 @@
         "chapters": [
           {
             "chaptertitle": "Karnataka Police Constable and SI Exam Practice Papers",
-            "chapterpath": "exams/police/knpolprev/",
+            "chapterpath": "apps/police/knpolprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA8",
             "datatype": "exams",
@@ -233,7 +233,7 @@
         "chapters": [
           {
             "chaptertitle": "Maharashtra Police Constable Previous Papers",
-            "chapterpath": "exams/police/mhconstprev/",
+            "chapterpath": "apps/police/mhconstprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA11",
             "datatype": "exams",
@@ -249,7 +249,7 @@
         "chapters": [
           {
             "chaptertitle": "MP Police Constable Exam Papers",
-            "chapterpath": "exams/police/mpconstmd/",
+            "chapterpath": "apps/police/mpconstmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA9",
             "datatype": "exams",
@@ -258,7 +258,7 @@
           },
           {
             "chaptertitle": "MP Police Constable Previous Papers",
-            "chapterpath": "exams/police/mpcosntprev/",
+            "chapterpath": "apps/police/mpcosntprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA10",
             "datatype": "exams",
@@ -274,7 +274,7 @@
         "chapters": [
           {
             "chaptertitle": "Odisha Police Constable and SI Papers",
-            "chapterpath": "exams/police/odconstsi/",
+            "chapterpath": "apps/police/odconstsi/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA12",
             "datatype": "exams",
@@ -290,7 +290,7 @@
         "chapters": [
           {
             "chaptertitle": "Punjab Police Constable and SI Exam Practice",
-            "chapterpath": "exams/police/punconstmd/",
+            "chapterpath": "apps/police/punconstmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA13",
             "datatype": "exams",
@@ -306,7 +306,7 @@
         "chapters": [
           {
             "chaptertitle": "Rajasthan Police Constable Exam Papers",
-            "chapterpath": "exams/police/rajconstmd/",
+            "chapterpath": "apps/police/rajconstmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA14",
             "datatype": "exams",
@@ -315,7 +315,7 @@
           },
           {
             "chaptertitle": "Rajasthan Police Constable Previous Papers",
-            "chapterpath": "exams/police/rajconstprev/",
+            "chapterpath": "apps/police/rajconstprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA15",
             "datatype": "exams",
@@ -331,7 +331,7 @@
         "chapters": [
           {
             "chaptertitle": "Tamilnadu Police Constable and SI Exam Tests",
-            "chapterpath": "exams/police/tnpoliceprev/",
+            "chapterpath": "apps/police/tnpoliceprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA20",
             "datatype": "exams",
@@ -347,7 +347,7 @@
         "chapters": [
           {
             "chaptertitle": "TS Police Constable Model Papers",
-            "chapterpath": "exams/police/tsconstmd/",
+            "chapterpath": "apps/police/tsconstmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA16",
             "datatype": "exams",
@@ -356,7 +356,7 @@
           },
           {
             "chaptertitle": "TS Police Constable Prev Papers",
-            "chapterpath": "exams/police/tsconsprev/",
+            "chapterpath": "apps/police/tsconsprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA17",
             "datatype": "exams",
@@ -365,7 +365,7 @@
           },
           {
             "chaptertitle": "TS Police SI Exam Model and Previous Papers",
-            "chapterpath": "exams/police/tssimodprev/",
+            "chapterpath": "apps/police/tssimodprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA18",
             "datatype": "exams",
@@ -381,7 +381,7 @@
         "chapters": [
           {
             "chaptertitle": "Telangana History Chapters Wise",
-            "chapterpath": "exams/police/tspolicechap/historycp/",
+            "chapterpath": "apps/police/tspolicechap/historycp/",
             "clogo": "fa-solid fa-pen",
             "savekey": "TA1",
             "datatype": "exams",
@@ -390,7 +390,7 @@
           },
           {
             "chaptertitle": "Telangana History Model Papers",
-            "chapterpath": "exams/police/tspolicechap/historymd/",
+            "chapterpath": "apps/police/tspolicechap/historymd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "TA2",
             "datatype": "exams",
@@ -399,7 +399,7 @@
           },
           {
             "chaptertitle": "Telangana Geography Chapters wise",
-            "chapterpath": "exams/police/tspolicechap/geographycp/",
+            "chapterpath": "apps/police/tspolicechap/geographycp/",
             "clogo": "fa-solid fa-pen",
             "savekey": "TA3",
             "datatype": "exams",
@@ -408,7 +408,7 @@
           },
           {
             "chaptertitle": "Telangana Geography Model Papers",
-            "chapterpath": "exams/police/tspolicechap/geographycp/",
+            "chapterpath": "apps/police/tspolicechap/geographycp/",
             "clogo": "fa-solid fa-pen",
             "savekey": "TA4",
             "datatype": "exams",
@@ -424,7 +424,7 @@
         "chapters": [
           {
             "chaptertitle": "UP Police Constable Model Papers",
-            "chapterpath": "exams/police/upconstmd/",
+            "chapterpath": "apps/police/upconstmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA21",
             "datatype": "exams",
@@ -433,7 +433,7 @@
           },
           {
             "chaptertitle": "UP Police Constable Previous Papers",
-            "chapterpath": "exams/police/upconstprev/",
+            "chapterpath": "apps/police/upconstprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA22",
             "datatype": "exams",
@@ -442,7 +442,7 @@
           },
           {
             "chaptertitle": "UP Police SI Exam Model Papers",
-            "chapterpath": "exams/police/upsimodel/",
+            "chapterpath": "apps/police/upsimodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA23",
             "datatype": "exams",
@@ -451,7 +451,7 @@
           },
           {
             "chaptertitle": "UP Police SI Previous Papers",
-            "chapterpath": "exams/police/upsiprev/",
+            "chapterpath": "apps/police/upsiprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA24",
             "datatype": "exams",
@@ -467,7 +467,7 @@
         "chapters": [
           {
             "chaptertitle": "West Bengal Police Constable and SI Papers",
-            "chapterpath": "exams/police/wbpolice/",
+            "chapterpath": "apps/police/wbpolice/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA25",
             "datatype": "exams",
@@ -585,7 +585,7 @@
         "chapters": [
           {
             "chaptertitle": "Algebra and Higher Math",
-            "chapterpath": "exams/aptitude/algebra/",
+            "chapterpath": "apps/aptitude/algebra/",
             "clogo": "fa-solid fa-square-root-variable",
             "savekey": "QA1",
             "datatype": "exams",
@@ -594,7 +594,7 @@
           },
           {
             "chaptertitle": "Arithmetic",
-            "chapterpath": "exams/aptitude/arithmetic/",
+            "chapterpath": "apps/aptitude/arithmetic/",
             "clogo": "fa-solid fa-pen-ruler",
             "savekey": "QA2",
             "datatype": "exams",
@@ -603,7 +603,7 @@
           },
           {
             "chaptertitle": "Commercial Math",
-            "chapterpath": "exams/aptitude/commercial/",
+            "chapterpath": "apps/aptitude/commercial/",
             "clogo": "fa-solid fa-hand-holding-dollar",
             "savekey": "QA3",
             "datatype": "exams",
@@ -612,7 +612,7 @@
           },
           {
             "chaptertitle": "Data Based Math",
-            "chapterpath": "exams/aptitude/data/",
+            "chapterpath": "apps/aptitude/data/",
             "clogo": "fa-solid fa-chart-pie",
             "savekey": "QA4",
             "datatype": "exams",
@@ -621,7 +621,7 @@
           },
           {
             "chaptertitle": "Geometry and Mensuration",
-            "chapterpath": "exams/aptitude/geometry/",
+            "chapterpath": "apps/aptitude/geometry/",
             "clogo": "fa-solid fa-shapes",
             "savekey": "QA5",
             "datatype": "exams",
@@ -630,7 +630,7 @@
           },
           {
             "chaptertitle": "Number System and Numeracy",
-            "chapterpath": "exams/aptitude/numbers/",
+            "chapterpath": "apps/aptitude/numbers/",
             "clogo": "fa-solid fa-sort-numeric-up-alt",
             "savekey": "QA6",
             "datatype": "exams",
@@ -639,7 +639,7 @@
           },
           {
             "chaptertitle": "Problem Solving",
-            "chapterpath": "exams/aptitude/problems/",
+            "chapterpath": "apps/aptitude/problems/",
             "clogo": "fa-solid fa-puzzle-piece",
             "savekey": "QA7",
             "datatype": "exams",
@@ -655,7 +655,7 @@
         "chapters": [
           {
             "chaptertitle": "Antonyms Tests",
-            "chapterpath": "exams/english/antonyms/",
+            "chapterpath": "apps/english/antonyms/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN1",
             "datatype": "exams",
@@ -664,7 +664,7 @@
           },
           {
             "chaptertitle": "Synonyms Tests",
-            "chapterpath": "exams/english/synonyms/",
+            "chapterpath": "apps/english/synonyms/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN2",
             "datatype": "exams",
@@ -673,7 +673,7 @@
           },
           {
             "chaptertitle": "Spelling Check Tests",
-            "chapterpath": "exams/english/spelling/",
+            "chapterpath": "apps/english/spelling/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN3",
             "datatype": "exams",
@@ -682,7 +682,7 @@
           },
           {
             "chaptertitle": "Spotting Errors",
-            "chapterpath": "exams/english/errors/",
+            "chapterpath": "apps/english/errors/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN4",
             "datatype": "exams",
@@ -691,7 +691,7 @@
           },
           {
             "chaptertitle": "One Word Substitutes",
-            "chapterpath": "exams/english/oneword/",
+            "chapterpath": "apps/english/oneword/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN5",
             "datatype": "exams",
@@ -700,7 +700,7 @@
           },
           {
             "chaptertitle": "Selecting Words",
-            "chapterpath": "exams/english/selecting/",
+            "chapterpath": "apps/english/selecting/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN6",
             "datatype": "exams",
@@ -709,7 +709,7 @@
           },
           {
             "chaptertitle": "Sentence Correction",
-            "chapterpath": "exams/english/correction/",
+            "chapterpath": "apps/english/correction/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN7",
             "datatype": "exams",
@@ -718,7 +718,7 @@
           },
           {
             "chaptertitle": "Idioms and Phrases",
-            "chapterpath": "exams/english/idioms/",
+            "chapterpath": "apps/english/idioms/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN8",
             "datatype": "exams",
@@ -727,7 +727,7 @@
           },
           {
             "chaptertitle": "Sentence Improvement",
-            "chapterpath": "exams/english/improvement/",
+            "chapterpath": "apps/english/improvement/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN9",
             "datatype": "exams",
@@ -736,7 +736,7 @@
           },
           {
             "chaptertitle": "Grammar Online",
-            "chapterpath": "exams/english/grammar/",
+            "chapterpath": "apps/english/grammar/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN10",
             "datatype": "exams",
@@ -745,7 +745,7 @@
           },
           {
             "chaptertitle": "Common Error Detection",
-            "chapterpath": "exams/english/commonerror/",
+            "chapterpath": "apps/english/commonerror/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN11",
             "datatype": "exams",
@@ -754,7 +754,7 @@
           },
           {
             "chaptertitle": "Sentence Completion",
-            "chapterpath": "exams/english/completion/",
+            "chapterpath": "apps/english/completion/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN12",
             "datatype": "exams",
@@ -763,7 +763,7 @@
           },
           {
             "chaptertitle": "Direct and Indirect Speech",
-            "chapterpath": "exams/english/speech/",
+            "chapterpath": "apps/english/speech/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN13",
             "datatype": "exams",
@@ -772,7 +772,7 @@
           },
           {
             "chaptertitle": "Ordering Words",
-            "chapterpath": "exams/english/orderingwords/",
+            "chapterpath": "apps/english/orderingwords/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN14",
             "datatype": "exams",
@@ -781,7 +781,7 @@
           },
           {
             "chaptertitle": "Ordering Sentences",
-            "chapterpath": "exams/english/orderingsentence/",
+            "chapterpath": "apps/english/orderingsentence/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN15",
             "datatype": "exams",
@@ -790,7 +790,7 @@
           },
           {
             "chaptertitle": "Verbal Analogies",
-            "chapterpath": "exams/english/verbal/",
+            "chapterpath": "apps/english/verbal/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN16",
             "datatype": "exams",
@@ -799,7 +799,7 @@
           },
           {
             "chaptertitle": "Sentence Formation",
-            "chapterpath": "exams/english/formation/",
+            "chapterpath": "apps/english/formation/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN17",
             "datatype": "exams",
@@ -808,7 +808,7 @@
           },
           {
             "chaptertitle": "Completing Statements",
-            "chapterpath": "exams/english/statements/",
+            "chapterpath": "apps/english/statements/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN18",
             "datatype": "exams",
@@ -817,7 +817,7 @@
           },
           {
             "chaptertitle": "Change of Speech",
-            "chapterpath": "exams/english/change/",
+            "chapterpath": "apps/english/change/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EN19",
             "datatype": "exams",

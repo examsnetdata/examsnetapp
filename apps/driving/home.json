@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "Mock Theory Tests",
-            "chapterpath": "exams/driving/mock/",
+            "chapterpath": "apps/driving/mock/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",
@@ -20,7 +20,7 @@
           },
           {
             "chaptertitle": "Theory Tests Category",
-            "chapterpath": "exams/driving/category/",
+            "chapterpath": "apps/driving/category/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA0",
             "datatype": "exams",

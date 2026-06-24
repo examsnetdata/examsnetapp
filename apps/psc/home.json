@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "APPSC Exam Model Papers",
-            "chapterpath": "exams/psc/appscmd/",
+            "chapterpath": "apps/psc/appscmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA0",
             "datatype": "exams",
@@ -20,7 +20,7 @@
           },
           {
             "chaptertitle": "APPSC Group I & II Previous papers",
-            "chapterpath": "exams/psc/appscprev/",
+            "chapterpath": "apps/psc/appscprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",
@@ -29,7 +29,7 @@
           },
           {
             "chaptertitle": "APPSC Group III & IV Previous papers",
-            "chapterpath": "exams/psc/appscgroup3/",
+            "chapterpath": "apps/psc/appscgroup3/",
             "clogo": "fa-solid fa-pen",
             "savekey": "PA1",
             "datatype": "exams",
@@ -44,7 +44,7 @@
         "chapters": [
           {
             "chaptertitle": "BPSC Exam Previous Papers",
-            "chapterpath": "exams/psc/bpsc/",
+            "chapterpath": "apps/psc/bpsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA2",
             "datatype": "exams",
@@ -60,7 +60,7 @@
         "chapters": [
           {
             "chaptertitle": "Chhattisgarh PSC Previous Papers",
-            "chapterpath": "exams/psc/appscmd/",
+            "chapterpath": "apps/psc/appscmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA3",
             "datatype": "exams",
@@ -76,7 +76,7 @@
         "chapters": [
           {
             "chaptertitle": "Jharkhand PSC Previous Papers",
-            "chapterpath": "exams/psc/jpsc/",
+            "chapterpath": "apps/psc/jpsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA4",
             "datatype": "exams",
@@ -92,7 +92,7 @@
         "chapters": [
           {
             "chaptertitle": "Kerala State PSC Papers",
-            "chapterpath": "exams/psc/kpsc/",
+            "chapterpath": "apps/psc/kpsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA5",
             "datatype": "exams",
@@ -108,7 +108,7 @@
         "chapters": [
           {
             "chaptertitle": "MPPSC Previous Papers",
-            "chapterpath": "exams/psc/mppsc/",
+            "chapterpath": "apps/psc/mppsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA7",
             "datatype": "exams",
@@ -124,7 +124,7 @@
         "chapters": [
           {
             "chaptertitle": "Maharashtra PSC Papers",
-            "chapterpath": "exams/psc/appscmd/",
+            "chapterpath": "apps/psc/appscmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA8",
             "datatype": "exams",
@@ -140,7 +140,7 @@
         "chapters": [
           {
             "chaptertitle": "OPSC OAS Exam Previous Papers",
-            "chapterpath": "exams/psc/opscoas/",
+            "chapterpath": "apps/psc/opscoas/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA9",
             "datatype": "exams",
@@ -149,7 +149,7 @@
           },
           {
             "chaptertitle": "Odisha PSC Exam Previous Papers",
-            "chapterpath": "exams/psc/opsc/",
+            "chapterpath": "apps/psc/opsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA10",
             "datatype": "exams",
@@ -165,7 +165,7 @@
         "chapters": [
           {
             "chaptertitle": "Tamilnadu PSC Model Papers",
-            "chapterpath": "exams/psc/tnpsc/",
+            "chapterpath": "apps/psc/tnpsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA11",
             "datatype": "exams",
@@ -181,7 +181,7 @@
         "chapters": [
           {
             "chaptertitle": "Telangana PSC Model Papers",
-            "chapterpath": "exams/psc/tspscmd/",
+            "chapterpath": "apps/psc/tspscmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA12",
             "datatype": "exams",
@@ -190,7 +190,7 @@
           },
           {
             "chaptertitle": "Telangana PSC Previous Papers",
-            "chapterpath": "exams/psc/tspscprev/",
+            "chapterpath": "apps/psc/tspscprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA13",
             "datatype": "exams",
@@ -206,7 +206,7 @@
         "chapters": [
           {
             "chaptertitle": "UPPSC Exam Previous Papers",
-            "chapterpath": "exams/psc/uppsc/",
+            "chapterpath": "apps/psc/uppsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA14",
             "datatype": "exams",
@@ -222,7 +222,7 @@
         "chapters": [
           {
             "chaptertitle": "WBPSC Exam Previous Papers",
-            "chapterpath": "exams/psc/wbpsc/",
+            "chapterpath": "apps/psc/wbpsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA15",
             "datatype": "exams",
@@ -238,7 +238,7 @@
         "chapters": [
           {
             "chaptertitle": "Punjab Civil Service Previous Papers",
-            "chapterpath": "exams/psc/punjab/",
+            "chapterpath": "apps/psc/punjab/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA16",
             "datatype": "exams",
