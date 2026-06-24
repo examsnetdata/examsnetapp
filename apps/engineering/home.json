@@ -10,7 +10,7 @@
         "chapters": [
           {
             "chaptertitle": "BITSAT Previous Papers",
-            "chapterpath": "apps/engineering/bitsat/",
+            "chapterpath": "engineering/bitsat/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA5",
             "datatype": "exams",
@@ -25,7 +25,7 @@
         "chapters": [
           {
             "chaptertitle": "Chhattisgarh PET Previous Papers",
-            "chapterpath": "apps/engineering/cgpet/",
+            "chapterpath": "engineering/cgpet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA6",
             "datatype": "exams",
@@ -41,7 +41,7 @@
         "chapters": [
           {
             "chaptertitle": "AP EAMCET Previous Papers",
-            "chapterpath": "apps/engineering/eamcet/",
+            "chapterpath": "engineering/eamcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",
@@ -50,7 +50,7 @@
           },
           {
             "chaptertitle": "AP EAPCET Previous Papers",
-            "chapterpath": "apps/engineering/eapcet/",
+            "chapterpath": "engineering/eapcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA2",
             "datatype": "exams",
@@ -59,7 +59,7 @@
           },
           {
             "chaptertitle": "TS EAMCET Previous Papers",
-            "chapterpath": "apps/engineering/tseamcet/",
+            "chapterpath": "engineering/tseamcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA17",
             "datatype": "exams",
@@ -68,7 +68,7 @@
           },
           {
             "chaptertitle": "AP and TS EAMCET Model Papers",
-            "chapterpath": "apps/engineering/eamcetmd/",
+            "chapterpath": "engineering/eamcetmd/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA4",
             "datatype": "exams",
@@ -84,7 +84,7 @@
         "chapters": [
           {
             "chaptertitle": "GUJCET Previous Papers",
-            "chapterpath": "apps/engineering/gujcet/",
+            "chapterpath": "engineering/gujcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA9",
             "datatype": "exams",
@@ -100,7 +100,7 @@
         "chapters": [
           {
             "chaptertitle": "KCET Previous Papers",
-            "chapterpath": "apps/engineering/kcet/",
+            "chapterpath": "engineering/kcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA10",
             "datatype": "exams",
@@ -116,7 +116,7 @@
         "chapters": [
           {
             "chaptertitle": "KEAM Previous Papers",
-            "chapterpath": "apps/engineering/keam/",
+            "chapterpath": "engineering/keam/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA11",
             "datatype": "exams",
@@ -132,7 +132,7 @@
         "chapters": [
           {
             "chaptertitle": "MHTCET Previous Papers",
-            "chapterpath": "apps/engineering/mhtcet/",
+            "chapterpath": "engineering/mhtcet/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA12",
             "datatype": "exams",
@@ -148,7 +148,7 @@
         "chapters": [
           {
             "chaptertitle": "Manipal Previous Papers",
-            "chapterpath": "apps/engineering/manipal/",
+            "chapterpath": "engineering/manipal/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA15",
             "datatype": "exams",
@@ -164,7 +164,7 @@
         "chapters": [
           {
             "chaptertitle": "UPSEE Previous Papers",
-            "chapterpath": "apps/engineering/upseeeprev/",
+            "chapterpath": "engineering/upseeeprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA19",
             "datatype": "exams",
@@ -180,7 +180,7 @@
         "chapters": [
           {
             "chaptertitle": "VITEEE Previous Papers",
-            "chapterpath": "apps/engineering/viteee/",
+            "chapterpath": "engineering/viteee/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA20",
             "datatype": "exams",
@@ -196,7 +196,7 @@
         "chapters": [
           {
             "chaptertitle": "WBJEE Previous Papers",
-            "chapterpath": "apps/engineering/wbjee/",
+            "chapterpath": "engineering/wbjee/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA21",
             "datatype": "exams",

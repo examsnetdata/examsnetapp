@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "AIIMS Nursing Previous Papers",
-            "chapterpath": "apps/nurse/aiimsnurse/",
+            "chapterpath": "nurse/aiimsnurse/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA1",
             "datatype": "exams",
@@ -27,7 +27,7 @@
         "chapters": [
           {
             "chaptertitle": "ANM Previous Papers",
-            "chapterpath": "apps/nurse/anm/",
+            "chapterpath": "nurse/anm/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA2",
             "datatype": "exams",
@@ -43,7 +43,7 @@
         "chapters": [
           {
             "chaptertitle": "ESIC Nursing Previous Papers",
-            "chapterpath": "apps/nurse/esicnurse/",
+            "chapterpath": "nurse/esicnurse/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA3",
             "datatype": "exams",
@@ -59,7 +59,7 @@
         "chapters": [
           {
             "chaptertitle": "BSc Nursing GNM Previous Papers",
-            "chapterpath": "apps/nurse/bscnurse/",
+            "chapterpath": "nurse/bscnurse/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA4",
             "datatype": "exams",

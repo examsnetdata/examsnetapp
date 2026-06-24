@@ -354,7 +354,7 @@
         "chapters": [
           {
             "chaptertitle": "SSC CGL Previous Papers",
-            "chapterpath": "apps/ssc/cglprev/",
+            "chapterpath": "ssc/cglprev/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGL",
             "datatype": "exams",
@@ -363,7 +363,7 @@
           },
           {
             "chaptertitle": "SSC CGL Model Papers",
-            "chapterpath": "apps/ssc/cglmodel/",
+            "chapterpath": "ssc/cglmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CGM",
             "datatype": "exams",
@@ -372,7 +372,7 @@
           },
           {
             "chaptertitle": "SSC CGL Tier 2 Papers",
-            "chapterpath": "apps/ssc/cgltier2/",
+            "chapterpath": "ssc/cgltier2/",
             "clogo": "fa-solid fa-pen",
             "savekey": "CG2",
             "datatype": "exams",

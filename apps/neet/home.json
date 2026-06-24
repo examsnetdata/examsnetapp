@@ -10,7 +10,7 @@
         "chapters": [
           {
             "chaptertitle": "NEET Previous Papers",
-            "chapterpath": "apps/neet/previous/",
+            "chapterpath": "neet/previous/",
             "clogo": "fa-solid fa-pen",
             "savekey": "NPP",
             "datatype": "exams",
@@ -18,7 +18,7 @@
           },
           {
             "chaptertitle": "NEET Model Papers",
-            "chapterpath": "apps/neet/model/",
+            "chapterpath": "neet/model/",
             "clogo": "fa-solid fa-pen",
             "savekey": "NMP",
             "datatype": "exams",
@@ -32,7 +32,7 @@
         "chapters": [
           {
             "chaptertitle": "Class 11 Biology Questions",
-            "chapterpath": "apps/neet/chapters/biology11/",
+            "chapterpath": "neet/chapters/biology11/",
             "clogo": "fa-solid fa-pen",
             "savekey": "N1B",
             "datatype": "exams",
@@ -40,7 +40,7 @@
           },
           {
             "chaptertitle": "Class 12 Biology Questions",
-            "chapterpath": "apps/neet/chapters/biology12/",
+            "chapterpath": "neet/chapters/biology12/",
             "clogo": "fa-solid fa-pen",
             "savekey": "N2B",
             "datatype": "exams",
@@ -48,7 +48,7 @@
           },
           {
             "chaptertitle": "Class 11 Chemistry Questions",
-            "chapterpath": "apps/neet/chapters/chemistry11/",
+            "chapterpath": "neet/chapters/chemistry11/",
             "clogo": "fa-solid fa-pen",
             "savekey": "N1C",
             "datatype": "exams",
@@ -56,7 +56,7 @@
           },
           {
             "chaptertitle": "Class 12 Chemistry Questions",
-            "chapterpath": "apps/neet/chapters/chemistry12/",
+            "chapterpath": "neet/chapters/chemistry12/",
             "clogo": "fa-solid fa-pen",
             "savekey": "N2C",
             "datatype": "exams",
@@ -64,7 +64,7 @@
           },
           {
             "chaptertitle": "Class 11 Physics Questions",
-            "chapterpath": "apps/neet/chapters/physics11/",
+            "chapterpath": "neet/chapters/physics11/",
             "clogo": "fa-solid fa-pen",
             "savekey": "N1P",
             "datatype": "exams",
@@ -72,7 +72,7 @@
           },
           {
             "chaptertitle": "Class 12 Physics Questions",
-            "chapterpath": "apps/neet/chapters/physics12/",
+            "chapterpath": "neet/chapters/physics12/",
             "clogo": "fa-solid fa-pen",
             "savekey": "N2P",
             "datatype": "exams",
@@ -86,7 +86,7 @@
         "chapters": [
           {
             "chaptertitle": "AIPMT Previous Papers",
-            "chapterpath": "apps/neet/aipmt/",
+            "chapterpath": "neet/aipmt/",
             "clogo": "fa-solid fa-pen",
             "savekey": "AIP",
             "datatype": "exams",
@@ -108,7 +108,7 @@
         "chapters": [
           {
             "chaptertitle": "NEET Biology Class 11 Lecture",
-            "chapterpath": "apps/neet/youtube/class11biology/",
+            "chapterpath": "neet/youtube/class11biology/",
             "clogo": "fa-brands fa-youtube",
             "savekey": "EXA0",
             "datatype": "link",
@@ -117,7 +117,7 @@
           },
           {
             "chaptertitle": "NEET Biology Class 12 Lecture",
-            "chapterpath": "apps/neet/youtube/class12biology/",
+            "chapterpath": "neet/youtube/class12biology/",
             "clogo": "fa-brands fa-youtube",
             "savekey": "EXA0",
             "datatype": "link",
@@ -126,7 +126,7 @@
           },
           {
             "chaptertitle": "NEET Biology Previous Year Solutions",
-            "chapterpath": "apps/neet/youtube/biologysolutions/",
+            "chapterpath": "neet/youtube/biologysolutions/",
             "clogo": "fa-brands fa-youtube",
             "savekey": "EXA0",
             "datatype": "link",
@@ -135,7 +135,7 @@
           },
           {
             "chaptertitle": "NEET Physics Previous Year Solutions",
-            "chapterpath": "apps/neet/youtube/phychemsolutions/",
+            "chapterpath": "neet/youtube/phychemsolutions/",
             "clogo": "fa-brands fa-youtube",
             "savekey": "EXA0",
             "datatype": "link",
