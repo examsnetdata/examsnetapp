@@ -62,9 +62,9 @@
               "subjectKeys": [
                 "UPSCNDACP"
               ],
-              "totalTests": 58,
-              "testsLabel": "58 Tests",
-              "badgeText": "58 Tests"
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
             },
             {
               "chaptertitle": "NDA General Science Questions",
@@ -77,9 +77,9 @@
               "subjectKeys": [
                 "UPSCNDACP"
               ],
-              "totalTests": 58,
-              "testsLabel": "58 Tests",
-              "badgeText": "58 Tests"
+              "totalTests": 7,
+              "testsLabel": "7 Tests",
+              "badgeText": "7 Tests"
             },
             {
               "chaptertitle": "NDA General Studies Questions",
@@ -92,9 +92,9 @@
               "subjectKeys": [
                 "UPSCNDACP"
               ],
-              "totalTests": 58,
-              "testsLabel": "58 Tests",
-              "badgeText": "58 Tests"
+              "totalTests": 7,
+              "testsLabel": "7 Tests",
+              "badgeText": "7 Tests"
             },
             {
               "chaptertitle": "NDA Math Questions",
@@ -107,9 +107,9 @@
               "subjectKeys": [
                 "UPSCNDACP"
               ],
-              "totalTests": 58,
-              "testsLabel": "58 Tests",
-              "badgeText": "58 Tests"
+              "totalTests": 34,
+              "testsLabel": "34 Tests",
+              "badgeText": "34 Tests"
             }
           ]
         }

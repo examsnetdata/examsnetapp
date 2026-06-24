@@ -59,9 +59,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 98,
-              "testsLabel": "98 Tests",
-              "badgeText": "98 Tests"
+              "totalTests": 27,
+              "testsLabel": "27 Tests",
+              "badgeText": "27 Tests"
             },
             {
               "chaptertitle": "Class 12 Biology Questions",
@@ -73,9 +73,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 98,
-              "testsLabel": "98 Tests",
-              "badgeText": "98 Tests"
+              "totalTests": 20,
+              "testsLabel": "20 Tests",
+              "badgeText": "20 Tests"
             },
             {
               "chaptertitle": "Class 11 Chemistry Questions",
@@ -87,9 +87,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 98,
-              "testsLabel": "98 Tests",
-              "badgeText": "98 Tests"
+              "totalTests": 13,
+              "testsLabel": "13 Tests",
+              "badgeText": "13 Tests"
             },
             {
               "chaptertitle": "Class 12 Chemistry Questions",
@@ -101,9 +101,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 98,
-              "testsLabel": "98 Tests",
-              "badgeText": "98 Tests"
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
             },
             {
               "chaptertitle": "Class 11 Physics Questions",
@@ -115,9 +115,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 98,
-              "testsLabel": "98 Tests",
-              "badgeText": "98 Tests"
+              "totalTests": 11,
+              "testsLabel": "11 Tests",
+              "badgeText": "11 Tests"
             },
             {
               "chaptertitle": "Class 12 Physics Questions",
@@ -129,9 +129,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 98,
-              "testsLabel": "98 Tests",
-              "badgeText": "98 Tests"
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
             }
           ]
         }
