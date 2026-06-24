@@ -7,6 +7,7 @@
       {
         "subjecttitle": "CTET Exam Practice",
         "slogo": "fa-solid fa-user-group",
+        "expanded": true,
         "chapters": [
           {
             "chaptertitle": "CTET 1 Previous Papers",
