@@ -13,7 +13,7 @@
         "label": "Exams"
       },
       {
-        "value": "0",
+        "value": "3289",
         "label": "Mock Tests"
       },
       {
@@ -24,7 +24,7 @@
   },
   "bannerConfig": {
     "active": false,
-    "path": "examsnetdata/launch-banners"
+    "path": "examsnetapp/launch-banners"
   },
   "gptOptions": {
     "provider": "ollama",
@@ -51,17 +51,17 @@
               "id": "jee-advanced",
               "title": "JEE Advanced",
               "subtitle": "JEE Advanced Exam Papers",
-              "testsLabel": "50 Tests",
+              "testsLabel": "170 Tests",
               "icon": "fa-solid fa-user-graduate",
-              "homePath": "examsnetdata/jee/home/adv/"
+              "homePath": "examsnetapp/jee/home/adv/"
             },
             {
               "id": "jee-main",
               "title": "JEE Main",
               "subtitle": "JEE Main Exam Papers",
-              "testsLabel": "42 Tests",
+              "testsLabel": "409 Tests",
               "icon": "fa-solid fa-calculator",
-              "homePath": "examsnetdata/jee/home/main/"
+              "homePath": "examsnetapp/jee/home/main/"
             }
           ]
         },
@@ -77,25 +77,25 @@
               "id": "neet",
               "title": "NEET",
               "subtitle": "NEET Exam Papers",
-              "testsLabel": "38 Tests",
+              "testsLabel": "183 Tests",
               "icon": "fa-solid fa-stethoscope",
-              "homePath": "examsnetdata/medical/home/neet/"
+              "homePath": "examsnetapp/medical/home/neet/"
             },
             {
               "id": "aipmt",
               "title": "AIPMT",
               "subtitle": "AIPMT Exam Papers",
-              "testsLabel": "18 Tests",
+              "testsLabel": "30 Tests",
               "icon": "fa-solid fa-user-doctor",
-              "homePath": "examsnetdata/medical/home/aipmt/"
+              "homePath": "examsnetapp/medical/home/aipmt/"
             },
             {
               "id": "eamcet-medical",
               "title": "EAMCET Medical",
               "subtitle": "EAMCET Medical Exam Papers",
-              "testsLabel": "18 Tests",
+              "testsLabel": "78 Tests",
               "icon": "fa-solid fa-heart-pulse",
-              "homePath": "examsnetdata/medical/home/eamcet/"
+              "homePath": "examsnetapp/medical/home/eamcet/"
             }
           ]
         },
@@ -111,33 +111,33 @@
               "id": "eng-bitsat",
               "title": "BITSAT",
               "subtitle": "BITSAT Exam Papers",
-              "testsLabel": "28 Tests",
+              "testsLabel": "23 Tests",
               "icon": "fa-solid fa-lightbulb",
-              "homePath": "examsnetdata/engineering/home/bitsat/"
+              "homePath": "examsnetapp/engineering/home/bitsat/"
             },
             {
               "id": "eng-eamcet",
               "title": "EAMCET or EAPCET",
               "subtitle": "AP and TS EAMCET Papers",
-              "testsLabel": "50 Tests",
+              "testsLabel": "256 Tests",
               "icon": "fa-solid fa-gears",
-              "homePath": "examsnetdata/engineering/home/eamcet/"
+              "homePath": "examsnetapp/engineering/home/eamcet/"
             },
             {
               "id": "eng-kcet",
               "title": "KCET",
               "subtitle": "KCET Exam Papers",
-              "testsLabel": "30 Tests",
+              "testsLabel": "86 Tests",
               "icon": "fa-solid fa-compass-drafting",
-              "homePath": "examsnetdata/engineering/home/kcet/"
+              "homePath": "examsnetapp/engineering/home/kcet/"
             },
             {
               "id": "eng-viteee",
               "title": "VITEEE",
               "subtitle": "VIT Engineering Entrance Exam Papers",
-              "testsLabel": "30 Tests",
+              "testsLabel": "16 Tests",
               "icon": "fa-solid fa-microchip",
-              "homePath": "examsnetdata/engineering/home/viteee/"
+              "homePath": "examsnetapp/engineering/home/viteee/"
             }
           ]
         },
@@ -153,33 +153,33 @@
               "id": "ssc-cgl",
               "title": "SSC CGL",
               "subtitle": "SSC CGL Exam Papers",
-              "testsLabel": "45 Tests",
+              "testsLabel": "238 Tests",
               "icon": "fa-solid fa-file-lines",
-              "homePath": "examsnetdata/ssc/home/cgl/"
+              "homePath": "examsnetapp/ssc/home/cgl/"
             },
             {
               "id": "ssc-chsl",
               "title": "SSC CHSL",
               "subtitle": "SSC CHSL Exam Papers",
-              "testsLabel": "45 Tests",
+              "testsLabel": "186 Tests",
               "icon": "fa-solid fa-file-lines",
-              "homePath": "examsnetdata/ssc/home/chsl/"
+              "homePath": "examsnetapp/ssc/home/chsl/"
             },
             {
               "id": "ssc-steno",
               "title": "SSC Stenographer",
               "subtitle": "SSC Stenographer Exam Papers",
-              "testsLabel": "45 Tests",
+              "testsLabel": "102 Tests",
               "icon": "fa-solid fa-file-lines",
-              "homePath": "examsnetdata/ssc/home/steno/"
+              "homePath": "examsnetapp/ssc/home/steno/"
             },
             {
               "id": "ssc-junior-engineer",
               "title": "SSC Junior Engineer",
               "subtitle": "SSC JE Exam Papers",
-              "testsLabel": "45 Tests",
+              "testsLabel": "136 Tests",
               "icon": "fa-solid fa-file-lines",
-              "homePath": "examsnetdata/ssc/home/je/"
+              "homePath": "examsnetapp/ssc/home/je/"
             }
           ]
         },
@@ -195,25 +195,25 @@
               "id": "rrb-alp",
               "title": "RRB ALP",
               "subtitle": "RRB ALP Exam Papers",
-              "testsLabel": "45 Tests",
+              "testsLabel": "52 Tests",
               "icon": "fa-solid fa-train",
-              "homePath": "examsnetdata/rrb/home/rrbalp/"
+              "homePath": "examsnetapp/rrb/home/rrbalp/"
             },
             {
               "id": "rrb-groupd",
               "title": "RRB Group D",
               "subtitle": "RRB Group D Exam Papers",
-              "testsLabel": "45 Tests",
+              "testsLabel": "148 Tests",
               "icon": "fa-solid fa-train",
-              "homePath": "examsnetdata/rrb/home/groupd/"
+              "homePath": "examsnetapp/rrb/home/groupd/"
             },
             {
               "id": "rrb-ntpc",
               "title": "RRB NTPC",
               "subtitle": "RRB NTPC Exam Papers",
-              "testsLabel": "45 Tests",
+              "testsLabel": "91 Tests",
               "icon": "fa-solid fa-train",
-              "homePath": "examsnetdata/rrb/home/rrbntpc/"
+              "homePath": "examsnetapp/rrb/home/rrbntpc/"
             }
           ]
         },
@@ -229,17 +229,17 @@
               "id": "teacher-ctet",
               "title": "CTET",
               "subtitle": "CTET 1 and CTET 2 Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "253 Tests",
               "icon": "fa-solid fa-user-graduate",
-              "homePath": "examsnetdata/tets/home/ctet/"
+              "homePath": "examsnetapp/tets/home/ctet/"
             },
             {
               "id": "teacher-ugcnet",
               "title": "UGC NET",
               "subtitle": "UGC NET Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "105 Tests",
               "icon": "fa-solid fa-user-pen",
-              "homePath": "examsnetdata/tets/home/ugcnet/"
+              "homePath": "examsnetapp/tets/home/ugcnet/"
             }
           ]
         },
@@ -255,9 +255,9 @@
               "id": "defence-afcat",
               "title": "AFCAT",
               "subtitle": "AFCAT Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "37 Tests",
               "icon": "fa-solid fa-jet-fighter",
-              "homePath": "examsnetdata/defence/home/afcat/"
+              "homePath": "examsnetapp/defence/home/afcat/"
             }
           ]
         },
@@ -273,33 +273,33 @@
               "id": "upsc-cds",
               "title": "UPSC CDS",
               "subtitle": "CDS Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "194 Tests",
               "icon": "fa-solid fa-jet-fighter",
-              "homePath": "examsnetdata/upsc/home/cds/"
+              "homePath": "examsnetapp/upsc/home/cds/"
             },
             {
               "id": "upsc-civils",
               "title": "UPSC Civils",
               "subtitle": "UPSC Civils Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "57 Tests",
               "icon": "fa-solid fa-landmark-dome",
-              "homePath": "examsnetdata/upsc/home/civils/"
+              "homePath": "examsnetapp/upsc/home/civils/"
             },
             {
               "id": "upsc-ese",
               "title": "UPSC ESE",
               "subtitle": "ESE Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "42 Tests",
               "icon": "fa-solid fa-jet-fighter",
-              "homePath": "examsnetdata/upsc/home/ese/"
+              "homePath": "examsnetapp/upsc/home/ese/"
             },
             {
               "id": "upsc-nda",
               "title": "UPSC NDA",
               "subtitle": "NDA Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "169 Tests",
               "icon": "fa-solid fa-jet-fighter",
-              "homePath": "examsnetdata/upsc/home/nda/"
+              "homePath": "examsnetapp/upsc/home/nda/"
             }
           ]
         },
@@ -317,7 +317,7 @@
               "subtitle": "CBSE Exam Papers",
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/board/home/cbse/"
+              "homePath": "examsnetapp/board/home/cbse/"
             },
             {
               "id": "board-icse",
@@ -325,7 +325,7 @@
               "subtitle": "ICSE Exam Papers",
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/board/home/icse/"
+              "homePath": "examsnetapp/board/home/icse/"
             },
             {
               "id": "board-andhra",
@@ -333,7 +333,7 @@
               "subtitle": "Andhra Pradesh Exam Papers",
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/board/home/andhra/"
+              "homePath": "examsnetapp/board/home/andhra/"
             }
           ]
         },
@@ -349,33 +349,33 @@
               "id": "tech-certification",
               "title": "Technical Certification",
               "subtitle": "Java, TOGAF etc.",
-              "testsLabel": "Tests",
+              "testsLabel": "36 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/tech/home/tech/"
+              "homePath": "examsnetapp/tech/home/tech/"
             },
             {
               "id": "manage-certification",
               "title": "Management Certification",
               "subtitle": "PMP, Scrum, PMI-ACP etc",
-              "testsLabel": "Tests",
+              "testsLabel": "56 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/tech/home/manag/"
+              "homePath": "examsnetapp/tech/home/manag/"
             },
             {
               "id": "security-certification",
               "title": "Security Certification",
               "subtitle": "CISSP, CCNA etc.",
-              "testsLabel": "Tests",
+              "testsLabel": "32 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/tech/home/security/"
+              "homePath": "examsnetapp/tech/home/security/"
             },
             {
               "id": "other-certification",
               "title": "Other Certifications",
               "subtitle": "ITIL and other certifications",
-              "testsLabel": "Tests",
+              "testsLabel": "6 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/tech/home/other/"
+              "homePath": "examsnetapp/tech/home/other/"
             }
           ]
         },
@@ -391,17 +391,17 @@
               "id": "gmat-practice",
               "title": "GRE/GMAT Exams",
               "subtitle": "GRE and GMAT Tests",
-              "testsLabel": "Tests",
+              "testsLabel": "36 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/international/home/gregmat/"
+              "homePath": "examsnetapp/international/home/gregmat/"
             },
             {
               "id": "uk-related-exams",
               "title": "UK Related Exams",
               "subtitle": "Driving, Life In UK",
-              "testsLabel": "Tests",
+              "testsLabel": "62 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetdata/international/home/lifeinuk/"
+              "homePath": "examsnetapp/international/home/lifeinuk/"
             }
           ]
         }
@@ -427,7 +427,7 @@
               "subtitle": "CBSE Material",
               "testsLabel": "Resources",
               "icon": "fa-solid fa-book-open-reader",
-              "homePath": "examsnetdata/gdrive/home/ncert/"
+              "homePath": "examsnetapp/gdrive/home/ncert/"
             }
           ]
         },
@@ -445,7 +445,7 @@
               "subtitle": "General Studies materials for various subjects",
               "testsLabel": "Resources",
               "icon": "fa-solid fa-book-open-reader",
-              "homePath": "examsnetdata/gdrive/home/generalstudies/"
+              "homePath": "examsnetapp/gdrive/home/generalstudies/"
             }
           ]
         }
