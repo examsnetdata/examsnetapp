@@ -17,7 +17,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "gdrive/study/generalstudies/biology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
@@ -26,7 +26,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "gdrive/study/generalstudies/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA1",
               "datatype": "link",
@@ -35,7 +35,7 @@
             },
             {
               "chaptertitle": "Environment Ecology",
-              "chapterpath": "gdrive/study/generalstudies/environmentecology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/environmentecology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA2",
               "datatype": "link",
@@ -44,7 +44,7 @@
             },
             {
               "chaptertitle": "History",
-              "chapterpath": "gdrive/study/generalstudies/history/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/history/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA3",
               "datatype": "link",
@@ -53,7 +53,7 @@
             },
             {
               "chaptertitle": "India and World Geography",
-              "chapterpath": "gdrive/study/generalstudies/indiaandworldgeography/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indiaandworldgeography/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA4",
               "datatype": "link",
@@ -62,7 +62,7 @@
             },
             {
               "chaptertitle": "Indian Economy",
-              "chapterpath": "gdrive/study/generalstudies/indianeconomy/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianeconomy/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA5",
               "datatype": "link",
@@ -71,7 +71,7 @@
             },
             {
               "chaptertitle": "Indian Politics",
-              "chapterpath": "gdrive/study/generalstudies/indianpolitics/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianpolitics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA6",
               "datatype": "link",
@@ -80,7 +80,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "gdrive/study/generalstudies/physics/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA7",
               "datatype": "link",
@@ -89,7 +89,7 @@
             },
             {
               "chaptertitle": "Science and Technology",
-              "chapterpath": "gdrive/study/generalstudies/scienceandtechnology/",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/scienceandtechnology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA8",
               "datatype": "link",
@@ -105,7 +105,7 @@
           "chapters": [
             {
               "chaptertitle": "Child Development & Pedagogy",
-              "chapterpath": "gdrive/study/ctet/pedagogy/",
+              "chapterpath": "examsnetapp/gdrive/study/ctet/pedagogy/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
