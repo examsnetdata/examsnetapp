@@ -9,7 +9,7 @@
         "chapters": [
           {
             "chaptertitle": "Algebra and Higher Math",
-            "chapterpath": "examsnetapp/aptitude/algebra/",
+            "chapterpath": "aptitude/algebra/",
             "clogo": "fa-solid fa-square-root-variable",
             "savekey": "QA1",
             "datatype": "exams",
@@ -17,7 +17,7 @@
           },
           {
             "chaptertitle": "Arithmetic",
-            "chapterpath": "examsnetapp/aptitude/arithmetic/",
+            "chapterpath": "aptitude/arithmetic/",
             "clogo": "fa-solid fa-pen-ruler",
             "savekey": "QA2",
             "datatype": "exams",
@@ -25,7 +25,7 @@
           },
           {
             "chaptertitle": "Commercial Math",
-            "chapterpath": "examsnetapp/aptitude/commercial/",
+            "chapterpath": "aptitude/commercial/",
             "clogo": "fa-solid fa-hand-holding-dollar",
             "savekey": "QA3",
             "datatype": "exams",
@@ -33,7 +33,7 @@
           },
           {
             "chaptertitle": "Data Based Math",
-            "chapterpath": "examsnetapp/aptitude/data/",
+            "chapterpath": "aptitude/data/",
             "clogo": "fa-solid fa-chart-pie",
             "savekey": "QA4",
             "datatype": "exams",
@@ -41,7 +41,7 @@
           },
           {
             "chaptertitle": "Geometry and Mensuration",
-            "chapterpath": "examsnetapp/aptitude/geometry/",
+            "chapterpath": "aptitude/geometry/",
             "clogo": "fa-solid fa-shapes",
             "savekey": "QA5",
             "datatype": "exams",
@@ -49,7 +49,7 @@
           },
           {
             "chaptertitle": "Number System and Numeracy",
-            "chapterpath": "examsnetapp/aptitude/numbers/",
+            "chapterpath": "aptitude/numbers/",
             "clogo": "fa-solid fa-sort-numeric-up-alt",
             "savekey": "QA6",
             "datatype": "exams",
@@ -57,7 +57,7 @@
           },
           {
             "chaptertitle": "Problem Solving",
-            "chapterpath": "examsnetapp/aptitude/problems/",
+            "chapterpath": "aptitude/problems/",
             "clogo": "fa-solid fa-puzzle-piece",
             "savekey": "QA7",
             "datatype": "exams",
