@@ -31,7 +31,7 @@
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
-            "active": true,
+            "active": false,
             "common": true
           }
         ]
@@ -122,7 +122,7 @@
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
-            "active": true,
+            "active": false,
             "common": true
           }
         ]
@@ -199,7 +199,7 @@
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
-            "active": true,
+            "active": false,
             "common": true
           }
         ]
@@ -224,7 +224,7 @@
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA3",
             "datatype": "link",
-            "active": true,
+            "active": false,
             "common": true
           }
         ]
@@ -234,6 +234,7 @@
   {
     "categorytitle": "More UPSC Papers",
     "elogo": "fa-solid fa-file-pen",
+     "active": false,
     "subjects": [
       {
         "subjecttitle": "UPSC Previous Papers PDF",
