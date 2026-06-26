@@ -24,7 +24,16 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          },
+          {
+            "chaptertitle": "UPSC CDS Papers PDF",
+            "chapterpath": "india/upsc/cds/previouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA0",
+            "datatype": "link",
+            "active": false,
+            "common": true
+          }
         ]
       },
       {
@@ -106,7 +115,16 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          },
+          {
+            "chaptertitle": "UPSC NDA Papers PDF",
+            "chapterpath": "india/upsc/nda/previouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA0",
+            "datatype": "link",
+            "active": false,
+            "common": true
+          }
         ]
       },
       {
@@ -174,7 +192,16 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          },
+          {
+            "chaptertitle": "UPSC Civils Papers PDF",
+            "chapterpath": "india/upsc/civils/previouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA0",
+            "datatype": "link",
+            "active": false,
+            "common": true
+          }
         ]
       },
       {
@@ -190,12 +217,69 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          },
+          {
+            "chaptertitle": "CAPF Previous PDF",
+            "chapterpath": "india/upsc/capf/previouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA3",
+            "datatype": "link",
+            "active": false,
+            "common": true
+          }
         ]
       }
     ]
   },
-   
+  {
+    "categorytitle": "More UPSC Papers",
+    "elogo": "fa-solid fa-file-pen",
+     "active": false,
+    "subjects": [
+      {
+        "subjecttitle": "UPSC Previous Papers PDF",
+        "slogo": "fa-solid fa-calculator",
+        "chapters": [
+          {
+            "chaptertitle": "CISF Previous Papers",
+            "chapterpath": "india/upsc/cisf/previouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA2",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "CMS Previous Papers",
+            "chapterpath": "india/upsc/cms/previouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA4",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Engineering Mains Previous Papers",
+            "chapterpath": "india/upsc/engineering/mainspreviouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA5",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Engineering Prelims Previous Papers",
+            "chapterpath": "india/upsc/engineering/prelimspreviouspapers/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA6",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          }
+        ]
+      }
+    ]
+  },
   {
     "categorytitle": "More Practice Tests",
     "elogo": "fa-solid fa-file-pen",
