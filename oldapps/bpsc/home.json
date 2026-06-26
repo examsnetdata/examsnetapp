@@ -11,7 +11,7 @@
         "chapters": [
           {
             "chaptertitle": "BPSC Previous Papers",
-            "chapterpath": "examsnetapp/psc/bpsc/",
+            "chapterpath": "psc/bpsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA2",
             "datatype": "exams",
