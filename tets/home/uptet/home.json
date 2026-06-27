@@ -15,7 +15,7 @@
           "chapters": [
              {
             "chaptertitle": "UPTET Exam Model Papers",
-            "chapterpath": "tets/uptetmodel/",
+            "chapterpath": "examsnetapp/tets/uptetmodel/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA20",
             "datatype": "exams",
@@ -24,7 +24,7 @@
           },
           {
             "chaptertitle": "UPTET Paper 1 Previous Papers",
-            "chapterpath": "tets/uptetiv/",
+            "chapterpath": "examsnetapp/tets/uptetiv/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA20",
             "datatype": "exams",
@@ -33,7 +33,7 @@
           },
           {
             "chaptertitle": "UPTET Paper 2 Math Previous Papers",
-            "chapterpath": "tets/uptetmath/",
+            "chapterpath": "examsnetapp/tets/uptetmath/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA21",
             "datatype": "exams",
@@ -42,7 +42,7 @@
           },
           {
             "chaptertitle": "UPTET Paper 2 Social Previous Papers",
-            "chapterpath": "tets/uptetsoc/",
+            "chapterpath": "examsnetapp/tets/uptetsoc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA22",
             "datatype": "exams",
