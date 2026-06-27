@@ -240,6 +240,14 @@
               "testsLabel": "105 Tests",
               "icon": "fa-solid fa-user-pen",
               "homePath": "examsnetapp/tets/home/ugcnet/"
+            },
+            {
+              "id": "teacher-uptet",
+              "title": "UP TET",
+              "subtitle": "UP TET Exam Papers",
+              "testsLabel": "105 Tests",
+              "icon": "fa-solid fa-user-pen",
+              "homePath": "examsnetapp/tets/home/uptet/"
             }
           ]
         },

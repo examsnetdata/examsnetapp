@@ -1,0 +1,84 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Choose Your Exam",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "UPTET Exam Practice",
+          "slogo": "fa-solid fa-user-group",
+          "chapters": [
+             {
+            "chaptertitle": "UPTET Exam Model Papers",
+            "chapterpath": "tets/uptetmodel/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA20",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "UPTET Paper 1 Previous Papers",
+            "chapterpath": "tets/uptetiv/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA20",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "UPTET Paper 2 Math Previous Papers",
+            "chapterpath": "tets/uptetmath/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA21",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "UPTET Paper 2 Social Previous Papers",
+            "chapterpath": "tets/uptetsoc/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA22",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "CTET Notes",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Child Development & Pedagogy",
+              "chapterpath": "examsnetapp/gdrive/study/ctet/pedagogy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

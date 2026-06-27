@@ -258,6 +258,15 @@
         "active": true,
         "chapters": [
           {
+            "chaptertitle": "UPTET Exam Model Papers",
+            "chapterpath": "tets/uptetmodel/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA20",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
             "chaptertitle": "UPTET Paper 1 Previous Papers",
             "chapterpath": "tets/uptetiv/",
             "clogo": "fa-solid fa-pen",
