@@ -6,17 +6,17 @@
     "type": "home"
   },
   {
-    "title": "Review App",
-    "icon": "fa-regular fa-star",
+    "title": "Text Size",
+    "icon": "fa-solid fa-text-height",
     "link": "#",
-    "type": "rate"
+    "type": "font",
+    "submenu": [
+      {
+        "title": "Adjust app text size"
+      }
+    ]
   },
-  {
-    "title": "Share App",
-    "icon": "fa-solid fa-share",
-    "link": "#",
-    "type": "share"
-  },
+ 
   {
     "title": "Themes",
     "icon": "theme-icon",
@@ -34,6 +34,11 @@
         "link": "cafe",
         "color": "#502112"
       },
+      {
+        "title": "Crimson",
+        "link": "crimson",
+        "color": "#a02a52"
+      }, 
       {
         "title": "Dark",
         "link": "dark",
@@ -76,99 +81,19 @@
       }
     ]
   },
-  {
-    "title": "Social",
-    "icon": "fa-solid fa-share-from-square",
+   {
+    "title": "Review App",
+    "icon": "fa-regular fa-star",
     "link": "#",
-    "type": "links",
-    "submenu": [
-      {
-        "icon": "fa-brands fa-facebook",
-        "title": "Facebook",
-        "link": "https://www.facebook.com/Examsnet9/"
-      },
-      {
-        "icon": "fa-brands fa-youtube",
-        "title": "Youtube",
-        "link": "https://www.youtube.com/c/examsnet"
-      },
-      {
-        "icon": "fa-brands fa-instagram",
-        "title": "Instagram",
-        "link": "https://www.instagram.com/examsnet9/"
-      },
-      {
-        "icon": "fa-brands fa-twitter",
-        "title": "Twitter",
-        "link": "https://x.com/examsnet/"
-      },
-      {
-        "icon": "fa-brands fa-linkedin",
-        "title": "Linkedin",
-        "link": "https://in.linkedin.com/company/examsnet-website/"
-      }
-    ]
+    "type": "rate"
   },
   {
-    "title": "Contact",
-    "icon": "fa-regular fa-envelope",
+    "title": "Share App",
+    "icon": "fa-solid fa-share",
     "link": "#",
-    "type": "list",
-    "submenu": [
-      {
-        "icon": "fa-regular fa-envelope",
-        "title": "examsnet9@gmail.com"
-      }
-    ]
+    "type": "share"
   },
-  {
-    "title": "About",
-    "icon": "fa-solid fa-circle-info",
-    "link": "#",
-    "type": "text",
-    "submenu": [
-      {
-        "title": "Examsnet is an online platform offering comprehensive practice tests and study materials for a variety of competitive exams"
-      },
-      {
-        "title": "No login or registration is required—take your exam in just 2-3 clicks! Share the good news with your friends."
-      },
-      {
-        "title": "If our app has been helpful, please consider leaving a positive review to help us improve. Just as students forgive a flop movie by not asking for a refund, small app developers rarely receive the same understanding. Your support would mean a lot."
-      }
-    ]
-  },
-  { 
-    "title": "Best Apps Must Try",
-    "icon": "fa-solid fa-mobile-screen",
-    "link": "#",
-    "type": "links",
-    "submenu": [ 
-     
-      {
-        "icon": "fa-brands fa-android",
-        "title": "Math Formulas",
-        "link": "market://details?id=com.whitesof.mathformulas"
-      },
-     
-      {
-        "icon": "fa-brands fa-android",
-        "title": "MPCB Notes",
-        "link": "market://details?id=com.examsnet.pcmbnotes"
-      },
-       
-      {
-        "icon": "fa-brands fa-android",
-        "title": "Periodic Table",
-        "link": "market://details?id=com.whitesof.periodictable"
-      },
-      {
-        "icon": "fa-brands fa-android",
-        "title": "Physics Notes",
-        "link": "market://details?id=com.whitesof.physicsnotes"
-      }
-    ]
-  },
+    
   {
     "title": "Quote of the Day",
     "icon": "fa-solid fa-heart",
