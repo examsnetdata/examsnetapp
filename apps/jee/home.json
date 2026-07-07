@@ -265,7 +265,7 @@
         "chapters": [
           {
             "chaptertitle": "Class 10 Biology Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class10/biology/",
+            "chapterpath": "gdrive/board/cbse/concepts/class10/biology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
@@ -274,7 +274,7 @@
           },
           {
             "chaptertitle": "Class 10 Chemistry Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class10/chemistry/",
+            "chapterpath": "gdrive/board/cbse/concepts/class10/chemistry/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA1",
             "datatype": "link",
@@ -283,7 +283,7 @@
           },
           {
             "chaptertitle": "Class 10 Math Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class10/math/",
+            "chapterpath": "gdrive/board/cbse/concepts/class10/math/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA2",
             "datatype": "link",
@@ -292,7 +292,7 @@
           },
           {
             "chaptertitle": "Class 10 Physics Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class10/physics/",
+            "chapterpath": "gdrive/board/cbse/concepts/class10/physics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA3",
             "datatype": "link",
@@ -301,7 +301,7 @@
           },
           {
             "chaptertitle": "Class 10 Social Science Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class10/socialscience/",
+            "chapterpath": "gdrive/board/cbse/concepts/class10/socialscience/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA4",
             "datatype": "link",
@@ -317,7 +317,7 @@
         "chapters": [
           {
             "chaptertitle": "Class 11 Chemistry Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class11/chemistry/",
+            "chapterpath": "gdrive/board/cbse/concepts/class11/chemistry/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA5",
             "datatype": "link",
@@ -326,7 +326,7 @@
           },
           {
             "chaptertitle": "Class 11 Math Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class11/math/",
+            "chapterpath": "gdrive/board/cbse/concepts/class11/math/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA6",
             "datatype": "link",
@@ -335,7 +335,7 @@
           },
           {
             "chaptertitle": "Class 11 Physics Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class11/physics/",
+            "chapterpath": "gdrive/board/cbse/concepts/class11/physics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA7",
             "datatype": "link",
@@ -351,7 +351,7 @@
         "chapters": [
           {
             "chaptertitle": "Class 12 Biology Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class12/biology/",
+            "chapterpath": "gdrive/board/cbse/concepts/class12/biology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA8",
             "datatype": "link",
@@ -360,7 +360,7 @@
           },
           {
             "chaptertitle": "Class 12 Chemistry Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class12/chemistry/",
+            "chapterpath": "gdrive/board/cbse/concepts/class12/chemistry/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA9",
             "datatype": "link",
@@ -369,7 +369,7 @@
           },
           {
             "chaptertitle": "Class 12 Math Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class12/math/",
+            "chapterpath": "gdrive/board/cbse/concepts/class12/math/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA10",
             "datatype": "link",
@@ -378,7 +378,7 @@
           },
           {
             "chaptertitle": "Class 12 Physics Concepts",
-            "chapterpath": "gdrive/board/cbse/concepts/Class12/physics/",
+            "chapterpath": "gdrive/board/cbse/concepts/class12/physics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA11",
             "datatype": "link",
