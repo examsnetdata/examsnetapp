@@ -4,146 +4,7 @@
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
-      {
-        "subjecttitle": "AP Police Exams",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "AP Police Constable Exam Practice",
-            "chapterpath": "police/apconstmd/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA0",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "AP Police SI Exam Practice",
-            "chapterpath": "police/apsiprev/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA1",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
-      {
-        "subjecttitle": "AP and Telangana Chapterwise",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "Indian History Chapters Wise",
-            "chapterpath": "police/aptschapter/history/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "HA1",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian History Model Papers Set 1",
-            "chapterpath": "police/aptschapter/historymp1/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "HA2",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian History Model Papers Set 2",
-            "chapterpath": "police/aptschapter/historymp2/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "HA3",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian History Model Papers Set 3",
-            "chapterpath": "police/aptschapter/historymp3/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "HA4",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian Geography Chapters Wise",
-            "chapterpath": "police/aptschapter/geography/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA1",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian Geography Model Papers Set 1 ",
-            "chapterpath": "police/aptschapter/igeography1/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA2",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian Geography Model Papers Set 2 ",
-            "chapterpath": "police/aptschapter/igeography1/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA3",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "World Geography Chapters Wise",
-            "chapterpath": "police/aptschapter/wgeography/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA4",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian Economy Chapters Wise",
-            "chapterpath": "police/aptschapter/ieconomy/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA5",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian Economy Model Papers",
-            "chapterpath": "police/aptschapter/ieconomymp/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA6",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian Polity Chapters Wise",
-            "chapterpath": "police/aptschapter/ipolity/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA7",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "Indian Polity Model Papers",
-            "chapterpath": "police/aptschapter/ipolitymp/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "GA8",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
+      
       {
         "subjecttitle": "Bihar Police Exams",
         "slogo": "fa-solid fa-shield-halved",
@@ -210,22 +71,7 @@
           }
         ]
       },
-      {
-        "subjecttitle": "Karnataka Police Exams",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "Karnataka Police Constable and SI Exam Practice Papers",
-            "chapterpath": "police/knpolprev/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA8",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
+       
       {
         "subjecttitle": "Maharashtra Police Exams",
         "slogo": "fa-solid fa-shield-halved",
@@ -267,38 +113,7 @@
           }
         ]
       },
-      {
-        "subjecttitle": "Odisha Police Exams",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "Odisha Police Constable and SI Papers",
-            "chapterpath": "police/odconstsi/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA12",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
-      {
-        "subjecttitle": "Punjab Police Exams",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "Punjab Police Constable and SI Exam Practice",
-            "chapterpath": "police/punconstmd/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA13",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
+      
       {
         "subjecttitle": "Rajasthan Police Exams",
         "slogo": "fa-solid fa-shield-halved",
@@ -324,22 +139,7 @@
           }
         ]
       },
-      {
-        "subjecttitle": "Tamilnadu Police Exams",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "Tamilnadu Police Constable and SI Exam Tests",
-            "chapterpath": "police/tnpoliceprev/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA20",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
+      
       {
         "subjecttitle": "Telangana Police Exams",
         "slogo": "fa-solid fa-shield-halved",
@@ -416,66 +216,7 @@
             "common": false
           }
         ]
-      },
-      {
-        "subjecttitle": "UP Police Exams",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "UP Police Constable Model Papers",
-            "chapterpath": "police/upconstmd/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA21",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "UP Police Constable Previous Papers",
-            "chapterpath": "police/upconstprev/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA22",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "UP Police SI Exam Model Papers",
-            "chapterpath": "police/upsimodel/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA23",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "UP Police SI Previous Papers",
-            "chapterpath": "police/upsiprev/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA24",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
-      {
-        "subjecttitle": "West Bengal Police Exams",
-        "slogo": "fa-solid fa-shield-halved",
-        "active": true,
-        "chapters": [
-          {
-            "chaptertitle": "West Bengal Police Constable and SI Papers",
-            "chapterpath": "police/wbpolice/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA25",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      }
+      } 
     ]
   },
   {
