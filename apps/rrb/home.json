@@ -62,7 +62,7 @@
             "chaptertitle": "RRB NTPC Exam Model Papers",
             "chapterpath": "rrb/rrbntpcmd/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA7",
+            "savekey": "BA4",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -71,7 +71,7 @@
             "chaptertitle": "RRB NTPC Previous Papers",
             "chapterpath": "rrb/rrbntpcprev/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA8",
+            "savekey": "BA5",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -87,7 +87,7 @@
             "chaptertitle": "RRB RPF Constable Previous Papers",
             "chapterpath": "rrb/rrbrpfconsprev/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA10",
+            "savekey": "BA6",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -96,7 +96,7 @@
             "chaptertitle": "RRB RPF SI Exam Model Papers",
             "chapterpath": "rrb/rrbrpfmodel/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA11",
+            "savekey": "BA7",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -105,7 +105,7 @@
             "chaptertitle": "RRB RPF SI Exam Previous Papers",
             "chapterpath": "rrb/rrbrpfsiprev/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA12",
+            "savekey": "BA8",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -121,7 +121,7 @@
             "chaptertitle": "RRB Junior Engineer Stage 1 Model Papers",
             "chapterpath": "rrb/rrbjestage1model/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA5",
+            "savekey": "BA9",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -130,7 +130,7 @@
             "chaptertitle": "RRB Junior Engineer Stage 1 Previous Papers",
             "chapterpath": "rrb/rrbjestage1/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA6",
+            "savekey": "BA10",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -146,7 +146,7 @@
             "chaptertitle": "RRB Paramedical Nursing Model Papers",
             "chapterpath": "rrb/rrbmedicalmodel/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA9",
+            "savekey": "BA11",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -162,7 +162,23 @@
             "chaptertitle": "RRB Pharmacist Papers",
             "chapterpath": "rrb/pharma/",
             "clogo": "fa-solid fa-pills",
-            "savekey": "BA9",
+            "savekey": "BA12",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "RRB Technician Papers",
+        "slogo": "fa-solid fa-train-subway",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "RRB Technician Grade 1 Papers",
+            "chapterpath": "rrb/rrbtechgrade1/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA13",
             "datatype": "exams",
             "active": true,
             "common": false
