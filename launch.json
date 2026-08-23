@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "34",
+        "value": "35",
         "label": "Exams"
       },
       {
-        "value": "3289",
+        "value": "3345",
         "label": "Mock Tests"
       },
       {
@@ -51,7 +51,7 @@
               "id": "jee-advanced",
               "title": "JEE Advanced",
               "subtitle": "JEE Advanced Exam Papers",
-              "testsLabel": "170 Tests",
+              "testsLabel": "172 Tests",
               "icon": "fa-solid fa-user-graduate",
               "homePath": "examsnetapp/jee/home/adv/"
             },
@@ -77,7 +77,7 @@
               "id": "neet",
               "title": "NEET",
               "subtitle": "NEET Exam Papers",
-              "testsLabel": "183 Tests",
+              "testsLabel": "187 Tests",
               "icon": "fa-solid fa-stethoscope",
               "homePath": "examsnetapp/medical/home/neet/"
             },
@@ -203,7 +203,7 @@
               "id": "rrb-groupd",
               "title": "RRB Group D",
               "subtitle": "RRB Group D Exam Papers",
-              "testsLabel": "148 Tests",
+              "testsLabel": "173 Tests",
               "icon": "fa-solid fa-train",
               "homePath": "examsnetapp/rrb/home/groupd/"
             },
@@ -214,6 +214,14 @@
               "testsLabel": "91 Tests",
               "icon": "fa-solid fa-train",
               "homePath": "examsnetapp/rrb/home/rrbntpc/"
+            },
+            {
+              "id": "rrb-tech-grade1",
+              "title": "RRB Technician Grade 1",
+              "subtitle": "RRB Technician Grade 1",
+              "testsLabel": "20 Tests",
+              "icon": "fa-solid fa-train",
+              "homePath": "examsnetapp/rrb/home/rrbtechgrade1/"
             }
           ]
         },
@@ -229,7 +237,7 @@
               "id": "teacher-ctet",
               "title": "CTET",
               "subtitle": "CTET 1 and CTET 2 Exam Papers",
-              "testsLabel": "253 Tests",
+              "testsLabel": "254 Tests",
               "icon": "fa-solid fa-user-graduate",
               "homePath": "examsnetapp/tets/home/ctet/"
             },
@@ -240,14 +248,6 @@
               "testsLabel": "105 Tests",
               "icon": "fa-solid fa-user-pen",
               "homePath": "examsnetapp/tets/home/ugcnet/"
-            },
-            {
-              "id": "teacher-uptet",
-              "title": "UP TET",
-              "subtitle": "UP TET Exam Papers",
-              "testsLabel": "105 Tests",
-              "icon": "fa-solid fa-user-pen",
-              "homePath": "examsnetapp/tets/home/uptet/"
             }
           ]
         },
@@ -281,7 +281,7 @@
               "id": "upsc-cds",
               "title": "UPSC CDS",
               "subtitle": "CDS Exam Papers",
-              "testsLabel": "194 Tests",
+              "testsLabel": "195 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/upsc/home/cds/"
             },
@@ -305,7 +305,7 @@
               "id": "upsc-nda",
               "title": "UPSC NDA",
               "subtitle": "NDA Exam Papers",
-              "testsLabel": "169 Tests",
+              "testsLabel": "172 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/upsc/home/nda/"
             }

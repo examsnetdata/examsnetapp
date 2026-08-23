@@ -13,42 +13,66 @@
           "subjecttitle": "UPTET Exam Practice",
           "slogo": "fa-solid fa-user-group",
           "chapters": [
-             {
-            "chaptertitle": "UPTET Exam Model Papers",
-            "chapterpath": "examsnetapp/tets/uptetmodel/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA20",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "UPTET Paper 1 Previous Papers",
-            "chapterpath": "examsnetapp/tets/uptetiv/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA20",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "UPTET Paper 2 Math Previous Papers",
-            "chapterpath": "examsnetapp/tets/uptetmath/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA21",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "UPTET Paper 2 Social Previous Papers",
-            "chapterpath": "examsnetapp/tets/uptetsoc/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BA22",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
+            {
+              "chaptertitle": "UPTET Exam Model Papers",
+              "chapterpath": "examsnetapp/tets/uptetmodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA20",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "UPTETPRACTICE"
+              ],
+              "totalTests": 30,
+              "testsLabel": "30 Tests",
+              "badgeText": "30 Tests"
+            },
+            {
+              "chaptertitle": "UPTET Paper 1 Previous Papers",
+              "chapterpath": "examsnetapp/tets/uptetiv/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA20",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "UPTETPAPER1"
+              ],
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
+            },
+            {
+              "chaptertitle": "UPTET Paper 2 Math Previous Papers",
+              "chapterpath": "examsnetapp/tets/uptetmath/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA21",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "UPTETPAPER2MATH"
+              ],
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
+            },
+            {
+              "chaptertitle": "UPTET Paper 2 Social Previous Papers",
+              "chapterpath": "examsnetapp/tets/uptetsoc/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA22",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "UPTETPAPER2SOCIAL"
+              ],
+              "totalTests": 8,
+              "testsLabel": "8 Tests",
+              "badgeText": "8 Tests"
+            }
           ]
         }
       ]

@@ -7,109 +7,28 @@
     {
       "categorytitle": "Entrance Exams",
       "elogo": "fa-solid fa-file-pen",
+      "active": true,
       "subjects": [
         {
-          "subjecttitle": "UPSC NDA Papers",
-          "slogo": "fa-solid fa-user-shield",
+          "subjecttitle": "RRB Technician Grade 1 Papers",
+          "slogo": "fa-solid fa-train-subway",
           "active": true,
           "expand": true,
           "chapters": [
             {
-              "chaptertitle": "UPSC NDA Previous Papers",
-              "chapterpath": "examsnetapp/upsc/nda/",
+              "chaptertitle": "RRB Technician Grade 1 Papers",
+              "chapterpath": "examsnetapp/rrb/rrbtechgrade1/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "BA9",
+              "savekey": "RA7",
               "datatype": "exams",
               "active": true,
               "common": false,
               "subjectKeys": [
-                "UPSCNDA"
+                "RRBTECHGRADE1"
               ],
-              "totalTests": 104,
-              "testsLabel": "104 Tests",
-              "badgeText": "104 Tests"
-            },
-            {
-              "chaptertitle": "UPSC NDA Model Papers",
-              "chapterpath": "examsnetapp/upsc/ndamodel/",
-              "clogo": "fa-solid fa-pen",
-              "savekey": "BA8",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "UPSCNDAMOD"
-              ],
-              "totalTests": 10,
-              "testsLabel": "10 Tests",
-              "badgeText": "10 Tests"
-            }
-          ]
-        },
-        {
-          "subjecttitle": "UPSC NDA Chapters wise",
-          "slogo": "fa-solid fa-user-shield",
-          "active": true,
-          "chapters": [
-            {
-              "chaptertitle": "NDA English Questions",
-              "chapterpath": "examsnetapp/upsc/ndachapter/english/",
-              "clogo": "fa-solid fa-pen",
-              "savekey": "BA7",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "UPSCNDACP"
-              ],
-              "totalTests": 10,
-              "testsLabel": "10 Tests",
-              "badgeText": "10 Tests"
-            },
-            {
-              "chaptertitle": "NDA General Science Questions",
-              "chapterpath": "examsnetapp/upsc/ndachapter/science/",
-              "clogo": "fa-solid fa-pen",
-              "savekey": "BA9",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "UPSCNDACP"
-              ],
-              "totalTests": 7,
-              "testsLabel": "7 Tests",
-              "badgeText": "7 Tests"
-            },
-            {
-              "chaptertitle": "NDA General Studies Questions",
-              "chapterpath": "examsnetapp/upsc/ndachapter/gs/",
-              "clogo": "fa-solid fa-pen",
-              "savekey": "BA9",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "UPSCNDACP"
-              ],
-              "totalTests": 7,
-              "testsLabel": "7 Tests",
-              "badgeText": "7 Tests"
-            },
-            {
-              "chaptertitle": "NDA Math Questions",
-              "chapterpath": "examsnetapp/upsc/ndachapter/math/",
-              "clogo": "fa-solid fa-pen",
-              "savekey": "BA8",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "UPSCNDACP"
-              ],
-              "totalTests": 34,
-              "testsLabel": "34 Tests",
-              "badgeText": "34 Tests"
+              "totalTests": 20,
+              "testsLabel": "20 Tests",
+              "badgeText": "20 Tests"
             }
           ]
         }
@@ -124,7 +43,6 @@
           "subjecttitle": "General Studies",
           "slogo": "fa-solid fa-book",
           "active": true,
-          "expand": false,
           "chapters": [
             {
               "chaptertitle": "Biology",
@@ -204,6 +122,31 @@
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA8",
               "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Aptitude Formula Notes",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Number System",
+              "chapterpath": "examsnetapp/notes/aptitude/numbers/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Basic Arithmetic",
+              "chapterpath": "examsnetapp/notes/aptitude/arithmetic/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "notes",
               "active": true,
               "common": true
             }

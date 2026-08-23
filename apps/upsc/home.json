@@ -24,7 +24,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       },
       {
@@ -106,7 +106,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       },
       {
@@ -174,7 +174,7 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       },
       {
@@ -190,12 +190,11 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
       }
     ]
   },
-   
   {
     "categorytitle": "More Practice Tests",
     "elogo": "fa-solid fa-file-pen",

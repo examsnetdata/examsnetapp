@@ -59,9 +59,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 27,
-              "testsLabel": "27 Tests",
-              "badgeText": "27 Tests"
+              "totalTests": 28,
+              "testsLabel": "28 Tests",
+              "badgeText": "28 Tests"
             },
             {
               "chaptertitle": "Class 12 Biology Questions",
@@ -73,9 +73,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 20,
-              "testsLabel": "20 Tests",
-              "badgeText": "20 Tests"
+              "totalTests": 22,
+              "testsLabel": "22 Tests",
+              "badgeText": "22 Tests"
             },
             {
               "chaptertitle": "Class 11 Chemistry Questions",
@@ -129,9 +129,9 @@
               "subjectKeys": [
                 "NEETPT"
               ],
-              "totalTests": 15,
-              "testsLabel": "15 Tests",
-              "badgeText": "15 Tests"
+              "totalTests": 16,
+              "testsLabel": "16 Tests",
+              "badgeText": "16 Tests"
             }
           ]
         }

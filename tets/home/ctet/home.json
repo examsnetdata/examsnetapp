@@ -24,9 +24,9 @@
               "subjectKeys": [
                 "CTETPREV"
               ],
-              "totalTests": 88,
-              "testsLabel": "88 Tests",
-              "badgeText": "88 Tests"
+              "totalTests": 94,
+              "testsLabel": "94 Tests",
+              "badgeText": "94 Tests"
             },
             {
               "chaptertitle": "CTET 2 Maths Science Past Papers",
@@ -39,9 +39,9 @@
               "subjectKeys": [
                 "CTET2MATHS"
               ],
-              "totalTests": 82,
-              "testsLabel": "82 Tests",
-              "badgeText": "82 Tests"
+              "totalTests": 80,
+              "testsLabel": "80 Tests",
+              "badgeText": "80 Tests"
             },
             {
               "chaptertitle": "CTET 2 Social Science Past Papers ",
@@ -54,9 +54,9 @@
               "subjectKeys": [
                 "CTET2SOCIAL"
               ],
-              "totalTests": 83,
-              "testsLabel": "83 Tests",
-              "badgeText": "83 Tests"
+              "totalTests": 80,
+              "testsLabel": "80 Tests",
+              "badgeText": "80 Tests"
             }
           ]
         }
