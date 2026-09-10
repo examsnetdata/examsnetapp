@@ -93,6 +93,22 @@
         ]
       },
       {
+        "subjecttitle": "TANCET Previous Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "TANCET Previous Papers",
+            "chapterpath": "mba/tancet/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA6",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
         "subjecttitle": "XAT Previous Papers",
         "slogo": "fa-solid fa-user-group",
         "active": true,
