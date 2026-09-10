@@ -339,12 +339,12 @@
   {
     "categorytitle": "Study Material",
     "elogo": "fa-solid fa-file-pen",
-    "active": true,
+    "active": false,
     "subjects": [
       {
         "subjecttitle": "Mind Maps",
         "slogo": "fa-solid fa-user-group",
-        "active": true,
+        "active": false,
         "chapters": [
           {
             "chaptertitle": "Mind Maps Aptitude",
@@ -352,7 +352,7 @@
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
-            "active": true,
+            "active": false,
             "common": true
           },
           {
@@ -361,7 +361,7 @@
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA1",
             "datatype": "link",
-            "active": true,
+            "active": false,
             "common": true
           },
           {
@@ -370,7 +370,7 @@
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA2",
             "datatype": "link",
-            "active": true,
+            "active": false,
             "common": true
           }
         ]
