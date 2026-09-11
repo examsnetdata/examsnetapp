@@ -13,7 +13,7 @@
         "label": "Exams"
       },
       {
-        "value": "3786",
+        "value": "3800",
         "label": "Mock Tests"
       },
       {
@@ -397,9 +397,9 @@
               "id": "mba-cmat",
               "title": "CMAT Papers",
               "subtitle": "CMAT Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "14 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/mda/home/cmat/"
+              "homePath": "examsnetapp/mba/home/cmat/"
             },
             {
               "id": "mba-mat",
