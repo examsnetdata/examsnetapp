@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "35",
+        "value": "46",
         "label": "Exams"
       },
       {
-        "value": "3345",
+        "value": "3786",
         "label": "Mock Tests"
       },
       {
@@ -119,7 +119,7 @@
               "id": "eng-eamcet",
               "title": "EAMCET or EAPCET",
               "subtitle": "AP and TS EAMCET Papers",
-              "testsLabel": "256 Tests",
+              "testsLabel": "266 Tests",
               "icon": "fa-solid fa-gears",
               "homePath": "examsnetapp/engineering/home/eamcet/"
             },
@@ -127,7 +127,7 @@
               "id": "eng-kcet",
               "title": "KCET",
               "subtitle": "KCET Exam Papers",
-              "testsLabel": "86 Tests",
+              "testsLabel": "89 Tests",
               "icon": "fa-solid fa-compass-drafting",
               "homePath": "examsnetapp/engineering/home/kcet/"
             },
@@ -195,7 +195,7 @@
               "id": "rrb-alp",
               "title": "RRB ALP",
               "subtitle": "RRB ALP Exam Papers",
-              "testsLabel": "52 Tests",
+              "testsLabel": "107 Tests",
               "icon": "fa-solid fa-train",
               "homePath": "examsnetapp/rrb/home/rrbalp/"
             },
@@ -234,6 +234,22 @@
           "icon": "fa-solid fa-chalkboard-user",
           "exams": [
             {
+              "id": "teacher-apet",
+              "title": "AP TET",
+              "subtitle": "AP TET and AP DSC",
+              "testsLabel": "65 Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetapp/tets/home/aptet/"
+            },
+            {
+              "id": "teacher-bpsctre",
+              "title": "BPSC TRE",
+              "subtitle": "TRE Primary and Middle School",
+              "testsLabel": "30 Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetapp/tets/home/bpsctre/"
+            },
+            {
               "id": "teacher-ctet",
               "title": "CTET",
               "subtitle": "CTET 1 and CTET 2 Exam Papers",
@@ -242,12 +258,28 @@
               "homePath": "examsnetapp/tets/home/ctet/"
             },
             {
+              "id": "teacher-tget",
+              "title": "TG TET",
+              "subtitle": "TG TET and TG DSC",
+              "testsLabel": "65 Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetapp/tets/home/tgtet/"
+            },
+            {
               "id": "teacher-ugcnet",
               "title": "UGC NET",
               "subtitle": "UGC NET Exam Papers",
-              "testsLabel": "105 Tests",
+              "testsLabel": "111 Tests",
               "icon": "fa-solid fa-user-pen",
               "homePath": "examsnetapp/tets/home/ugcnet/"
+            },
+            {
+              "id": "teacher-uptet",
+              "title": "UP TET",
+              "subtitle": "UP TET Papers 1 and 2",
+              "testsLabel": "62 Tests",
+              "icon": "fa-solid fa-user-pen",
+              "homePath": "examsnetapp/tets/home/uptet/"
             }
           ]
         },
@@ -281,7 +313,7 @@
               "id": "upsc-cds",
               "title": "UPSC CDS",
               "subtitle": "CDS Exam Papers",
-              "testsLabel": "195 Tests",
+              "testsLabel": "200 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/upsc/home/cds/"
             },
@@ -305,7 +337,7 @@
               "id": "upsc-nda",
               "title": "UPSC NDA",
               "subtitle": "NDA Exam Papers",
-              "testsLabel": "172 Tests",
+              "testsLabel": "176 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/upsc/home/nda/"
             }
@@ -342,6 +374,72 @@
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/board/home/andhra/"
+            }
+          ]
+        },
+        {
+          "id": "mba-mca-exams",
+          "active": true,
+          "title": "MBA and MCA Exams",
+          "subtitle": "CAT, NIMCET, MAT, ICET and more",
+          "expanded": false,
+          "icon": "fa-solid fa-school",
+          "exams": [
+            {
+              "id": "mba-cat",
+              "title": "CAT Papers",
+              "subtitle": "CAT Exam Papers",
+              "testsLabel": "39 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/cat/"
+            },
+            {
+              "id": "mba-cmat",
+              "title": "CMAT Papers",
+              "subtitle": "CMAT Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mda/home/cmat/"
+            },
+            {
+              "id": "mba-mat",
+              "title": "MAT Papers",
+              "subtitle": "MAT Exam Papers",
+              "testsLabel": "6 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/mat/"
+            },
+            {
+              "id": "mba-icet",
+              "title": "AP & TG ICET",
+              "subtitle": "AP ICET and TS ICET",
+              "testsLabel": "53 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/icet/"
+            },
+            {
+              "id": "mca-nimcet",
+              "title": "NIMCET",
+              "subtitle": "NIMCET Papers",
+              "testsLabel": "17 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/nimcet/"
+            },
+            {
+              "id": "mba-tancet",
+              "title": "TANCET Exam Papers",
+              "subtitle": "TANCET Exam Papers",
+              "testsLabel": "6 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/tancet/"
+            },
+            {
+              "id": "mba-xat",
+              "title": "XAT Exam Papers",
+              "subtitle": "XAT Exam Papers",
+              "testsLabel": "15 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/xat/"
             }
           ]
         },
