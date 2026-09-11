@@ -1,0 +1,42 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "SNAP Exam Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "SNAP Preious Papers",
+              "chapterpath": "examsnetapp/mba/snapprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "MATBA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "snap-mba"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            }
+            
+          ]
+        }
+      ]
+    } 
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

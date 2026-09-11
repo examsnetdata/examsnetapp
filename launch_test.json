@@ -13,7 +13,7 @@
         "label": "Exams"
       },
       {
-        "value": "3650",
+        "value": "3771",
         "label": "Mock Tests"
       },
       {
@@ -389,7 +389,7 @@
               "id": "mba-cat",
               "title": "CAT Papers",
               "subtitle": "CAT Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "39 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/mba/home/cat/"
             },
@@ -405,7 +405,7 @@
               "id": "mba-mat",
               "title": "MAT Papers",
               "subtitle": "MAT Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "6 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/mba/home/mat/"
             },
@@ -413,7 +413,7 @@
               "id": "mba-icet",
               "title": "AP & TG ICET",
               "subtitle": "AP ICET and TS ICET",
-              "testsLabel": "Tests",
+              "testsLabel": "53 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/mba/home/icet/"
             },
@@ -421,7 +421,7 @@
               "id": "mca-nimcet",
               "title": "NIMCET",
               "subtitle": "NIMCET Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "17 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/mba/home/nimcet/"
             },
@@ -429,7 +429,7 @@
               "id": "mba-tancet",
               "title": "TANCET Exam Papers",
               "subtitle": "TANCET Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "6 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/mba/home/tancet/"
             },

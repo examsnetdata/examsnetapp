@@ -1,0 +1,42 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "TANCET Exam Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "TANCET Preious Papers",
+              "chapterpath": "examsnetapp/mba/tancet/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "MTABA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "TANCET"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            }
+            
+          ]
+        }
+      ]
+    } 
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

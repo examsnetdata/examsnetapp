@@ -1,0 +1,57 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "CAT Exams",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "CAT Preious Papers",
+              "chapterpath": "examsnetapp/mba/catprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "CATBA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CAT"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            },
+            {
+              "chaptertitle": "CAT Model Papers",
+              "chapterpath": "examsnetapp/mba/catmodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "CATBA2",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CATMODEL"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            }
+          ]
+        }
+      ]
+    }
+     
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "NIMCET Exam Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "NIMCET Preious Papers",
+              "chapterpath": "examsnetapp/mca/nimcet/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "MATBA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "NIMCACET"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            }
+            
+          ]
+        }
+      ]
+    } 
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

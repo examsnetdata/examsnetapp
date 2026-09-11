@@ -1,0 +1,42 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "CMAT Exam Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "CMAT Preious Papers",
+              "chapterpath": "examsnetapp/mba/catprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "CATBA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CMATINDIA"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            }
+            
+          ]
+        }
+      ]
+    } 
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

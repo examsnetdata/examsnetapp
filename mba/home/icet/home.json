@@ -1,0 +1,57 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "ICET Exams",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "AP ICET PYQs",
+              "chapterpath": "examsnetapp/mca/icetprev",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "APIBA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "ICETPREV"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            },
+            {
+              "chaptertitle": "TG ICET PYQs",
+              "chapterpath": "examsnetapp/mca/tsicet/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "TGIBA2",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "TSICETPREV"
+              ],
+              "totalTests": 111,
+              "testsLabel": "111 Tests",
+              "badgeText": "111 Tests"
+            }
+          ]
+        }
+      ]
+    }
+     
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}
