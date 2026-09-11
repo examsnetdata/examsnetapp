@@ -9,7 +9,7 @@
     "active": true,
     "items": [
       {
-        "value": "39",
+        "value": "46",
         "label": "Exams"
       },
       {
@@ -374,6 +374,72 @@
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/board/home/andhra/"
+            }
+          ]
+        },
+        {
+          "id": "mba-mca-exams",
+          "active": true,
+          "title": "MBA and MCA Exams",
+          "subtitle": "MBA and MCA Exams",
+          "expanded": false,
+          "icon": "fa-solid fa-school",
+          "exams": [
+            {
+              "id": "mba-cat",
+              "title": "CAT Papers",
+              "subtitle": "CAT Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/cat/"
+            },
+            {
+              "id": "mba-cmat",
+              "title": "CMAT Papers",
+              "subtitle": "CMAT Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mda/home/cmat/"
+            },
+            {
+              "id": "mba-mat",
+              "title": "MAT Papers",
+              "subtitle": "MAT Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/mat/"
+            },
+            {
+              "id": "mba-icet",
+              "title": "AP & TG ICET",
+              "subtitle": "AP ICET and TS ICET",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/icet/"
+            },
+            {
+              "id": "mca-nimcet",
+              "title": "NIMCET",
+              "subtitle": "NIMCET Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/nimcet/"
+            },
+            {
+              "id": "mba-tancet",
+              "title": "TANCET Exam Papers",
+              "subtitle": "TANCET Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/mba/home/tancet/"
+            },
+            {
+              "id": "mba-xat",
+              "title": "XAT Exam Papers",
+              "subtitle": "XAT Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/board/home/xat/"
             }
           ]
         },
