@@ -25,15 +25,14 @@
               "subjectKeys": [
                 "MATINDIA"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 6,
+              "testsLabel": "6 Tests",
+              "badgeText": "6 Tests"
             }
-            
           ]
         }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",

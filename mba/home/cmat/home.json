@@ -16,24 +16,23 @@
           "chapters": [
             {
               "chaptertitle": "CMAT Preious Papers",
-              "chapterpath": "examsnetapp/mba/catprev/",
+              "chapterpath": "examsnetapp/mba/cmatprev/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "CATBA1",
+              "savekey": "CMATBA1",
               "datatype": "exams",
               "active": true,
               "common": false,
               "subjectKeys": [
                 "CMATINDIA"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
             }
-            
           ]
         }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",

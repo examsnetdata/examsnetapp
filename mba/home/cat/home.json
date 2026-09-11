@@ -25,9 +25,9 @@
               "subjectKeys": [
                 "CAT"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 31,
+              "testsLabel": "31 Tests",
+              "badgeText": "31 Tests"
             },
             {
               "chaptertitle": "CAT Model Papers",
@@ -40,15 +40,14 @@
               "subjectKeys": [
                 "CATMODEL"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 8,
+              "testsLabel": "8 Tests",
+              "badgeText": "8 Tests"
             }
           ]
         }
       ]
     }
-     
   ],
   "products": {
     "parentType": "product",

@@ -25,9 +25,9 @@
               "subjectKeys": [
                 "ICETPREV"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 24,
+              "testsLabel": "24 Tests",
+              "badgeText": "24 Tests"
             },
             {
               "chaptertitle": "TG ICET PYQs",
@@ -40,15 +40,14 @@
               "subjectKeys": [
                 "TSICETPREV"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 29,
+              "testsLabel": "29 Tests",
+              "badgeText": "29 Tests"
             }
           ]
         }
       ]
     }
-     
   ],
   "products": {
     "parentType": "product",

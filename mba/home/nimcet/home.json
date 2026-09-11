@@ -25,15 +25,14 @@
               "subjectKeys": [
                 "NIMCACET"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 17,
+              "testsLabel": "17 Tests",
+              "badgeText": "17 Tests"
             }
-            
           ]
         }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",

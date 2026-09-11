@@ -18,22 +18,21 @@
               "chaptertitle": "XAT Preious Papers",
               "chapterpath": "examsnetapp/mba/xatprev/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "MATBA1",
+              "savekey": "XATBA1",
               "datatype": "exams",
               "active": true,
               "common": false,
               "subjectKeys": [
                 "XATMBA"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
             }
-            
           ]
         }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",

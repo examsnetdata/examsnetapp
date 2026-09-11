@@ -25,15 +25,14 @@
               "subjectKeys": [
                 "snap-mba"
               ],
-              "totalTests": 111,
-              "testsLabel": "111 Tests",
-              "badgeText": "111 Tests"
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
             }
-            
           ]
         }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",

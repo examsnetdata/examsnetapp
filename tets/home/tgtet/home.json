@@ -8,7 +8,6 @@
       "categorytitle": "Choose Your Exam",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
-      
       "subjects": [
         {
           "subjecttitle": "TG TET Exam Practice",
