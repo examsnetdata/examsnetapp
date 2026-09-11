@@ -1,4 +1,4 @@
-[ 
+[
   {
     "categorytitle": "BECE Exam Previous Papers",
     "elogo": "fa-solid fa-file-pen",
@@ -29,21 +29,23 @@
           },
           {
             "chaptertitle": "BECE ICT Papers",
-             "chapterpath": "africa/ghana/bece/ict/",
+            "chapterpath": "africa/ghana/bece/ict/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EXA3",
             "datatype": "exams",
             "active": true,
             "common": false
-          },{
-           "chaptertitle": "BECE Mathematics Papers",
+          },
+          {
+            "chaptertitle": "BECE Mathematics Papers",
             "chapterpath": "africa/ghana/bece/math/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EXA4",
             "datatype": "exams",
             "active": true,
             "common": false
-          },{
+          },
+          {
             "chaptertitle": "BECE Pre Technical Papers",
             "chapterpath": "africa/ghana/bece/pretech/",
             "clogo": "fa-solid fa-pen",
@@ -51,7 +53,8 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          },{
+          },
+          {
             "chaptertitle": "BECE RME Papers",
             "chapterpath": "africa/ghana/bece/rme/",
             "clogo": "fa-solid fa-pen",
@@ -61,7 +64,7 @@
             "common": false
           },
           {
-           "chaptertitle": "BECE Science Papers",
+            "chaptertitle": "BECE Science Papers",
             "chapterpath": "africa/ghana/bece/science/",
             "clogo": "fa-solid fa-pen",
             "savekey": "EXA7",
@@ -77,12 +80,9 @@
             "datatype": "exams",
             "active": true,
             "common": false
-          } 
+          }
         ]
-      } 
-       
+      }
     ]
-  } 
-   
-   
+  }
 ]

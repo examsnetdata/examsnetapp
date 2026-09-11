@@ -1,0 +1,93 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Choose Your Exam",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "AP TET Exam Practice",
+          "slogo": "fa-solid fa-user-group",
+          "chapters": [
+            {
+              "chaptertitle": "AP TET PYQs",
+              "chapterpath": "examsnetapp/tets/aptetprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA4",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "APTETPREV"
+              ],
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
+            },
+            {
+              "chaptertitle": "AP TET Model Papers",
+              "chapterpath": "examsnetapp/tets/aptetmod/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA5",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "APTET"
+              ],
+              "totalTests": 30,
+              "testsLabel": "30 Tests",
+              "badgeText": "30 Tests"
+            },
+            {
+              "chaptertitle": "AP DSC Model Papers",
+              "chapterpath": "examsnetapp/tets/apdsc/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA6",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "apdscexampractice"
+              ],
+              "totalTests": 25,
+              "testsLabel": "25 Tests",
+              "badgeText": "25 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "CTET Notes",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Child Development & Pedagogy",
+              "chapterpath": "examsnetapp/gdrive/study/ctet/pedagogy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

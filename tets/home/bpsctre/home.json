@@ -1,0 +1,78 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Choose Your Exam",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "BPSC TRE Practice",
+          "slogo": "fa-solid fa-user-group",
+          "chapters": [
+            {
+              "chaptertitle": "TRE Primary Teacher Classes (1-5)",
+              "chapterpath": "examsnetapp/tets/bpsctreprt/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "TREA4",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "bihar-bpsc-tre-primary-teacher-papers"
+              ],
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
+            },
+            {
+              "chaptertitle": "TRE Middle School Classes (6-8)",
+              "chapterpath": "examsnetapp/tets/bpsctreprt2/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "TREA5",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "bihar-bpsc-tre-middle-school-papers"
+              ],
+              "totalTests": 18,
+              "testsLabel": "18 Tests",
+              "badgeText": "18 Tests"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "CTET Notes",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Child Development & Pedagogy",
+              "chapterpath": "examsnetapp/gdrive/study/ctet/pedagogy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

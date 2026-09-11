@@ -30,6 +30,31 @@
         ]
       },
       {
+        "subjecttitle": "BPSC TRE Exam Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "BPSC TRE Primary Teache (1-5)r",
+            "chapterpath": "tets/bpsctreprt/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA0",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          },
+          {
+            "chaptertitle": "BPSC TRE Middle School (6-8)",
+            "chapterpath": "tets/bpsctreprt1/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "BA1",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+        ]
+      },
+      {
         "subjecttitle": "CG TET Papers",
         "slogo": "fa-solid fa-user-group",
         "active": true,
