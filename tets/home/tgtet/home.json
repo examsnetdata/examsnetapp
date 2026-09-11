@@ -8,10 +8,12 @@
       "categorytitle": "Choose Your Exam",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      
       "subjects": [
         {
           "subjecttitle": "TG TET Exam Practice",
           "slogo": "fa-solid fa-user-group",
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "TG TET PYQs",
@@ -71,6 +73,7 @@
           "subjecttitle": "CTET Notes",
           "slogo": "fa-solid fa-book",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "Child Development & Pedagogy",

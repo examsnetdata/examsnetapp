@@ -12,6 +12,7 @@
         {
           "subjecttitle": "CTET Exam Practice",
           "slogo": "fa-solid fa-user-group",
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "CTET 1 Previous Papers",
@@ -71,6 +72,7 @@
           "subjecttitle": "CTET Notes",
           "slogo": "fa-solid fa-book",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "Child Development & Pedagogy",

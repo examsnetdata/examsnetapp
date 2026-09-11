@@ -12,6 +12,7 @@
         {
           "subjecttitle": "BPSC TRE Practice",
           "slogo": "fa-solid fa-user-group",
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "TRE Primary Teacher Classes (1-5)",
@@ -56,6 +57,7 @@
           "subjecttitle": "CTET Notes",
           "slogo": "fa-solid fa-book",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "Child Development & Pedagogy",

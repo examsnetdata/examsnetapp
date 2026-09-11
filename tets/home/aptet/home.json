@@ -12,6 +12,8 @@
         {
           "subjecttitle": "AP TET Exam Practice",
           "slogo": "fa-solid fa-user-group",
+          
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "AP TET PYQs",
@@ -70,6 +72,7 @@
         {
           "subjecttitle": "CTET Notes",
           "slogo": "fa-solid fa-book",
+          "expand": true,
           "active": true,
           "chapters": [
             {

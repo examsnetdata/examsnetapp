@@ -62,7 +62,8 @@
         {
           "subjecttitle": "JEE Main Chapters Wise Questions",
           "slogo": "fa-solid fa-user-pen",
-          "expand": false,
+          "expand": true,
+          
           "chapters": [
             {
               "chaptertitle": "JEE Main Class 11 Math Questions",

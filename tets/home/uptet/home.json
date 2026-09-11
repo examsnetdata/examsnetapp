@@ -11,6 +11,7 @@
       "subjects": [
         {
           "subjecttitle": "UPTET Exam Practice",
+          "expand": true,
           "slogo": "fa-solid fa-user-group",
           "chapters": [
             {
@@ -86,6 +87,7 @@
           "subjecttitle": "CTET Notes",
           "slogo": "fa-solid fa-book",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "Child Development & Pedagogy",

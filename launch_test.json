@@ -381,7 +381,7 @@
           "id": "mba-mca-exams",
           "active": true,
           "title": "MBA and MCA Exams",
-          "subtitle": "MBA and MCA Exams",
+          "subtitle": "CAT, NIMCET, MAT, ICET and more",
           "expanded": false,
           "icon": "fa-solid fa-school",
           "exams": [
