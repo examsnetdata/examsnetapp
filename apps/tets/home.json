@@ -13,7 +13,7 @@
             "chaptertitle": "APTET Model Papers",
             "chapterpath": "tets/aptetmod/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA0",
+            "savekey": "APBA0",
             "datatype": "exams",
             "active": true,
             "common": false
@@ -22,11 +22,20 @@
             "chaptertitle": "APTET Previous Papers",
             "chapterpath": "tets/aptetprev/",
             "clogo": "fa-solid fa-pen",
-            "savekey": "BA1",
+            "savekey": "APBA1",
             "datatype": "exams",
             "active": true,
             "common": false
-          }
+          },
+          {
+              "chaptertitle": "AP DSC Model Papers",
+              "chapterpath": "tets/apdsc/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "APBA6",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+            }
         ]
       },
       {
@@ -35,7 +44,7 @@
         "active": true,
         "chapters": [
           {
-            "chaptertitle": "BPSC TRE Primary Teache (1-5)r",
+            "chaptertitle": "BPSC TRE Primary Teache (1-5)",
             "chapterpath": "tets/bpsctreprt/",
             "clogo": "fa-solid fa-pen",
             "savekey": "BA0",
@@ -275,6 +284,42 @@
             "active": true,
             "common": false
           }
+        ]
+      },
+       {
+        "subjecttitle": "Telangana TET Papers",
+        "slogo": "fa-solid fa-user-group",
+        "active": true,
+        "chapters": [
+          {
+              "chaptertitle": "TG TET PYQs",
+              "chapterpath": "tets/tstetprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "TGA4",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+                
+            },
+            {
+              "chaptertitle": "TG TET Model Papers",
+              "chapterpath": "tets/tgtetmodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "TGA5",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+               
+            },
+            {
+              "chaptertitle": "TG DSC Model Papers",
+              "chapterpath": "tets/tgdsc/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "TGA6",
+              "datatype": "exams",
+              "active": true,
+              "common": false 
+            }
         ]
       },
       {
