@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "46",
+        "value": "50",
         "label": "Exams"
       },
       {
-        "value": "3771",
+        "value": "3800",
         "label": "Mock Tests"
       },
       {
@@ -302,6 +302,72 @@
           ]
         },
         {
+          "id": "psc-exams",
+          "active": true,
+          "title": "PSC Exams",
+          "subtitle": "AP PSC, BPSC, MPSC, TNPSC and other PSC exams",
+          "expanded": false,
+          "icon": "fa-solid fa-landmark-dome",
+          "exams": [
+            {
+              "id": "appsc-exam",
+              "title": "APPSC Papers",
+              "subtitle": "Andhra PSC PYQs",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/psc/home/appsc/"
+            },
+            {
+              "id": "bpsc-exams",
+              "title": "BPSC Papers",
+              "subtitle": "Bihar PSC PYQs",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-landmark-dome",
+              "homePath": "examsnetapp/psc/home/bpsc/"
+            },
+            {
+              "id": "cgpsc-exams",
+              "title": "CGPSC Papers",
+              "subtitle": "Chhattisgarh PSC PYQs",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/psc/home/cgpsc/"
+            },
+            {
+              "id": "jpsc-exam",
+              "title": "JPSC Papers",
+              "subtitle": "Jharkhand PSC PYQs",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/psc/home/jpsc/"
+            },
+            {
+              "id": "jpsc-exam",
+              "title": "JPSC Papers",
+              "subtitle": "Jharkhand PSC PYQs",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/psc/home/jpsc/"
+            },
+            {
+              "id": "jpsc-exam",
+              "title": "JPSC Papers",
+              "subtitle": "Jharkhand PSC PYQs",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/psc/home/jpsc/"
+            },
+            {
+              "id": "jpsc-exam",
+              "title": "JPSC Papers",
+              "subtitle": "Jharkhand PSC PYQs",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/psc/home/jpsc/"
+            }
+          ]
+        },
+        {
           "id": "upsc-exams",
           "active": true,
           "title": "UPSC Exams",
@@ -397,9 +463,9 @@
               "id": "mba-cmat",
               "title": "CMAT Papers",
               "subtitle": "CMAT Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "14 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/mda/home/cmat/"
+              "homePath": "examsnetapp/mba/home/cmat/"
             },
             {
               "id": "mba-mat",
@@ -437,9 +503,9 @@
               "id": "mba-xat",
               "title": "XAT Exam Papers",
               "subtitle": "XAT Exam Papers",
-              "testsLabel": "Tests",
+              "testsLabel": "15 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/board/home/xat/"
+              "homePath": "examsnetapp/mba/home/xat/"
             }
           ]
         },
