@@ -25,6 +25,7 @@
         "subjecttitle": "BPSC TRE Exam Papers",
         "slogo": "fa-solid fa-user-group",
         "active": true,
+        "expand": true,
         "chapters": [
           {
             "chaptertitle": "BPSC TRE Primary Teache (1-5)",
