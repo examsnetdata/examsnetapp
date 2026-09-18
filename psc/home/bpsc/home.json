@@ -1,4 +1,3 @@
-
 {
   "searchPlaceholder": "Search papers, notes, resources...",
   "searchBar": {
@@ -9,49 +8,67 @@
       "categorytitle": "Entrance Exams",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
-       "expand": true,
+      "expand": true,
       "subjects": [
         {
-        "subjecttitle": "Bihar PSC Exam Practice",
-        "slogo": "fa-solid fa-user-group",
-        "chapters": [
-          {
-            "chaptertitle": "BPSC Exam Previous Papers",
-            "chapterpath": "examsnetapp/psc/bpsc/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BBA2",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      },
-      {
-        "subjecttitle": "BPSC TRE Exam Papers",
-        "slogo": "fa-solid fa-user-group",
-        "active": true,
-        "expand": true,
-        "chapters": [
-          {
-            "chaptertitle": "BPSC TRE Primary Teache (1-5)",
-            "chapterpath": "examsnetapp/tets/bpsctreprt/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BTBA0",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          },
-          {
-            "chaptertitle": "BPSC TRE Middle School (6-8)",
-            "chapterpath": "examsnetapp/tets/bpsctreprt2/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "BTBA1",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      }
+          "subjecttitle": "Bihar PSC Exam Practice",
+          "slogo": "fa-solid fa-user-group",
+          "chapters": [
+            {
+              "chaptertitle": "BPSC Exam Previous Papers",
+              "chapterpath": "examsnetapp/psc/bpsc/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BBA2",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BPSCCCE"
+              ],
+              "totalTests": 36,
+              "testsLabel": "36 Tests",
+              "badgeText": "36 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "BPSC TRE Exam Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "BPSC TRE Primary Teache (1-5)",
+              "chapterpath": "examsnetapp/tets/bpsctreprt/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BTBA0",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "bihar-bpsc-tre-primary-teacher-papers"
+              ],
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
+            },
+            {
+              "chaptertitle": "BPSC TRE Middle School (6-8)",
+              "chapterpath": "examsnetapp/tets/bpsctreprt2/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BTBA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "bihar-bpsc-tre-middle-school-papers"
+              ],
+              "totalTests": 18,
+              "testsLabel": "18 Tests",
+              "badgeText": "18 Tests"
+            }
+          ]
+        }
       ]
     },
     {
@@ -180,7 +197,3 @@
     "items": []
   }
 }
-
-
-
-

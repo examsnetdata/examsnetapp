@@ -1,4 +1,3 @@
-
 {
   "searchPlaceholder": "Search papers, notes, resources...",
   "searchBar": {
@@ -12,20 +11,26 @@
       "expand": true,
       "subjects": [
         {
-        "subjecttitle": "Maharashtra PSC Exam",
-        "slogo": "fa-solid fa-user-group",
-        "chapters": [
-          {
-            "chaptertitle": "Maharashtra PSC PYQs",
-            "chapterpath": "examsnetapp/psc/mahpsc/",
-            "clogo": "fa-solid fa-pen",
-            "savekey": "MBA2",
-            "datatype": "exams",
-            "active": true,
-            "common": false
-          }
-        ]
-      } 
+          "subjecttitle": "Maharashtra PSC Exam",
+          "slogo": "fa-solid fa-user-group",
+          "chapters": [
+            {
+              "chaptertitle": "Maharashtra PSC PYQs",
+              "chapterpath": "examsnetapp/psc/mahpsc/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "MBA2",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "MAHPSC"
+              ],
+              "totalTests": 26,
+              "testsLabel": "26 Tests",
+              "badgeText": "26 Tests"
+            }
+          ]
+        }
       ]
     },
     {
@@ -154,7 +159,3 @@
     "items": []
   }
 }
-
-
-
-
