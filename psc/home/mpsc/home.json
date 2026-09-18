@@ -9,6 +9,7 @@
       "categorytitle": "Entrance Exams",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
         "subjecttitle": "Maharashtra PSC Exam",
@@ -16,7 +17,7 @@
         "chapters": [
           {
             "chaptertitle": "Maharashtra PSC PYQs",
-            "chapterpath": "psc/mahpsc/",
+            "chapterpath": "examsnetapp/psc/mahpsc/",
             "clogo": "fa-solid fa-pen",
             "savekey": "MBA2",
             "datatype": "exams",
