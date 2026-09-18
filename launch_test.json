@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "51",
+        "value": "48",
         "label": "Exams"
       },
       {
-        "value": "3800",
+        "value": "3872",
         "label": "Mock Tests"
       },
       {
@@ -310,60 +310,20 @@
           "icon": "fa-solid fa-landmark-flag",
           "exams": [
             {
-              "id": "appsc-exam",
-              "title": "APPSC Papers",
-              "subtitle": "Andhra PSC PYQs",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-water",
-              "homePath": "examsnetapp/psc/home/appsc/"
-            },
-            {
               "id": "bpsc-exams",
               "title": "BPSC Papers",
               "subtitle": "Bihar PSC PYQs",
-              "testsLabel": "Tests",
+              "testsLabel": "24 Tests",
               "icon": "fa-solid fa-dharmachakra",
               "homePath": "examsnetapp/psc/home/bpsc/"
-            },
-            {
-              "id": "cgpsc-exams",
-              "title": "CGPSC Papers",
-              "subtitle": "Chhattisgarh PSC PYQs",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-tree-city",
-              "homePath": "examsnetapp/psc/home/cgpsc/"
-            },
-            {
-              "id": "jpsc-exam",
-              "title": "JPSC Papers",
-              "subtitle": "Jharkhand PSC PYQs",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-tree",
-              "homePath": "examsnetapp/psc/home/jpsc/"
             },
             {
               "id": "mpsc-exam",
               "title": "MPSC Papers",
               "subtitle": "Maharshtra PSC",
-              "testsLabel": "Tests",
+              "testsLabel": "48 Tests",
               "icon": "fa-solid fa-city",
               "homePath": "examsnetapp/psc/home/mpsc/"
-            },
-            {
-              "id": "mppsc-exam",
-              "title": "MPPSC Papers",
-              "subtitle": "Madhya Pradesh PSC",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-landmark",
-              "homePath": "examsnetapp/psc/home/jpsc/"
-            },
-            {
-              "id": "tnpsc-exam",
-              "title": "TNPSC Papers",
-              "subtitle": "Tamilnadu PSC",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-gopuram",
-              "homePath": "examsnetapp/psc/home/jpsc/"
             }
           ]
         },
