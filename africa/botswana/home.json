@@ -84,7 +84,7 @@
         "subjecttitle": "JCE Previous Papers",
         "slogo": "fa-solid fa-book",
         "active": true,
-        "expand": false,
+        "expand": true,
         "chapters": [
           {
             "chaptertitle": "JCE Mathematics",
@@ -125,7 +125,7 @@
         "subjecttitle": "BGCSE Previous Papers",
         "slogo": "fa-solid fa-user-astronaut",
         "active": true,
-        "expand": false,
+        "expand": true,
         "chapters": [
           {
             "chaptertitle": "BGCSE Mathematics",
