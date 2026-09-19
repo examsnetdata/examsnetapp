@@ -1,17 +1,17 @@
 [
   {
-    "categorytitle": "PSLE Papers",
+    "categorytitle": "Botswana PLSE Papers",
     "elogo": "fa-solid fa-file-pen",
     "subjects": [
       {
-        "subjecttitle": "Primary P6 Previous Papers",
+        "subjecttitle": "PLSE Previous Papers",
         "slogo": "fa-solid fa-user-astronaut",
         "active": true,
-        "expand": false,
+        "expand": true,
         "chapters": [
           {
-            "chaptertitle": "Primary School P6 English",
-            "chapterpath": "africa/rwanda/primaryschoolp6/english/",
+            "chaptertitle": "PSLE Agriculture",
+            "chapterpath": "africa/botswana/psle/agriculture/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
@@ -19,8 +19,8 @@
             "common": true
           },
           {
-            "chaptertitle": "Primary School P6 Ikinyarwanda",
-            "chapterpath": "africa/rwanda/primaryschoolp6/ikinyarwanda/",
+            "chaptertitle": "PSLE English",
+            "chapterpath": "africa/botswana/psle/english/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA1",
             "datatype": "link",
@@ -28,8 +28,8 @@
             "common": true
           },
           {
-            "chaptertitle": "Primary School P6 Languages",
-            "chapterpath": "africa/rwanda/primaryschoolp6/languages/",
+            "chaptertitle": "PSLE Mathematics",
+            "chapterpath": "africa/botswana/psle/mathematics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA2",
             "datatype": "link",
@@ -37,8 +37,8 @@
             "common": true
           },
           {
-            "chaptertitle": "Primary School P6 Mathematics",
-            "chapterpath": "africa/rwanda/primaryschoolp6/mathematics/",
+            "chaptertitle": "PSLE Religious And Moral Education",
+            "chapterpath": "africa/botswana/psle/religiousandmoraleducation/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA3",
             "datatype": "link",
@@ -46,8 +46,8 @@
             "common": true
           },
           {
-            "chaptertitle": "Primary School P6 ScienceAndElementaryTechnology",
-            "chapterpath": "africa/rwanda/primaryschoolp6/scienceandelementarytechnology/",
+            "chaptertitle": "PSLE Science",
+            "chapterpath": "africa/botswana/psle/science/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA4",
             "datatype": "link",
@@ -55,10 +55,19 @@
             "common": true
           },
           {
-            "chaptertitle": "Primary School P6 SocialReligiousStudies",
-            "chapterpath": "africa/rwanda/primaryschoolp6/socialreligiousstudies/",
+            "chaptertitle": "PSLE Setswana",
+            "chapterpath": "africa/botswana/psle/setswana/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA5",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "PSLE Social Studies",
+            "chapterpath": "africa/botswana/psle/socialstudies/",
+            "clogo": "fa-solid fa-book-open",
+            "savekey": "EXA6",
             "datatype": "link",
             "active": true,
             "common": true
@@ -72,14 +81,14 @@
     "elogo": "fa-solid fa-book",
     "subjects": [
       {
-        "subjecttitle": "Ordinary S3 Previous Papers",
+        "subjecttitle": "JCE Previous Papers",
         "slogo": "fa-solid fa-book",
         "active": true,
         "expand": false,
         "chapters": [
           {
-            "chaptertitle": "Ordinary Level S3 Biology Health Sciences",
-            "chapterpath": "africa/rwanda/ordinarylevels3/biologyhealthsciences/",
+            "chaptertitle": "JCE Mathematics",
+            "chapterpath": "africa/botswana/jce/mathematics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
             "datatype": "link",
@@ -87,8 +96,8 @@
             "common": true
           },
           {
-            "chaptertitle": "Ordinary Level S3 Chemistry",
-            "chapterpath": "africa/rwanda/ordinarylevels3/chemistry/",
+            "chaptertitle": "JCE Moral Education",
+            "chapterpath": "africa/botswana/jce/moraleducation/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA1",
             "datatype": "link",
@@ -96,82 +105,10 @@
             "common": true
           },
           {
-            "chaptertitle": "Ordinary Level S3 English",
-            "chapterpath": "africa/rwanda/ordinarylevels3/english/",
+            "chaptertitle": "JCE Religious Education",
+            "chapterpath": "africa/botswana/jce/religiouseducation/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA2",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 Entrepreneurship",
-            "chapterpath": "africa/rwanda/ordinarylevels3/entrepreneurship/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA3",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 Geography And Environment-I",
-            "chapterpath": "africa/rwanda/ordinarylevels3/geographyandenvironment-i/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA4",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 Geography And Environment-II",
-            "chapterpath": "africa/rwanda/ordinarylevels3/geographyandenvironment-ii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA5",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 History And Citizenship-I",
-            "chapterpath": "africa/rwanda/ordinarylevels3/historyandcitizenship-i/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA7",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 History and Citizenship-II",
-            "chapterpath": "africa/rwanda/ordinarylevels3/historyandcitizenship-ii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA6",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 Ikinyarwanda",
-            "chapterpath": "africa/rwanda/ordinarylevels3/ikinyarwanda/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA8",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 Mathematics",
-            "chapterpath": "africa/rwanda/ordinarylevels3/mathematics/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA9",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Ordinary Level S3 Physics",
-            "chapterpath": "africa/rwanda/ordinarylevels3/physics/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA10",
             "datatype": "link",
             "active": true,
             "common": true
@@ -185,196 +122,16 @@
     "elogo": "fa-solid fa-file-pen",
     "subjects": [
       {
-        "subjecttitle": "Advanced S6 Previous Papers",
+        "subjecttitle": "BGCSE Previous Papers",
         "slogo": "fa-solid fa-user-astronaut",
         "active": true,
         "expand": false,
         "chapters": [
           {
-            "chaptertitle": "Advanced Level S6 Biology-II",
-            "chapterpath": "africa/rwanda/advancedlevels6/biology-ii/",
+            "chaptertitle": "BGCSE Mathematics",
+            "chapterpath": "africa/botswana/bgcse/mathematics/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA0",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Biology-III",
-            "chapterpath": "africa/rwanda/advancedlevels6/biology-iii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA1",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Chemistry-II",
-            "chapterpath": "africa/rwanda/advancedlevels6/chemistry-ii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA2",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Chemistry-III",
-            "chapterpath": "africa/rwanda/advancedlevels6/chemistry-iii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA3",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Computer Science",
-            "chapterpath": "africa/rwanda/advancedlevels6/computerscience/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA4",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Economics-I",
-            "chapterpath": "africa/rwanda/advancedlevels6/economics-i/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA5",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Economics-II",
-            "chapterpath": "africa/rwanda/advancedlevels6/economics-ii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA6",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Entreprenurship",
-            "chapterpath": "africa/rwanda/advancedlevels6/entreprenurship/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA7",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Francais",
-            "chapterpath": "africa/rwanda/advancedlevels6/francais/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA8",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 General Paper",
-            "chapterpath": "africa/rwanda/advancedlevels6/generalpaper/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA9",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Geography-III",
-            "chapterpath": "africa/rwanda/advancedlevels6/geography-iii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA10",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Geography-IV",
-            "chapterpath": "africa/rwanda/advancedlevels6/geography-iv/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA11",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 History-III",
-            "chapterpath": "africa/rwanda/advancedlevels6/history-iii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA12",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 History-IV",
-            "chapterpath": "africa/rwanda/advancedlevels6/history-iv/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA13",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Ikinyarwanda",
-            "chapterpath": "africa/rwanda/advancedlevels6/ikinyarwanda/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA14",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Integrated Sciences",
-            "chapterpath": "africa/rwanda/advancedlevels6/integratedsciences/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA15",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Kiswahili",
-            "chapterpath": "africa/rwanda/advancedlevels6/kiswahili/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA16",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Litrature In English",
-            "chapterpath": "africa/rwanda/advancedlevels6/litratureinenglish/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA17",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Mathematics-II",
-            "chapterpath": "africa/rwanda/advancedlevels6/mathematics-ii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA18",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Physics-II",
-            "chapterpath": "africa/rwanda/advancedlevels6/physics-ii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA19",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "Advanced Level S6 Physics-III",
-            "chapterpath": "africa/rwanda/advancedlevels6/physics-iii/",
-            "clogo": "fa-solid fa-book-open",
-            "savekey": "EXA20",
             "datatype": "link",
             "active": true,
             "common": true
@@ -383,5 +140,4 @@
       }
     ]
   }
-   
 ]
