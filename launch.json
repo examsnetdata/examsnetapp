@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "48",
+        "value": "49",
         "label": "Exams"
       },
       {
-        "value": "3892",
+        "value": "3936",
         "label": "Mock Tests"
       },
       {
@@ -316,6 +316,14 @@
               "testsLabel": "66 Tests",
               "icon": "fa-solid fa-dharmachakra",
               "homePath": "examsnetapp/psc/home/bpsc/"
+            },
+            {
+              "id": "cgpsc-exams",
+              "title": "CGPSC Papers",
+              "subtitle": "Chhattisgarh PSC",
+              "testsLabel": "44 Tests",
+              "icon": "fa-solid fa-dharmachakra",
+              "homePath": "examsnetapp/psc/home/cgpsc/"
             },
             {
               "id": "mpsc-exam",
