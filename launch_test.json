@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "48",
+        "value": "49",
         "label": "Exams"
       },
       {
-        "value": "3872",
+        "value": "3892",
         "label": "Mock Tests"
       },
       {
@@ -313,15 +313,23 @@
               "id": "bpsc-exams",
               "title": "BPSC Papers",
               "subtitle": "Bihar PSC PYQs",
-              "testsLabel": "24 Tests",
+              "testsLabel": "66 Tests",
               "icon": "fa-solid fa-dharmachakra",
               "homePath": "examsnetapp/psc/home/bpsc/"
+            },
+            {
+              "id": "cgpsc-exams",
+              "title": "CGPSC Papers",
+              "subtitle": "Chhattisgarh PSC",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-dharmachakra",
+              "homePath": "examsnetapp/psc/home/chgpsc/"
             },
             {
               "id": "mpsc-exam",
               "title": "MPSC Papers",
               "subtitle": "Maharshtra PSC",
-              "testsLabel": "48 Tests",
+              "testsLabel": "26 Tests",
               "icon": "fa-solid fa-city",
               "homePath": "examsnetapp/psc/home/mpsc/"
             }
