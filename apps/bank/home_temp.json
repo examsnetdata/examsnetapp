@@ -175,7 +175,7 @@
       {
         "subjecttitle": "RBI Exam Papers",
         "slogo": "fa-solid fa-landmark",
-        "active": true,
+        "active": false,
         "chapters": [
           {
             "chaptertitle": "RBI Assistant Prelims & Mains Previous Papers",
@@ -183,7 +183,7 @@
             "clogo": "fa-solid fa-clock-rotate-left",
             "savekey": "BA13",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           },
           {
@@ -192,7 +192,7 @@
             "clogo": "fa-solid fa-file-circle-check",
             "savekey": "BA12",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           },
           {
@@ -201,7 +201,7 @@
             "clogo": "fa-solid fa-clock-rotate-left",
             "savekey": "BA14",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           }
         ]
@@ -209,7 +209,7 @@
       {
         "subjecttitle": "SBI Clerk Exam Papers",
         "slogo": "fa-solid fa-keyboard",
-        "active": true,
+        "active": false,
         "chapters": [
           {
             "chaptertitle": "SBI Clerk Previous Papers",
@@ -217,7 +217,7 @@
             "clogo": "fa-solid fa-clock-rotate-left",
             "savekey": "BA21",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           },
           {
@@ -226,7 +226,7 @@
             "clogo": "fa-solid fa-file-circle-check",
             "savekey": "BA23",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           },
           {
@@ -235,7 +235,7 @@
             "clogo": "fa-solid fa-list-check",
             "savekey": "BA25",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           }
         ]
@@ -243,7 +243,7 @@
       {
         "subjecttitle": "SBI PO Exam Papers",
         "slogo": "fa-solid fa-user-tie",
-        "active": true,
+        "active": false,
         "chapters": [
           {
             "chaptertitle": "SBI PO Previous Papers",
@@ -251,7 +251,7 @@
             "clogo": "fa-solid fa-clock-rotate-left",
             "savekey": "BA20",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           },
           {
@@ -260,7 +260,7 @@
             "clogo": "fa-solid fa-file-circle-check",
             "savekey": "BA24",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           },
           {
@@ -269,7 +269,7 @@
             "clogo": "fa-solid fa-list-check",
             "savekey": "BA18",
             "datatype": "exams",
-            "active": true,
+            "active": false,
             "common": false
           }
         ]
