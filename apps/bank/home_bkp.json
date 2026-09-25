@@ -171,8 +171,109 @@
             "common": false
           }
         ]
+      },
+      {
+        "subjecttitle": "RBI Exam Papers",
+        "slogo": "fa-solid fa-landmark",
+        "active": false,
+        "chapters": [
+          {
+            "chaptertitle": "RBI Assistant Prelims & Mains Previous Papers",
+            "chapterpath": "bank/rbiassistantmodel/",
+            "clogo": "fa-solid fa-clock-rotate-left",
+            "savekey": "BA13",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          },
+          {
+            "chaptertitle": "RBI Assistant Model Papers",
+            "chapterpath": "bank/rbiassitantprev/",
+            "clogo": "fa-solid fa-file-circle-check",
+            "savekey": "BA12",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          },
+          {
+            "chaptertitle": "RBI Grade B Officers Previous Papers",
+            "chapterpath": "bank/rbigradeb/",
+            "clogo": "fa-solid fa-clock-rotate-left",
+            "savekey": "BA14",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "SBI Clerk Exam Papers",
+        "slogo": "fa-solid fa-keyboard",
+        "active": false,
+        "chapters": [
+          {
+            "chaptertitle": "SBI Clerk Previous Papers",
+            "chapterpath": "bank/sbiclerkprev/",
+            "clogo": "fa-solid fa-clock-rotate-left",
+            "savekey": "BA21",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          },
+          {
+            "chaptertitle": "SBI Clerk Prelims Model Papers",
+            "chapterpath": "bank/sbiclerkmodel/",
+            "clogo": "fa-solid fa-file-circle-check",
+            "savekey": "BA23",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          },
+          {
+            "chaptertitle": "SBI Clerk Mains Previous Papers",
+            "chapterpath": "bank/sbiclerkmains/",
+            "clogo": "fa-solid fa-list-check",
+            "savekey": "BA25",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          }
+        ]
+      },
+      {
+        "subjecttitle": "SBI PO Exam Papers",
+        "slogo": "fa-solid fa-user-tie",
+        "active": false,
+        "chapters": [
+          {
+            "chaptertitle": "SBI PO Previous Papers",
+            "chapterpath": "bank/sbipoprev/",
+            "clogo": "fa-solid fa-clock-rotate-left",
+            "savekey": "BA20",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          },
+          {
+            "chaptertitle": "SBI PO Model Papers",
+            "chapterpath": "bank/sbipomodel/",
+            "clogo": "fa-solid fa-file-circle-check",
+            "savekey": "BA24",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          },
+          {
+            "chaptertitle": "SBI PO Mains Previous Papers",
+            "chapterpath": "bank/sbipomains/",
+            "clogo": "fa-solid fa-list-check",
+            "savekey": "BA18",
+            "datatype": "exams",
+            "active": false,
+            "common": false
+          }
+        ]
       }
-      
     ]
   },
   {
