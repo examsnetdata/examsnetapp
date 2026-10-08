@@ -1,0 +1,41 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Choose Your Exam",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "Maha TET Exam Practice",
+          "slogo": "fa-solid fa-user-graduate",
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Maha TET PYQs",
+              "chapterpath": "examsnetapp/tets/mahatetprev/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "MHT1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "maha-tet-exam-previous-papers"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}
