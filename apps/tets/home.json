@@ -113,6 +113,22 @@
         ]
       },
       {
+        "subjecttitle": "Maharashtra TET",
+        "slogo": "fa-solid fa-user-group",
+        "chapters": [
+          {
+            "chaptertitle": "Maha TET PYQs",
+            "chapterpath": "tets/mahatetprev/",
+            "clogo": "fa-solid fa-pen",
+            "savekey": "MA4",
+            "datatype": "exams",
+            "active": true,
+            "common": false
+          }
+           
+        ]
+      },
+      {
         "subjecttitle": "REET Practice Tests",
         "slogo": "fa-solid fa-user-group",
         "active": true,
