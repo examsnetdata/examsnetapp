@@ -1,0 +1,149 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-building-columns",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "IBPS Clerk Exam Papers",
+          "slogo": "fa-solid fa-keyboard",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "IBPS Clerk Previous Papers",
+              "chapterpath": "examsnetapp/bank/ibpsclerkprev/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA2",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSCLERKPREV"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS Clerk Model Papers",
+              "chapterpath": "examsnetapp/bank/ibpsclerkmodel/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA1",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSCLERK_NEW"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS Clerk Mains Previous Papers",
+              "chapterpath": "examsnetapp/bank/ibpsclerkmain/",
+              "clogo": "fa-solid fa-list-check",
+              "savekey": "BA0",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "ibps-clerks-mains-papers"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "IBPS PO Exam Papers",
+          "slogo": "fa-solid fa-user-tie",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "IBPS PO Previous Papers",
+              "chapterpath": "examsnetapp/bank/ibpspoprev/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA5",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSPOPREV"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS PO Model Papers",
+              "chapterpath": "examsnetapp/bank/ibpspomodel/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA4",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSPO_NEW"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS PO Mains Previous Papers",
+              "chapterpath": "examsnetapp/bank/ibpspomain/",
+              "clogo": "fa-solid fa-list-check",
+              "savekey": "BA3",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "ibps-po-mains-papers"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "IBPS SO Exam Papers",
+          "slogo": "fa-solid fa-user-gear",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "IBPS SO Model Papers",
+              "chapterpath": "examsnetapp/bank/ibpsso/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA22",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSSO"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

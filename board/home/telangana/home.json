@@ -7,6 +7,7 @@
     {
       "categorytitle": "Telangana Board Previous Papers",
       "elogo": "fa-solid fa-file-pen",
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "Telangana Board Class 10 Papers",

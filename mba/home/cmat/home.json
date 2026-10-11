@@ -7,6 +7,7 @@
     {
       "categorytitle": "Entrance Exams",
       "elogo": "fa-solid fa-file-pen",
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "CMAT Exam Papers",

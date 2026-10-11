@@ -7,6 +7,7 @@
     {
       "categorytitle": "Practice Tests",
       "elogo": "fa-solid fa-file-pen",
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "English Practice",

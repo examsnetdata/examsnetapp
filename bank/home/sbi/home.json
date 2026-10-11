@@ -1,0 +1,126 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-building-columns",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "SBI Clerk Exam Papers",
+          "slogo": "fa-solid fa-keyboard",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "SBI Clerk Previous Papers",
+              "chapterpath": "examsnetapp/bank/sbiclerkprev/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA21",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "SBICLERKPREVIOUS"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "SBI Clerk Prelims Model Papers",
+              "chapterpath": "examsnetapp/bank/sbiclerkmodel/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA23",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKSBICLERK"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "SBI Clerk Mains Previous Papers",
+              "chapterpath": "examsnetapp/bank/sbiclerkmains/",
+              "clogo": "fa-solid fa-list-check",
+              "savekey": "BA25",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "sbi-junior-associate-previous"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "SBI PO Exam Papers",
+          "slogo": "fa-solid fa-user-tie",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "SBI PO Previous Papers",
+              "chapterpath": "examsnetapp/bank/sbipoprev/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA20",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKSBIPOPRE"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "SBI PO Model Papers",
+              "chapterpath": "examsnetapp/bank/sbipomodel/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA24",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKSBIPO"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "SBI PO Mains Previous Papers",
+              "chapterpath": "examsnetapp/bank/sbipomains/",
+              "clogo": "fa-solid fa-list-check",
+              "savekey": "BA18",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "sbi-po-mains-papers"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

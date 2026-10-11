@@ -7,6 +7,7 @@
     {
       "categorytitle": "ICSE Previous Papers",
       "elogo": "fa-solid fa-file-pen",
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "ICSE Class 10 Previous Papers",

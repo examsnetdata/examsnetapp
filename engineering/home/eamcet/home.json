@@ -8,6 +8,7 @@
       "categorytitle": "Choose Your Exam",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "AP EAMCET Papers",
@@ -318,7 +319,8 @@
             }
           ]
         }
-      ]
+      ],
+      "expand": true
     }
   ],
   "products": {

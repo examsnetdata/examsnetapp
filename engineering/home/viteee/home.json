@@ -8,6 +8,7 @@
       "categorytitle": "Choose Your Exam",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "VITEEE Papers",
@@ -103,7 +104,8 @@
             }
           ]
         }
-      ]
+      ],
+      "expand": true
     }
   ],
   "products": {

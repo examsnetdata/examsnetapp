@@ -7,6 +7,7 @@
     {
       "categorytitle": "Entrance Exams",
       "elogo": "fa-solid fa-file-pen",
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "NCHMCT JEE Papers",
@@ -37,6 +38,7 @@
       "categorytitle": "Study Material",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "General Studies",

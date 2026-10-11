@@ -29,7 +29,8 @@
             }
           ]
         }
-      ]
+      ],
+      "expand": true
     }
   ],
   "products": {

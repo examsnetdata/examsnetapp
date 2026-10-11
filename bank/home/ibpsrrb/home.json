@@ -1,0 +1,149 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-building-columns",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "IBPS RRB Office Assistant Papers",
+          "slogo": "fa-solid fa-people-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "IBPS RRB Office Assistant Previous Papers",
+              "chapterpath": "examsnetapp/bank/ibpsrrbofficeassistprev/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA7",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSRRBOAPRE"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS RRB Office Assistant Model Papers",
+              "chapterpath": "examsnetapp/bank/ibpsrrbofficeassistmd/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA6",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSRRBOA"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS RRB Office Assistant Mains Papers",
+              "chapterpath": "examsnetapp/bank/ibpsrrboamains/",
+              "clogo": "fa-solid fa-list-check",
+              "savekey": "BA9",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "ibps-rrb-office-assistant-mains-papers"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "IBPS RRB Officer Exam Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "IBPS RRB Officers Previous Papers",
+              "chapterpath": "examsnetapp/bank/ibpsrrbofficersprev/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA10",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSRRBOFCPRE"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS RRB Officers Model Papers",
+              "chapterpath": "examsnetapp/bank/ibpsrrbofficersscale1mod/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA8",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSRRBOS"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "IBPS RRB PO Exam Papers",
+          "slogo": "fa-solid fa-tractor",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "IBPS RRB PO Previous Papers",
+              "chapterpath": "examsnetapp/bank/ibpsrrbpoprev/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA11",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKIBPSRRB"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "IBPS RRB PO Mains Papers",
+              "chapterpath": "examsnetapp/bank/ibpsrrbpomains/",
+              "clogo": "fa-solid fa-list-check",
+              "savekey": "BA15",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "ibps-rrb-po-mains-papers"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

@@ -7,6 +7,7 @@
     {
       "categorytitle": "Entrance Exams",
       "elogo": "fa-solid fa-file-pen",
+      "expand": true,
       "showCategoryTitle": true,
       "subjects": [
         {
@@ -141,6 +142,7 @@
       "categorytitle": "Youtube Tutorials",
       "elogo": "fa-brands fa-youtube",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "NEET Video Tutorials",
@@ -190,6 +192,7 @@
     {
       "categorytitle": "Study Notes",
       "elogo": "fa-solid fa-book-open-reader",
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "Biology Notes",

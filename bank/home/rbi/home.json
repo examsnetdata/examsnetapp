@@ -1,0 +1,73 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-building-columns",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "RBI Exam Papers",
+          "slogo": "fa-solid fa-landmark",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "RBI Assistant Prelims & Mains Previous Papers",
+              "chapterpath": "examsnetapp/bank/rbiassistantmodel/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA13",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKRBIPRE"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "RBI Assistant Model Papers",
+              "chapterpath": "examsnetapp/bank/rbiassitantprev/",
+              "clogo": "fa-solid fa-file-circle-check",
+              "savekey": "BA12",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKRBI"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            },
+            {
+              "chaptertitle": "RBI Grade B Officers Previous Papers",
+              "chapterpath": "examsnetapp/bank/rbigradeb/",
+              "clogo": "fa-solid fa-clock-rotate-left",
+              "savekey": "BA14",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "BANKRBIGRBPRE"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

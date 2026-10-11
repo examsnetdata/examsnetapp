@@ -37,6 +37,7 @@
       "categorytitle": "Study Material",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "General Studies",

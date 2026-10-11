@@ -8,6 +8,7 @@
       "categorytitle": "Practice Exams",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "KCET Papers",
@@ -125,7 +126,8 @@
             }
           ]
         }
-      ]
+      ],
+      "expand": true
     }
   ],
   "products": {

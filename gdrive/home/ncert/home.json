@@ -8,6 +8,7 @@
       "categorytitle": "CBSE Concepts",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "CBSE Class 10 Concepts",
@@ -147,6 +148,7 @@
       "categorytitle": "NCERT Books",
       "elogo": "fa-solid fa-file-pen",
       "active": false,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "NCERT Class 10 Books",
@@ -1150,6 +1152,7 @@
       "categorytitle": "NCERT Book Solutions",
       "elogo": "fa-solid fa-file-pen",
       "active": false,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "NCERT Class 10 Book Solutions",
@@ -1847,6 +1850,7 @@
       "categorytitle": "NCERT Exemplar Books",
       "elogo": "fas fa-file-pdf",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "NCERT Class 10 Exemplar",
@@ -1965,6 +1969,7 @@
       "categorytitle": "NCERT Exemplar Solutions",
       "elogo": "fas fa-file-pdf",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "Class 10 Exemplar Solutions",
@@ -2083,6 +2088,7 @@
       "categorytitle": "NCERT Notes",
       "elogo": "fas fa-file-pdf",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "NCERT Class 10 Notes",

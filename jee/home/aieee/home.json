@@ -29,7 +29,8 @@
             }
           ]
         }
-      ]
+      ],
+      "expand": true
     },
     {
       "categorytitle": "Study Resources",
@@ -100,12 +101,14 @@
             }
           ]
         }
-      ]
+      ],
+      "expand": true
     },
     {
       "categorytitle": "CBSE Concepts",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "CBSE Class 10 Concepts",
@@ -243,6 +246,7 @@
       "categorytitle": "NCERT Books",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "expand": true,
       "subjects": [
         {
           "subjecttitle": "NCERT Class 11 Books",
