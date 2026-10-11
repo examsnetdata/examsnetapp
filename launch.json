@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "49",
+        "value": "52",
         "label": "Exams"
       },
       {
-        "value": "3936",
+        "value": "4108",
         "label": "Mock Tests"
       },
       {
@@ -153,7 +153,7 @@
               "id": "ssc-cgl",
               "title": "SSC CGL",
               "subtitle": "SSC CGL Exam Papers",
-              "testsLabel": "238 Tests",
+              "testsLabel": "264 Tests",
               "icon": "fa-solid fa-file-lines",
               "homePath": "examsnetapp/ssc/home/cgl/"
             },
@@ -203,7 +203,7 @@
               "id": "rrb-groupd",
               "title": "RRB Group D",
               "subtitle": "RRB Group D Exam Papers",
-              "testsLabel": "173 Tests",
+              "testsLabel": "250 Tests",
               "icon": "fa-solid fa-people-carry-box",
               "homePath": "examsnetapp/rrb/home/groupd/"
             },
@@ -280,6 +280,14 @@
               "testsLabel": "62 Tests",
               "icon": "fa-solid fa-user-pen",
               "homePath": "examsnetapp/tets/home/uptet/"
+            },
+            {
+              "id": "teacher-mahatet",
+              "title": "Maha TET",
+              "subtitle": "Maharashtra TET Exam Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetapp/tets/home/mahatet/"
             }
           ]
         },
@@ -474,6 +482,32 @@
               "testsLabel": "15 Tests",
               "icon": "fa-solid fa-chart-pie",
               "homePath": "examsnetapp/mba/home/xat/"
+            }
+          ]
+        },
+        {
+          "id": "other-exams",
+          "active": true,
+          "title": "Other Exams",
+          "subtitle": "AAI, NCHMCT and more",
+          "expanded": false,
+          "icon": "fa-solid fa-layer-group",
+          "exams": [
+            {
+              "id": "other-aai",
+              "title": "AAI Exams",
+              "subtitle": "Airports Authority of India Papers",
+              "testsLabel": "34 Tests",
+              "icon": "fa-solid fa-plane-departure",
+              "homePath": "examsnetapp/other/home/aai/"
+            },
+            {
+              "id": "other-nchmct",
+              "title": "NCHMCT JEE",
+              "subtitle": "NCHMCT Hotel Management Entrance Papers",
+              "testsLabel": "17 Tests",
+              "icon": "fa-solid fa-hotel",
+              "homePath": "examsnetapp/other/home/nchmct/"
             }
           ]
         },
