@@ -26,9 +26,9 @@
               "subjectKeys": [
                 "RRBGROUPD"
               ],
-              "totalTests": 20,
-              "testsLabel": "20 Tests",
-              "badgeText": "20 Tests"
+              "totalTests": 55,
+              "testsLabel": "55 Tests",
+              "badgeText": "55 Tests"
             },
             {
               "chaptertitle": "RRB Group D Previous Papers",
@@ -41,9 +41,9 @@
               "subjectKeys": [
                 "RRBGROUPDPREV"
               ],
-              "totalTests": 153,
-              "testsLabel": "153 Tests",
-              "badgeText": "153 Tests"
+              "totalTests": 195,
+              "testsLabel": "195 Tests",
+              "badgeText": "195 Tests"
             }
           ]
         }

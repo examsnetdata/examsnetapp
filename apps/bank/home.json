@@ -1,4 +1,4 @@
- [
+[
   {
     "categorytitle": "Entrance Exams",
     "elogo": "fa-solid fa-building-columns",
@@ -172,7 +172,7 @@
           }
         ]
       },
-         {
+      {
         "subjecttitle": "RBI Exam Papers",
         "slogo": "fa-solid fa-landmark",
         "active": false,
@@ -274,7 +274,6 @@
           }
         ]
       }
-      
     ]
   },
   {

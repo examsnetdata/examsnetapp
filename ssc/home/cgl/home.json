@@ -40,9 +40,9 @@
               "subjectKeys": [
                 "SSCCGLNEW"
               ],
-              "totalTests": 25,
-              "testsLabel": "25 Tests",
-              "badgeText": "25 Tests"
+              "totalTests": 45,
+              "testsLabel": "45 Tests",
+              "badgeText": "45 Tests"
             },
             {
               "chaptertitle": "SSC CGL Tier 2 Papers",
@@ -55,9 +55,9 @@
               "subjectKeys": [
                 "SSCCGLTIER2"
               ],
-              "totalTests": 29,
-              "testsLabel": "29 Tests",
-              "badgeText": "29 Tests"
+              "totalTests": 35,
+              "testsLabel": "35 Tests",
+              "badgeText": "35 Tests"
             }
           ]
         }
