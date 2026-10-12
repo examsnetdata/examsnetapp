@@ -153,7 +153,7 @@
               "chaptertitle": "NEET Biology Class 11 Lecture",
               "chapterpath": "examsnetapp/youtube/neet/class11biology/",
               "clogo": "fa-brands fa-youtube",
-              "savekey": "EXA0",
+              "savekey": "youtube_neet_class11biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -162,7 +162,7 @@
               "chaptertitle": "NEET Biology Class 12 Lecture",
               "chapterpath": "examsnetapp/youtube/neet/class12biology/",
               "clogo": "fa-brands fa-youtube",
-              "savekey": "EXA0",
+              "savekey": "youtube_neet_class12biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -171,7 +171,7 @@
               "chaptertitle": "NEET Biology Previous Year Solutions",
               "chapterpath": "examsnetapp/youtube/neet/biologysolutions/",
               "clogo": "fa-brands fa-youtube",
-              "savekey": "EXA0",
+              "savekey": "youtube_neet_biologysolutions",
               "datatype": "link",
               "active": true,
               "common": true
@@ -180,7 +180,7 @@
               "chaptertitle": "NEET Physics Previous Year Solutions",
               "chapterpath": "examsnetapp/youtube/neet/phychemsolutions/",
               "clogo": "fa-brands fa-youtube",
-              "savekey": "EXA0",
+              "savekey": "youtube_neet_phychemsolutions",
               "datatype": "link",
               "active": true,
               "common": true

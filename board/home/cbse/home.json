@@ -19,7 +19,7 @@
               "chaptertitle": "Computer Applications",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/computerapplications/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA0",
+              "savekey": "gdrive_board_cbse_class10_computerapplications",
               "datatype": "link",
               "active": true,
               "common": true
@@ -28,7 +28,7 @@
               "chaptertitle": "English",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/english/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA1",
+              "savekey": "gdrive_board_cbse_class10_english",
               "datatype": "link",
               "active": true,
               "common": true
@@ -37,7 +37,7 @@
               "chaptertitle": "Hindi",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/hindi/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA2",
+              "savekey": "gdrive_board_cbse_class10_hindi",
               "datatype": "link",
               "active": true,
               "common": true
@@ -46,7 +46,7 @@
               "chaptertitle": "Math",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/math/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA3",
+              "savekey": "gdrive_board_cbse_class10_math",
               "datatype": "link",
               "active": true,
               "common": true
@@ -73,7 +73,7 @@
               "chaptertitle": "Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/science/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA4",
+              "savekey": "gdrive_board_cbse_class10_science",
               "datatype": "link",
               "active": true,
               "common": true
@@ -82,7 +82,7 @@
               "chaptertitle": "Social Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/socialscience/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA5",
+              "savekey": "gdrive_board_cbse_class10_socialscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -91,7 +91,7 @@
               "chaptertitle": "Sanskrit",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/sanskrit/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA6",
+              "savekey": "gdrive_board_cbse_class10_sanskrit",
               "datatype": "link",
               "active": true,
               "common": true
@@ -100,7 +100,7 @@
               "chaptertitle": "InformationTechnology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/informationtechnology/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA7",
+              "savekey": "gdrive_board_cbse_class10_informationtechnology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -117,7 +117,7 @@
               "chaptertitle": "Accountancy",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/accountancy/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA8",
+              "savekey": "gdrive_board_cbse_class12_accountancy",
               "datatype": "link",
               "active": true,
               "common": true
@@ -126,7 +126,7 @@
               "chaptertitle": "Applied Mathematics",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/appliedmathematics/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA9",
+              "savekey": "gdrive_board_cbse_class12_appliedmathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -135,7 +135,7 @@
               "chaptertitle": "Biology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/biology/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA10",
+              "savekey": "gdrive_board_cbse_class12_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -144,7 +144,7 @@
               "chaptertitle": "Biotechnology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/biotechnology/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA11",
+              "savekey": "gdrive_board_cbse_class12_biotechnology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -153,7 +153,7 @@
               "chaptertitle": "Business Studies",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/businessstudies/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA12",
+              "savekey": "gdrive_board_cbse_class12_businessstudies",
               "datatype": "link",
               "active": true,
               "common": true
@@ -162,7 +162,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/chemistry/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA13",
+              "savekey": "gdrive_board_cbse_class12_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -171,7 +171,7 @@
               "chaptertitle": "Computer Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/computerscience/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA14",
+              "savekey": "gdrive_board_cbse_class12_computerscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -180,7 +180,7 @@
               "chaptertitle": "Economics",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/economics/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA15",
+              "savekey": "gdrive_board_cbse_class12_economics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -198,7 +198,7 @@
               "chaptertitle": "English",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/english/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA17",
+              "savekey": "gdrive_board_cbse_class12_english",
               "datatype": "link",
               "active": true,
               "common": true
@@ -207,7 +207,7 @@
               "chaptertitle": "Enterpreneurship",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/enterpreneurship/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA18",
+              "savekey": "gdrive_board_cbse_class12_enterpreneurship",
               "datatype": "link",
               "active": true,
               "common": true
@@ -225,7 +225,7 @@
               "chaptertitle": "Hindi Core",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/hindicore/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA20",
+              "savekey": "gdrive_board_cbse_class12_hindicore",
               "datatype": "link",
               "active": true,
               "common": true
@@ -234,7 +234,7 @@
               "chaptertitle": "Hindi Elective",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/hindielective/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA21",
+              "savekey": "gdrive_board_cbse_class12_hindielective",
               "datatype": "link",
               "active": true,
               "common": true
@@ -243,7 +243,7 @@
               "chaptertitle": "History",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/history/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA22",
+              "savekey": "gdrive_board_cbse_class12_history",
               "datatype": "link",
               "active": true,
               "common": true
@@ -252,7 +252,7 @@
               "chaptertitle": "Home Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/homescience/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA23",
+              "savekey": "gdrive_board_cbse_class12_homescience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -261,7 +261,7 @@
               "chaptertitle": "Informatics Practices",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/informaticspractices/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA24",
+              "savekey": "gdrive_board_cbse_class12_informaticspractices",
               "datatype": "link",
               "active": true,
               "common": true
@@ -270,7 +270,7 @@
               "chaptertitle": "Legal Studies",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/legalstudies/",
               "clogo": "fa-solid fa-list",
-              "savekey": "BA25",
+              "savekey": "gdrive_board_cbse_class12_legalstudies",
               "datatype": "link",
               "active": true,
               "common": true
@@ -367,7 +367,7 @@
               "chaptertitle": "Class 10 Biology Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/biology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
+              "savekey": "gdrive_cbse_concepts_class10_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -376,7 +376,7 @@
               "chaptertitle": "Class 10 Chemistry Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/chemistry/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA1",
+              "savekey": "gdrive_cbse_concepts_class10_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -385,7 +385,7 @@
               "chaptertitle": "Class 10 Math Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/math/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA2",
+              "savekey": "gdrive_cbse_concepts_class10_math",
               "datatype": "link",
               "active": true,
               "common": true
@@ -394,7 +394,7 @@
               "chaptertitle": "Class 10 Physics Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/physics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA3",
+              "savekey": "gdrive_cbse_concepts_class10_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -403,7 +403,7 @@
               "chaptertitle": "Class 10 Social Science Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/socialscience/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA4",
+              "savekey": "gdrive_cbse_concepts_class10_socialscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -420,7 +420,7 @@
               "chaptertitle": "Class 11 Chemistry Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/chemistry/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA5",
+              "savekey": "gdrive_cbse_concepts_class11_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -429,7 +429,7 @@
               "chaptertitle": "Class 11 Math Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/math/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA6",
+              "savekey": "gdrive_cbse_concepts_class11_math",
               "datatype": "link",
               "active": true,
               "common": true
@@ -438,7 +438,7 @@
               "chaptertitle": "Class 11 Physics Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/physics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA7",
+              "savekey": "gdrive_cbse_concepts_class11_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -455,7 +455,7 @@
               "chaptertitle": "Class 12 Biology Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class12/biology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA8",
+              "savekey": "gdrive_cbse_concepts_class12_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -507,7 +507,7 @@
               "chaptertitle": "Contemporary India",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/contemporaryindia/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
+              "savekey": "gdrive_ncert_books_class10_contemporaryindia",
               "datatype": "link",
               "active": true,
               "common": true
@@ -516,7 +516,7 @@
               "chaptertitle": "Democratic Politics",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/democraticpolitics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA1",
+              "savekey": "gdrive_ncert_books_class10_democraticpolitics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -525,7 +525,7 @@
               "chaptertitle": "Design Thinking and Innovation",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/designthinkingandinnovation/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA2",
+              "savekey": "gdrive_ncert_books_class10_designthinkingandinnovation",
               "datatype": "link",
               "active": true,
               "common": true
@@ -534,7 +534,7 @@
               "chaptertitle": "First Flight",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/firstflight/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA3",
+              "savekey": "gdrive_ncert_books_class10_firstflight",
               "datatype": "link",
               "active": true,
               "common": true
@@ -543,7 +543,7 @@
               "chaptertitle": "Footprints Without Feet",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/footprintswithoutfeet/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA4",
+              "savekey": "gdrive_ncert_books_class10_footprintswithoutfeet",
               "datatype": "link",
               "active": true,
               "common": true
@@ -552,7 +552,7 @@
               "chaptertitle": "Health and Physical Education",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/healthandphysicaleducation/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA5",
+              "savekey": "gdrive_ncert_books_class10_healthandphysicaleducation",
               "datatype": "link",
               "active": true,
               "common": true
@@ -561,7 +561,7 @@
               "chaptertitle": "India and the Contemporary World 2",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/indiaandthecontemporaryworld2/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA6",
+              "savekey": "gdrive_ncert_books_class10_indiaandthecontemporaryworld2",
               "datatype": "link",
               "active": true,
               "common": true
@@ -570,7 +570,7 @@
               "chaptertitle": "Interact in English Communicative Course",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/interactinenglishcommunicativecourse/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA7",
+              "savekey": "gdrive_ncert_books_class10_interactinenglishcommunicativecourse",
               "datatype": "link",
               "active": true,
               "common": true
@@ -579,7 +579,7 @@
               "chaptertitle": "Interact in English Literature Reader",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/interactinenglishliteraturereader/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA8",
+              "savekey": "gdrive_ncert_books_class10_interactinenglishliteraturereader",
               "datatype": "link",
               "active": true,
               "common": true
@@ -588,7 +588,7 @@
               "chaptertitle": "Interact in English Main Course Book Communicative",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/interactinenglishmaincoursebookcommunicative/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA9",
+              "savekey": "gdrive_ncert_books_class10_interactinenglishmaincoursebookcommunicative",
               "datatype": "link",
               "active": true,
               "common": true
@@ -597,7 +597,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/mathematics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA10",
+              "savekey": "gdrive_ncert_books_class10_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -606,7 +606,7 @@
               "chaptertitle": "Mathematics Lab Manual",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/mathematicslabmanual/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA11",
+              "savekey": "gdrive_ncert_books_class10_mathematicslabmanual",
               "datatype": "link",
               "active": true,
               "common": true
@@ -615,7 +615,7 @@
               "chaptertitle": "Practice Book Maths CBSE",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/practicebookmathscbse/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA12",
+              "savekey": "gdrive_ncert_books_class10_practicebookmathscbse",
               "datatype": "link",
               "active": true,
               "common": true
@@ -624,7 +624,7 @@
               "chaptertitle": "Practice Book Science CBSE",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/practicebooksciencecbse/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA13",
+              "savekey": "gdrive_ncert_books_class10_practicebooksciencecbse",
               "datatype": "link",
               "active": true,
               "common": true
@@ -633,7 +633,7 @@
               "chaptertitle": "Science",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/science/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA14",
+              "savekey": "gdrive_ncert_books_class10_science",
               "datatype": "link",
               "active": true,
               "common": true
@@ -642,7 +642,7 @@
               "chaptertitle": "Science Lab Manual",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/sciencelabmanual/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA15",
+              "savekey": "gdrive_ncert_books_class10_sciencelabmanual",
               "datatype": "link",
               "active": true,
               "common": true
@@ -651,7 +651,7 @@
               "chaptertitle": "The Diary of a Young Girl",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/thediaryofayounggirl/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA16",
+              "savekey": "gdrive_ncert_books_class10_thediaryofayounggirl",
               "datatype": "link",
               "active": true,
               "common": true
@@ -660,7 +660,7 @@
               "chaptertitle": "The Story of My Life Novel",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/thestoryofmylifenovel/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA17",
+              "savekey": "gdrive_ncert_books_class10_thestoryofmylifenovel",
               "datatype": "link",
               "active": true,
               "common": true
@@ -669,7 +669,7 @@
               "chaptertitle": "Understanding Economic Development",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/understandingeconomicdevelopment/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA18",
+              "savekey": "gdrive_ncert_books_class10_understandingeconomicdevelopment",
               "datatype": "link",
               "active": true,
               "common": true
@@ -678,7 +678,7 @@
               "chaptertitle": "Words and Expressions 2",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class10/wordsandexpressions2/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA19",
+              "savekey": "gdrive_ncert_books_class10_wordsandexpressions2",
               "datatype": "link",
               "active": true,
               "common": true
@@ -695,7 +695,7 @@
               "chaptertitle": "Class 11 An Introduction to Indian Art Part 1",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/anintroductiontoindianartpart1/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA20",
+              "savekey": "gdrive_ncert_books_class11_anintroductiontoindianartpart1",
               "datatype": "link",
               "active": true,
               "common": true
@@ -704,7 +704,7 @@
               "chaptertitle": "Class 11 Applied Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/appliedmathematics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA21",
+              "savekey": "gdrive_ncert_books_class11_appliedmathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -713,7 +713,7 @@
               "chaptertitle": "Class 11 Biology",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/biology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA22",
+              "savekey": "gdrive_ncert_books_class11_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -722,7 +722,7 @@
               "chaptertitle": "Class 11 Biotechnology",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/biotechnology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA23",
+              "savekey": "gdrive_ncert_books_class11_biotechnology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -731,7 +731,7 @@
               "chaptertitle": "Class 11 Business Studies",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/businessstudies/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA24",
+              "savekey": "gdrive_ncert_books_class11_businessstudies",
               "datatype": "link",
               "active": true,
               "common": true
@@ -758,7 +758,7 @@
               "chaptertitle": "Class 11 Computers and Communication Technology Part 1",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/computersandcommunicationtechnologypart1/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA27",
+              "savekey": "gdrive_ncert_books_class11_computersandcommunicationtechnologypart1",
               "datatype": "link",
               "active": true,
               "common": true
@@ -767,7 +767,7 @@
               "chaptertitle": "Class 11 Computers and Communication Technology Part 2",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/computersandcommunicationtechnologypart2/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA28",
+              "savekey": "gdrive_ncert_books_class11_computersandcommunicationtechnologypart2",
               "datatype": "link",
               "active": true,
               "common": true
@@ -776,7 +776,7 @@
               "chaptertitle": "Class 11 Computer Science",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/computerscience/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA29",
+              "savekey": "gdrive_ncert_books_class11_computerscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -785,7 +785,7 @@
               "chaptertitle": "Class 11 Design Thinking and Innovation",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/designthinkingandinnovation/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA30",
+              "savekey": "gdrive_ncert_books_class11_designthinkingandinnovation",
               "datatype": "link",
               "active": true,
               "common": true
@@ -794,7 +794,7 @@
               "chaptertitle": "Class 11 Exploring Craft Tradition of India",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/exploringcrafttraditionofindia/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA31",
+              "savekey": "gdrive_ncert_books_class11_exploringcrafttraditionofindia",
               "datatype": "link",
               "active": true,
               "common": true
@@ -803,7 +803,7 @@
               "chaptertitle": "Class 11 Financial Accounting Part I",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/financialaccountingparti/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA32",
+              "savekey": "gdrive_ncert_books_class11_financialaccountingparti",
               "datatype": "link",
               "active": true,
               "common": true
@@ -812,7 +812,7 @@
               "chaptertitle": "Class 11 Financial Accounting Part II",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/financialaccountingpartii/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA33",
+              "savekey": "gdrive_ncert_books_class11_financialaccountingpartii",
               "datatype": "link",
               "active": true,
               "common": true
@@ -821,7 +821,7 @@
               "chaptertitle": "Class 11 Fundamentals of Physical Geography",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/fundamentalsofphysicalgeography/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA34",
+              "savekey": "gdrive_ncert_books_class11_fundamentalsofphysicalgeography",
               "datatype": "link",
               "active": true,
               "common": true
@@ -830,7 +830,7 @@
               "chaptertitle": "Class 11 Health and Physical Education",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/healthandphysicaleducation/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA35",
+              "savekey": "gdrive_ncert_books_class11_healthandphysicaleducation",
               "datatype": "link",
               "active": true,
               "common": true
@@ -839,7 +839,7 @@
               "chaptertitle": "Class 11 Hornbill",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/hornbill/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA36",
+              "savekey": "gdrive_ncert_books_class11_hornbill",
               "datatype": "link",
               "active": true,
               "common": true
@@ -848,7 +848,7 @@
               "chaptertitle": "Class 11 Human Ecology and Family Sciences Part 1",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/humanecologyandfamilysciencespart1/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA37",
+              "savekey": "gdrive_ncert_books_class11_humanecologyandfamilysciencespart1",
               "datatype": "link",
               "active": true,
               "common": true
@@ -857,7 +857,7 @@
               "chaptertitle": "Class 11 Human Ecology and Family Sciences Part 2",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/humanecologyandfamilysciencespart2/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA38",
+              "savekey": "gdrive_ncert_books_class11_humanecologyandfamilysciencespart2",
               "datatype": "link",
               "active": true,
               "common": true
@@ -866,7 +866,7 @@
               "chaptertitle": "Class 11 India Constitution at Work",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/indiaconstitutionatwork/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA39",
+              "savekey": "gdrive_ncert_books_class11_indiaconstitutionatwork",
               "datatype": "link",
               "active": true,
               "common": true
@@ -875,7 +875,7 @@
               "chaptertitle": "Class 11 Indian Economic Development",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/indianeconomicdevelopment/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA40",
+              "savekey": "gdrive_ncert_books_class11_indianeconomicdevelopment",
               "datatype": "link",
               "active": true,
               "common": true
@@ -884,7 +884,7 @@
               "chaptertitle": "Class 11 India Physical Environment",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/indiaphysicalenvironment/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA41",
+              "savekey": "gdrive_ncert_books_class11_indiaphysicalenvironment",
               "datatype": "link",
               "active": true,
               "common": true
@@ -893,7 +893,7 @@
               "chaptertitle": "Class 11 Informatics Practices",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/informaticspractices/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA42",
+              "savekey": "gdrive_ncert_books_class11_informaticspractices",
               "datatype": "link",
               "active": true,
               "common": true
@@ -902,7 +902,7 @@
               "chaptertitle": "Class 11 Introducing Sociology",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/introducingsociology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA43",
+              "savekey": "gdrive_ncert_books_class11_introducingsociology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -911,7 +911,7 @@
               "chaptertitle": "Class 11 Living Craft Tradition of India",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/livingcrafttraditionofindia/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA44",
+              "savekey": "gdrive_ncert_books_class11_livingcrafttraditionofindia",
               "datatype": "link",
               "active": true,
               "common": true
@@ -974,7 +974,7 @@
               "chaptertitle": "Class 11 Practical Work in Geography",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class11/practicalworkingeography/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA51",
+              "savekey": "gdrive_ncert_books_class11_practicalworkingeography",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1108,7 +1108,7 @@
               "chaptertitle": "Class 12 Business Studies Part 1",
               "chapterpath": "examsnetapp/gdrive/ncert/books/class12/businessstudiespart1/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA65",
+              "savekey": "gdrive_ncert_books_class12_businessstudiespart1",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1511,7 +1511,7 @@
               "chaptertitle": "Abhyasvan Bhavah",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/abhyasvanbhavah/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
+              "savekey": "gdrive_ncert_solutions_class10_abhyasvanbhavah",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1520,7 +1520,7 @@
               "chaptertitle": "English",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/english/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA1",
+              "savekey": "gdrive_ncert_solutions_class10_english",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1529,7 +1529,7 @@
               "chaptertitle": "First Flight",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/firstflight/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA2",
+              "savekey": "gdrive_ncert_solutions_class10_firstflight",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1538,7 +1538,7 @@
               "chaptertitle": "Footprints Without Feet",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/footprintswithoutfeet/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA3",
+              "savekey": "gdrive_ncert_solutions_class10_footprintswithoutfeet",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1547,7 +1547,7 @@
               "chaptertitle": "Foundation of Information Technology",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/foundationofinformationtechnology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA4",
+              "savekey": "gdrive_ncert_solutions_class10_foundationofinformationtechnology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1556,7 +1556,7 @@
               "chaptertitle": "Hindi",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/hindi/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA5",
+              "savekey": "gdrive_ncert_solutions_class10_hindi",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1565,7 +1565,7 @@
               "chaptertitle": "Hindi Kritika",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/hindikritika/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA6",
+              "savekey": "gdrive_ncert_solutions_class10_hindikritika",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1574,7 +1574,7 @@
               "chaptertitle": "Hindi Kshitiz",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/hindikshitiz/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA7",
+              "savekey": "gdrive_ncert_solutions_class10_hindikshitiz",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1583,7 +1583,7 @@
               "chaptertitle": "Manika",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/manika/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA8",
+              "savekey": "gdrive_ncert_solutions_class10_manika",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1592,7 +1592,7 @@
               "chaptertitle": "Maths",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/maths/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA9",
+              "savekey": "gdrive_ncert_solutions_class10_maths",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1601,7 +1601,7 @@
               "chaptertitle": "Maths Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/mathsexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA10",
+              "savekey": "gdrive_ncert_solutions_class10_mathsexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1610,7 +1610,7 @@
               "chaptertitle": "Science",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/science/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA11",
+              "savekey": "gdrive_ncert_solutions_class10_science",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1619,7 +1619,7 @@
               "chaptertitle": "Science Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/scienceexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA12",
+              "savekey": "gdrive_ncert_solutions_class10_scienceexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1628,7 +1628,7 @@
               "chaptertitle": "Shemushi",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/shemushi/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA13",
+              "savekey": "gdrive_ncert_solutions_class10_shemushi",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1637,7 +1637,7 @@
               "chaptertitle": "Social Science",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/socialscience/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA14",
+              "savekey": "gdrive_ncert_solutions_class10_socialscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1646,7 +1646,7 @@
               "chaptertitle": "Words and Expressions",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class10/wordsandexpressions/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA15",
+              "savekey": "gdrive_ncert_solutions_class10_wordsandexpressions",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1663,7 +1663,7 @@
               "chaptertitle": "Class 11 Accountancy",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/accountancy/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA16",
+              "savekey": "gdrive_ncert_solutions_class11_accountancy",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1672,7 +1672,7 @@
               "chaptertitle": "Class 11 Antra",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/antra/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA17",
+              "savekey": "gdrive_ncert_solutions_class11_antra",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1681,7 +1681,7 @@
               "chaptertitle": "Class 11 Antral",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/antral/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA18",
+              "savekey": "gdrive_ncert_solutions_class11_antral",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1690,7 +1690,7 @@
               "chaptertitle": "Class 11 Biology",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/biology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA19",
+              "savekey": "gdrive_ncert_solutions_class11_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1699,7 +1699,7 @@
               "chaptertitle": "Class 11 Biology Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/biologyexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA20",
+              "savekey": "gdrive_ncert_solutions_class11_biologyexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1708,7 +1708,7 @@
               "chaptertitle": "Class 11 Business Studies",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/businessstudies/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA21",
+              "savekey": "gdrive_ncert_solutions_class11_businessstudies",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1726,7 +1726,7 @@
               "chaptertitle": "Class 11 Chemistry Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/chemistryexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA23",
+              "savekey": "gdrive_ncert_solutions_class11_chemistryexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1735,7 +1735,7 @@
               "chaptertitle": "Class 11 Computer Science",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/computerscience/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA24",
+              "savekey": "gdrive_ncert_solutions_class11_computerscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1744,7 +1744,7 @@
               "chaptertitle": "Class 11 Economics",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/economics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA25",
+              "savekey": "gdrive_ncert_solutions_class11_economics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1753,7 +1753,7 @@
               "chaptertitle": "Class 11 English Hornbill",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishhornbill/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA26",
+              "savekey": "gdrive_ncert_solutions_class11_englishhornbill",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1762,7 +1762,7 @@
               "chaptertitle": "Class 11 English Snapshots",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishsnapshots/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA27",
+              "savekey": "gdrive_ncert_solutions_class11_englishsnapshots",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1771,7 +1771,7 @@
               "chaptertitle": "Class 11 English Woven Words Essays",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishwovenwordsessays/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA28",
+              "savekey": "gdrive_ncert_solutions_class11_englishwovenwordsessays",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1780,7 +1780,7 @@
               "chaptertitle": "Class 11 English Woven Words Poetry",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishwovenwordspoetry/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA29",
+              "savekey": "gdrive_ncert_solutions_class11_englishwovenwordspoetry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1789,7 +1789,7 @@
               "chaptertitle": "Class 11 English Woven Words Short Stories",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/englishwovenwordsshortstories/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA30",
+              "savekey": "gdrive_ncert_solutions_class11_englishwovenwordsshortstories",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1798,7 +1798,7 @@
               "chaptertitle": "Class 11 Entrepreneurship",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/entrepreneurship/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA31",
+              "savekey": "gdrive_ncert_solutions_class11_entrepreneurship",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1807,7 +1807,7 @@
               "chaptertitle": "Class 11 Financial Accounting",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/financialaccounting/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA32",
+              "savekey": "gdrive_ncert_solutions_class11_financialaccounting",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1816,7 +1816,7 @@
               "chaptertitle": "Class 11 Fundamentals of Physical Geography",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/fundamentalsofphysicalgeography/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA33",
+              "savekey": "gdrive_ncert_solutions_class11_fundamentalsofphysicalgeography",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1825,7 +1825,7 @@
               "chaptertitle": "Class 11 Hindi Aroh Bhag I",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/hindiarohbhagi/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA34",
+              "savekey": "gdrive_ncert_solutions_class11_hindiarohbhagi",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1834,7 +1834,7 @@
               "chaptertitle": "Class 11 Hindi Vitan Bhag I",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/hindivitanbhagi/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA35",
+              "savekey": "gdrive_ncert_solutions_class11_hindivitanbhagi",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1843,7 +1843,7 @@
               "chaptertitle": "Class 11 History",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/history/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA36",
+              "savekey": "gdrive_ncert_solutions_class11_history",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1852,7 +1852,7 @@
               "chaptertitle": "Class 11 India Constitution at Work",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/indiaconstitutionatwork/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA37",
+              "savekey": "gdrive_ncert_solutions_class11_indiaconstitutionatwork",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1861,7 +1861,7 @@
               "chaptertitle": "Class 11 Indian Economic Development",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/indianeconomicdevelopment/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA38",
+              "savekey": "gdrive_ncert_solutions_class11_indianeconomicdevelopment",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1870,7 +1870,7 @@
               "chaptertitle": "Class 11 India Physical Environment",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/indiaphysicalenvironment/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA39",
+              "savekey": "gdrive_ncert_solutions_class11_indiaphysicalenvironment",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1888,7 +1888,7 @@
               "chaptertitle": "Class 11 Maths Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/mathsexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA41",
+              "savekey": "gdrive_ncert_solutions_class11_mathsexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1897,7 +1897,7 @@
               "chaptertitle": "Class 11 Physical Education",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/physicaleducation/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA42",
+              "savekey": "gdrive_ncert_solutions_class11_physicaleducation",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1915,7 +1915,7 @@
               "chaptertitle": "Class 11 Physics Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/physicsexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA44",
+              "savekey": "gdrive_ncert_solutions_class11_physicsexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1924,7 +1924,7 @@
               "chaptertitle": "Class 11 Political Theory",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/politicaltheory/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA45",
+              "savekey": "gdrive_ncert_solutions_class11_politicaltheory",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1933,7 +1933,7 @@
               "chaptertitle": "Class 11 Practical Work in Geography",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/practicalworkingeography/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA46",
+              "savekey": "gdrive_ncert_solutions_class11_practicalworkingeography",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1942,7 +1942,7 @@
               "chaptertitle": "Class 11 Psychology",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/psychology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA47",
+              "savekey": "gdrive_ncert_solutions_class11_psychology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1951,7 +1951,7 @@
               "chaptertitle": "Class 11 Sociology",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/sociology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA48",
+              "savekey": "gdrive_ncert_solutions_class11_sociology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1960,7 +1960,7 @@
               "chaptertitle": "Class 11 Urdu",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class11/urdu/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA49",
+              "savekey": "gdrive_ncert_solutions_class11_urdu",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1977,7 +1977,7 @@
               "chaptertitle": "Class 12 Biology Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/biologyexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA50",
+              "savekey": "gdrive_ncert_solutions_class12_biologyexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -1995,7 +1995,7 @@
               "chaptertitle": "Class 12 Chemistry Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/chemistryexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA52",
+              "savekey": "gdrive_ncert_solutions_class12_chemistryexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2004,7 +2004,7 @@
               "chaptertitle": "Class 12 Computer Science C",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/computersciencec/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA53",
+              "savekey": "gdrive_ncert_solutions_class12_computersciencec",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2013,7 +2013,7 @@
               "chaptertitle": "Class 12 Computer Science Python",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/computersciencepython/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA54",
+              "savekey": "gdrive_ncert_solutions_class12_computersciencepython",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2022,7 +2022,7 @@
               "chaptertitle": "Class 12 English Flamingo",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/englishflamingo/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA55",
+              "savekey": "gdrive_ncert_solutions_class12_englishflamingo",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2031,7 +2031,7 @@
               "chaptertitle": "Class 12 English Vistas",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/englishvistas/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA56",
+              "savekey": "gdrive_ncert_solutions_class12_englishvistas",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2040,7 +2040,7 @@
               "chaptertitle": "Class 12 Geography",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/geography/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA57",
+              "savekey": "gdrive_ncert_solutions_class12_geography",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2049,7 +2049,7 @@
               "chaptertitle": "Class 12 Geography Practical",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/geographypractical/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA58",
+              "savekey": "gdrive_ncert_solutions_class12_geographypractical",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2058,7 +2058,7 @@
               "chaptertitle": "Class 12 Hindi Antra",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindiantra/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA59",
+              "savekey": "gdrive_ncert_solutions_class12_hindiantra",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2067,7 +2067,7 @@
               "chaptertitle": "Class 12 Hindi Antral",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindiantral/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA60",
+              "savekey": "gdrive_ncert_solutions_class12_hindiantral",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2076,7 +2076,7 @@
               "chaptertitle": "Class 12 Hindi Aroh",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindiaroh/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA61",
+              "savekey": "gdrive_ncert_solutions_class12_hindiaroh",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2085,7 +2085,7 @@
               "chaptertitle": "Class 12 Hindi Vitan",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/hindivitan/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA62",
+              "savekey": "gdrive_ncert_solutions_class12_hindivitan",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2094,7 +2094,7 @@
               "chaptertitle": "Class 12 Kaleidoscope",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/kaleidoscope/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA63",
+              "savekey": "gdrive_ncert_solutions_class12_kaleidoscope",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2103,7 +2103,7 @@
               "chaptertitle": "Class 12 Macroeconomics",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/macroeconomics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA64",
+              "savekey": "gdrive_ncert_solutions_class12_macroeconomics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2121,7 +2121,7 @@
               "chaptertitle": "Class 12 Maths Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/mathsexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA66",
+              "savekey": "gdrive_ncert_solutions_class12_mathsexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2130,7 +2130,7 @@
               "chaptertitle": "Class 12 Microeconomics",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/microeconomics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA67",
+              "savekey": "gdrive_ncert_solutions_class12_microeconomics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2139,7 +2139,7 @@
               "chaptertitle": "Class 12 Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/physics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA68",
+              "savekey": "gdrive_ncert_solutions_class12_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2148,7 +2148,7 @@
               "chaptertitle": "Class 12 Physics Exemplar",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/physicsexemplar/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA69",
+              "savekey": "gdrive_ncert_solutions_class12_physicsexemplar",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2157,7 +2157,7 @@
               "chaptertitle": "Class 12 Political Science",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/politicalscience/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA70",
+              "savekey": "gdrive_ncert_solutions_class12_politicalscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2166,7 +2166,7 @@
               "chaptertitle": "Class 12 Psychology",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/psychology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA71",
+              "savekey": "gdrive_ncert_solutions_class12_psychology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2175,7 +2175,7 @@
               "chaptertitle": "Class 12 Sanskrit",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/sanskrit/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA72",
+              "savekey": "gdrive_ncert_solutions_class12_sanskrit",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2184,7 +2184,7 @@
               "chaptertitle": "Class 12 Sociology",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/sociology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA73",
+              "savekey": "gdrive_ncert_solutions_class12_sociology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2208,7 +2208,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class10/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA0",
+              "savekey": "gdrive_ncert_exemplar_class10_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2217,7 +2217,7 @@
               "chaptertitle": "Science",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class10/science/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA1",
+              "savekey": "gdrive_ncert_exemplar_class10_science",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2233,7 +2233,7 @@
               "chaptertitle": "Biology",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/biology/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA2",
+              "savekey": "gdrive_ncert_exemplar_class11_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2242,7 +2242,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA3",
+              "savekey": "gdrive_ncert_exemplar_class11_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2251,7 +2251,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA4",
+              "savekey": "gdrive_ncert_exemplar_class11_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2260,7 +2260,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA5",
+              "savekey": "gdrive_ncert_exemplar_class11_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2276,7 +2276,7 @@
               "chaptertitle": "Biology",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/biology/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA6",
+              "savekey": "gdrive_ncert_exemplar_class12_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2285,7 +2285,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA7",
+              "savekey": "gdrive_ncert_exemplar_class12_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2294,7 +2294,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA8",
+              "savekey": "gdrive_ncert_exemplar_class12_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2303,7 +2303,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA9",
+              "savekey": "gdrive_ncert_exemplar_class12_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2327,7 +2327,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class10/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA0",
+              "savekey": "gdrive_ncert_exemplarsolutions_class10_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2336,7 +2336,7 @@
               "chaptertitle": "Science",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class10/science/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA1",
+              "savekey": "gdrive_ncert_exemplarsolutions_class10_science",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2352,7 +2352,7 @@
               "chaptertitle": "Biology",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/biology/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA2",
+              "savekey": "gdrive_ncert_exemplarsolutions_class11_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2361,7 +2361,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA3",
+              "savekey": "gdrive_ncert_exemplarsolutions_class11_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2370,7 +2370,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA4",
+              "savekey": "gdrive_ncert_exemplarsolutions_class11_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2379,7 +2379,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA5",
+              "savekey": "gdrive_ncert_exemplarsolutions_class11_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2395,7 +2395,7 @@
               "chaptertitle": "Biology",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/biology/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA6",
+              "savekey": "gdrive_ncert_exemplarsolutions_class12_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2404,7 +2404,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA7",
+              "savekey": "gdrive_ncert_exemplarsolutions_class12_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2413,7 +2413,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA8",
+              "savekey": "gdrive_ncert_exemplarsolutions_class12_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2422,7 +2422,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA9",
+              "savekey": "gdrive_ncert_exemplarsolutions_class12_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -2802,7 +2802,7 @@
               "chaptertitle": "Sociology",
               "chapterpath": "examsnetapp/gdrive/ncert/notes/class12/sociology/",
               "clogo": "fa-solid fa-receipt",
-              "savekey": "EXA38",
+              "savekey": "gdrive_ncert_notes_class12_sociology",
               "datatype": "link",
               "active": true,
               "common": true

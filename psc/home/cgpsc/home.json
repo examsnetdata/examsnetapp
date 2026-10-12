@@ -136,7 +136,7 @@
               "chaptertitle": "Number System",
               "chapterpath": "examsnetapp/notes/aptitude/numbers/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
+              "savekey": "notes_aptitude_numbers",
               "datatype": "notes",
               "active": true,
               "common": true
@@ -145,7 +145,7 @@
               "chaptertitle": "Basic Arithmetic",
               "chapterpath": "examsnetapp/notes/aptitude/arithmetic/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
+              "savekey": "notes_aptitude_arithmetic",
               "datatype": "notes",
               "active": true,
               "common": true

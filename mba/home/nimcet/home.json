@@ -19,7 +19,7 @@
               "chaptertitle": "NIMCET Preious Papers",
               "chapterpath": "examsnetapp/mca/nimcet/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "MATBA1",
+              "savekey": "mca_nimcet",
               "datatype": "exams",
               "active": true,
               "common": false,

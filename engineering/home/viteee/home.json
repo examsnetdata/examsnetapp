@@ -20,7 +20,7 @@
               "chaptertitle": "VITEEE Previous Papers",
               "chapterpath": "examsnetapp/engineering/viteee/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "BA5",
+              "savekey": "engineering_viteee",
               "datatype": "exams",
               "active": true,
               "common": false,

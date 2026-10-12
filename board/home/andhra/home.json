@@ -19,7 +19,7 @@
               "chaptertitle": "Andhra State Class 10 English Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class10/english/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
+              "savekey": "gdrive_board_andhra_class10_english",
               "datatype": "link",
               "active": true,
               "common": true
@@ -28,7 +28,7 @@
               "chaptertitle": "Andhra State Class 10 Hindi Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class10/hindi/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA1",
+              "savekey": "gdrive_board_andhra_class10_hindi",
               "datatype": "link",
               "active": true,
               "common": true
@@ -37,7 +37,7 @@
               "chaptertitle": "Andhra State Class 10 Math Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class10/math/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA2",
+              "savekey": "gdrive_board_andhra_class10_math",
               "datatype": "link",
               "active": true,
               "common": true
@@ -46,7 +46,7 @@
               "chaptertitle": "Andhra State Class 10 Sanskrit Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class10/sanskrit/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA3",
+              "savekey": "gdrive_board_andhra_class10_sanskrit",
               "datatype": "link",
               "active": true,
               "common": true
@@ -55,7 +55,7 @@
               "chaptertitle": "Andhra State Class 10 Science Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class10/science/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA4",
+              "savekey": "gdrive_board_andhra_class10_science",
               "datatype": "link",
               "active": true,
               "common": true
@@ -64,7 +64,7 @@
               "chaptertitle": "Andhra State Class 10 Social Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class10/social/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA5",
+              "savekey": "gdrive_board_andhra_class10_social",
               "datatype": "link",
               "active": true,
               "common": true
@@ -73,7 +73,7 @@
               "chaptertitle": "Andhra State Class 10 Telugu Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class10/telugu/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA6",
+              "savekey": "gdrive_board_andhra_class10_telugu",
               "datatype": "link",
               "active": true,
               "common": true
@@ -90,7 +90,7 @@
               "chaptertitle": "Andhra State Class 11 Botany Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class11/botany/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA7",
+              "savekey": "gdrive_board_andhra_class11_botany",
               "datatype": "link",
               "active": true,
               "common": true
@@ -99,7 +99,7 @@
               "chaptertitle": "Andhra State Class 11 Chemistry Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class11/chemistry/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA8",
+              "savekey": "gdrive_board_andhra_class11_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -108,7 +108,7 @@
               "chaptertitle": "Andhra State Class 11 Civics Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class11/civics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA9",
+              "savekey": "gdrive_board_andhra_class11_civics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -117,7 +117,7 @@
               "chaptertitle": "Andhra State Class 11 Commerce Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class11/commerce/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA10",
+              "savekey": "gdrive_board_andhra_class11_commerce",
               "datatype": "link",
               "active": true,
               "common": true
@@ -126,7 +126,7 @@
               "chaptertitle": "Andhra State Class 11 Economics Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class11/economics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA11",
+              "savekey": "gdrive_board_andhra_class11_economics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -233,7 +233,7 @@
               "chaptertitle": "Andhra State Class 12 Biology Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class12/biology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA22",
+              "savekey": "gdrive_board_andhra_class12_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -260,7 +260,7 @@
               "chaptertitle": "Andhra State Class 12 Civics Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class12/civics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA25",
+              "savekey": "gdrive_board_andhra_class12_civics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -269,7 +269,7 @@
               "chaptertitle": "Andhra State Class 12 Commerce Papers",
               "chapterpath": "examsnetapp/gdrive/board/andhra/class12/commerce/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA26",
+              "savekey": "gdrive_board_andhra_class12_commerce",
               "datatype": "link",
               "active": true,
               "common": true

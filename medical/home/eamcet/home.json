@@ -17,24 +17,38 @@
           "expand": true,
           "chapters": [
             {
-              "chaptertitle": "AP & TS EAMET Medical Previous Papers",
-              "chapterpath": "examsnetapp/engineering/apeamcetmed/",
+              "chaptertitle": "AP EAPCET Medical Previous Papers",
+              "chapterpath": "examsnetapp/medical/apeamcetmed/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EAMEDPREV",
               "datatype": "exams",
               "active": true,
               "common": false,
               "subjectKeys": [
-                "EAMCETMEDPRE",
+                "EAMCETMEDPRE"
+              ],
+              "totalTests": 35,
+              "testsLabel": "35 Tests",
+              "badgeText": "35 Tests"
+            },
+            {
+              "chaptertitle": "TS EAPCET Medical Previous Papers",
+              "chapterpath": "examsnetapp/medical/tseamcetmed/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "EAMEDPREVTS",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
                 "EAMCETMEDPREV"
               ],
-              "totalTests": 65,
-              "testsLabel": "65 Tests",
-              "badgeText": "65 Tests"
+              "totalTests": 30,
+              "testsLabel": "30 Tests",
+              "badgeText": "30 Tests"
             },
             {
               "chaptertitle": "AP & TS EAMCET Medical Model Papers",
-              "chapterpath": "examsnetapp/medical/aptseamcetmedmodel/",
+              "chapterpath": "examsnetapp/medical/eamcetmedmodel/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EAMEDMODEL",
               "datatype": "exams",

@@ -20,7 +20,7 @@
               "chaptertitle": "KCET Previous Papers",
               "chapterpath": "examsnetapp/engineering/kcet/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "BA10",
+              "savekey": "engineering_kcet",
               "datatype": "exams",
               "active": true,
               "common": false,

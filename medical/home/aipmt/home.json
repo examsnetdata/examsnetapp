@@ -48,7 +48,7 @@
               "chaptertitle": "NEET Biology Class 11 Lecture",
               "chapterpath": "examsnetapp/neet/youtube/class11biology/",
               "clogo": "fa-brands fa-youtube",
-              "savekey": "EXA0",
+              "savekey": "neet_youtube_class11biology",
               "datatype": "link",
               "active": true,
               "common": true

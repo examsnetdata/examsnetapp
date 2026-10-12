@@ -120,7 +120,7 @@
               "chaptertitle": "Class 10 Biology Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/biology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
+              "savekey": "gdrive_cbse_concepts_class10_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -129,7 +129,7 @@
               "chaptertitle": "Class 10 Chemistry Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/chemistry/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA1",
+              "savekey": "gdrive_cbse_concepts_class10_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -138,7 +138,7 @@
               "chaptertitle": "Class 10 Math Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/math/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA2",
+              "savekey": "gdrive_cbse_concepts_class10_math",
               "datatype": "link",
               "active": true,
               "common": true
@@ -147,7 +147,7 @@
               "chaptertitle": "Class 10 Physics Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/physics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA3",
+              "savekey": "gdrive_cbse_concepts_class10_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -156,7 +156,7 @@
               "chaptertitle": "Class 10 Social Science Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class10/socialscience/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA4",
+              "savekey": "gdrive_cbse_concepts_class10_socialscience",
               "datatype": "link",
               "active": true,
               "common": true
@@ -172,7 +172,7 @@
               "chaptertitle": "Class 11 Chemistry Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/chemistry/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA5",
+              "savekey": "gdrive_cbse_concepts_class11_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -181,7 +181,7 @@
               "chaptertitle": "Class 11 Math Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/math/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA6",
+              "savekey": "gdrive_cbse_concepts_class11_math",
               "datatype": "link",
               "active": true,
               "common": true
@@ -190,7 +190,7 @@
               "chaptertitle": "Class 11 Physics Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class11/physics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA7",
+              "savekey": "gdrive_cbse_concepts_class11_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -206,7 +206,7 @@
               "chaptertitle": "Class 12 Biology Concepts",
               "chapterpath": "examsnetapp/gdrive/cbse/concepts/class12/biology/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA8",
+              "savekey": "gdrive_cbse_concepts_class12_biology",
               "datatype": "link",
               "active": true,
               "common": true
@@ -449,7 +449,7 @@
               "chaptertitle": "Class 12 Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/solutions/class12/physics/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA68",
+              "savekey": "gdrive_ncert_solutions_class12_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -465,7 +465,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA3",
+              "savekey": "gdrive_ncert_exemplar_class11_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -474,7 +474,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA4",
+              "savekey": "gdrive_ncert_exemplar_class11_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -483,7 +483,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA5",
+              "savekey": "gdrive_ncert_exemplar_class11_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -499,7 +499,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA3",
+              "savekey": "gdrive_ncert_exemplarsolutions_class11_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -508,7 +508,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA4",
+              "savekey": "gdrive_ncert_exemplarsolutions_class11_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -517,7 +517,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA5",
+              "savekey": "gdrive_ncert_exemplarsolutions_class11_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -533,7 +533,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA7",
+              "savekey": "gdrive_ncert_exemplar_class12_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -542,7 +542,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA8",
+              "savekey": "gdrive_ncert_exemplar_class12_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -551,7 +551,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplar/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA9",
+              "savekey": "gdrive_ncert_exemplar_class12_physics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -567,7 +567,7 @@
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA7",
+              "savekey": "gdrive_ncert_exemplarsolutions_class12_chemistry",
               "datatype": "link",
               "active": true,
               "common": true
@@ -576,7 +576,7 @@
               "chaptertitle": "Mathematics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/mathematics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA8",
+              "savekey": "gdrive_ncert_exemplarsolutions_class12_mathematics",
               "datatype": "link",
               "active": true,
               "common": true
@@ -585,7 +585,7 @@
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/ncert/exemplarsolutions/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
-              "savekey": "EXA9",
+              "savekey": "gdrive_ncert_exemplarsolutions_class12_physics",
               "datatype": "link",
               "active": true,
               "common": true

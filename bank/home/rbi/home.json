@@ -27,9 +27,9 @@
               "subjectKeys": [
                 "BANKRBIPRE"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 17,
+              "testsLabel": "17 Tests",
+              "badgeText": "17 Tests"
             },
             {
               "chaptertitle": "RBI Assistant Model Papers",
@@ -42,9 +42,9 @@
               "subjectKeys": [
                 "BANKRBI"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
             },
             {
               "chaptertitle": "RBI Grade B Officers Previous Papers",
@@ -57,9 +57,9 @@
               "subjectKeys": [
                 "BANKRBIGRBPRE"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
             }
           ]
         }

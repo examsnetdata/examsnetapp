@@ -19,7 +19,7 @@
               "chaptertitle": "SNAP Preious Papers",
               "chapterpath": "examsnetapp/mba/snapprev/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "MATBA1",
+              "savekey": "mba_snapprev",
               "datatype": "exams",
               "active": true,
               "common": false,

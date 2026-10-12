@@ -19,7 +19,7 @@
               "chaptertitle": "AFCAT Previous Papers",
               "chapterpath": "examsnetapp/defence/afcat/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "BA2",
+              "savekey": "defence_afcat",
               "datatype": "exams",
               "active": true,
               "common": false,

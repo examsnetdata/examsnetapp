@@ -27,9 +27,9 @@
               "subjectKeys": [
                 "BANKIBPSCLERKPREV"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 39,
+              "testsLabel": "39 Tests",
+              "badgeText": "39 Tests"
             },
             {
               "chaptertitle": "IBPS Clerk Model Papers",
@@ -42,9 +42,9 @@
               "subjectKeys": [
                 "BANKIBPSCLERK_NEW"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 20,
+              "testsLabel": "20 Tests",
+              "badgeText": "20 Tests"
             },
             {
               "chaptertitle": "IBPS Clerk Mains Previous Papers",
@@ -57,9 +57,9 @@
               "subjectKeys": [
                 "ibps-clerks-mains-papers"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 13,
+              "testsLabel": "13 Tests",
+              "badgeText": "13 Tests"
             }
           ]
         },
@@ -80,9 +80,9 @@
               "subjectKeys": [
                 "BANKIBPSPOPREV"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 46,
+              "testsLabel": "46 Tests",
+              "badgeText": "46 Tests"
             },
             {
               "chaptertitle": "IBPS PO Model Papers",
@@ -95,9 +95,9 @@
               "subjectKeys": [
                 "BANKIBPSPO_NEW"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
             },
             {
               "chaptertitle": "IBPS PO Mains Previous Papers",
@@ -110,9 +110,9 @@
               "subjectKeys": [
                 "ibps-po-mains-papers"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
             }
           ]
         },
@@ -133,9 +133,9 @@
               "subjectKeys": [
                 "BANKIBPSSO"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
             }
           ]
         }

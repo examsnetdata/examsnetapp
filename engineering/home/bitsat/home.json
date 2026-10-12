@@ -20,7 +20,7 @@
               "chaptertitle": "BITSAT Previous Papers",
               "chapterpath": "examsnetapp/engineering/bitsat/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "BA5",
+              "savekey": "engineering_bitsat",
               "datatype": "exams",
               "active": true,
               "common": false,

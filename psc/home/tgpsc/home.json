@@ -26,9 +26,9 @@
               "subjectKeys": [
                 "TSPSCPREV"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
             }
           ]
         },
@@ -49,9 +49,9 @@
               "subjectKeys": [
                 "TSPSCMD"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
             }
           ]
         }

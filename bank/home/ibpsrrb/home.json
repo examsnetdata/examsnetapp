@@ -27,9 +27,9 @@
               "subjectKeys": [
                 "BANKIBPSRRBOAPRE"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 60,
+              "testsLabel": "60 Tests",
+              "badgeText": "60 Tests"
             },
             {
               "chaptertitle": "IBPS RRB Office Assistant Model Papers",
@@ -42,9 +42,9 @@
               "subjectKeys": [
                 "BANKIBPSRRBOA"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 13,
+              "testsLabel": "13 Tests",
+              "badgeText": "13 Tests"
             },
             {
               "chaptertitle": "IBPS RRB Office Assistant Mains Papers",
@@ -57,9 +57,9 @@
               "subjectKeys": [
                 "ibps-rrb-office-assistant-mains-papers"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
             }
           ]
         },
@@ -80,9 +80,9 @@
               "subjectKeys": [
                 "BANKIBPSRRBOFCPRE"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 26,
+              "testsLabel": "26 Tests",
+              "badgeText": "26 Tests"
             },
             {
               "chaptertitle": "IBPS RRB Officers Model Papers",
@@ -95,9 +95,9 @@
               "subjectKeys": [
                 "BANKIBPSRRBOS"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
             }
           ]
         },
@@ -118,9 +118,9 @@
               "subjectKeys": [
                 "BANKIBPSRRB"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 34,
+              "testsLabel": "34 Tests",
+              "badgeText": "34 Tests"
             },
             {
               "chaptertitle": "IBPS RRB PO Mains Papers",
@@ -133,9 +133,9 @@
               "subjectKeys": [
                 "ibps-rrb-po-mains-papers"
               ],
-              "totalTests": 0,
-              "testsLabel": "0 Tests",
-              "badgeText": "0 Tests"
+              "totalTests": 14,
+              "testsLabel": "14 Tests",
+              "badgeText": "14 Tests"
             }
           ]
         }
