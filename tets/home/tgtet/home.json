@@ -24,11 +24,11 @@
               "active": true,
               "common": false,
               "subjectKeys": [
-                "APTETPREV"
+                "TSTETPAPERS"
               ],
-              "totalTests": 10,
-              "testsLabel": "10 Tests",
-              "badgeText": "10 Tests"
+              "totalTests": 2,
+              "testsLabel": "2 Tests",
+              "badgeText": "2 Tests"
             },
             {
               "chaptertitle": "TG TET Model Papers",
@@ -39,11 +39,11 @@
               "active": true,
               "common": false,
               "subjectKeys": [
-                "APTET"
+                "TSTET"
               ],
-              "totalTests": 30,
-              "testsLabel": "30 Tests",
-              "badgeText": "30 Tests"
+              "totalTests": 40,
+              "testsLabel": "40 Tests",
+              "badgeText": "40 Tests"
             },
             {
               "chaptertitle": "TG DSC Model Papers",
@@ -54,11 +54,11 @@
               "active": true,
               "common": false,
               "subjectKeys": [
-                "apdscexampractice"
+                "tgdscexampractice"
               ],
-              "totalTests": 25,
-              "testsLabel": "25 Tests",
-              "badgeText": "25 Tests"
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
             }
           ]
         }
@@ -80,7 +80,7 @@
               "chaptertitle": "Child Development & Pedagogy",
               "chapterpath": "examsnetapp/gdrive/study/ctet/pedagogy/",
               "clogo": "fa-solid fa-book-open",
-              "savekey": "gdrive_study_ctet_pedagogy",
+              "savekey": "A0CG",
               "datatype": "link",
               "active": true,
               "common": true

@@ -1,0 +1,89 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "Agniveer Vayu Group X Papers",
+          "slogo": "fa-solid fa-jet-fighter",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Agniveer Vayu Group X Previous Papers",
+              "chapterpath": "examsnetapp/defence/iafx/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "agniveer-vayu-group-x"
+              ],
+              "totalTests": 34,
+              "testsLabel": "34 Tests",
+              "badgeText": "34 Tests",
+              "savekey": "A002"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Agniveer Vayu Group Y Papers",
+          "slogo": "fa-solid fa-plane",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Agniveer Vayu Group Y Previous Papers",
+              "chapterpath": "examsnetapp/defence/iafy/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "agniveer-vayu-group-y"
+              ],
+              "totalTests": 42,
+              "testsLabel": "42 Tests",
+              "badgeText": "42 Tests",
+              "savekey": "A003"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Agniveer Army GD Papers",
+          "slogo": "fa-solid fa-person-military-rifle",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Agniveer Army GD Previous Papers",
+              "chapterpath": "examsnetapp/defence/armygd/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "agniveer-gd-previous-papers"
+              ],
+              "totalTests": 60,
+              "testsLabel": "60 Tests",
+              "badgeText": "60 Tests",
+              "savekey": "A001"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

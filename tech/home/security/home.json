@@ -19,7 +19,7 @@
               "chaptertitle": "CISSP Certification Practice Tests",
               "chapterpath": "examsnetapp/tech/cissp/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "CISSP",
+              "savekey": "A0K1",
               "datatype": "exams",
               "common": false,
               "subjectKeys": [
@@ -33,7 +33,7 @@
               "chaptertitle": "COMP TIA Certification Tests",
               "chapterpath": "examsnetapp/tech/comptia/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "COMPTIA",
+              "savekey": "A0K2",
               "datatype": "exams",
               "common": false,
               "subjectKeys": [
@@ -47,7 +47,7 @@
               "chaptertitle": "CCNA Certification Tests",
               "chapterpath": "examsnetapp/tech/cisco/ccna200/",
               "clogo": "fa-solid fa-pen",
-              "savekey": "CISCO",
+              "savekey": "A0K0",
               "datatype": "exams",
               "common": false,
               "subjectKeys": [

@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "58",
+        "value": "59",
         "label": "Exams"
       },
       {
-        "value": "4706",
+        "value": "4829",
         "label": "Mock Tests"
       },
       {
@@ -172,6 +172,14 @@
               "testsLabel": "37 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/defence/home/afcat/"
+            },
+            {
+              "id": "defence-agniveer",
+              "title": "Agniveer Exams",
+              "subtitle": "Army GD, Vayu Group X and Group Y Papers",
+              "testsLabel": "136 Tests",
+              "icon": "fa-solid fa-jet-fighter-up",
+              "homePath": "examsnetapp/defence/home/agniveer/"
             }
           ]
         },
@@ -565,7 +573,7 @@
               "id": "teacher-tget",
               "title": "TG TET",
               "subtitle": "TG TET and TG DSC",
-              "testsLabel": "65 Tests",
+              "testsLabel": "52 Tests",
               "icon": "fa-solid fa-user-group",
               "homePath": "examsnetapp/tets/home/tgtet/"
             },
