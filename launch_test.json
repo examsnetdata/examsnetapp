@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "59",
+        "value": "75",
         "label": "Exams"
       },
       {
-        "value": "4829",
+        "value": "5535",
         "label": "Mock Tests"
       },
       {
@@ -64,20 +64,20 @@
               "homePath": "examsnetapp/bank/home/ibpsrrb/"
             },
             {
-              "id": "bank-sbi",
-              "title": "SBI Exams",
-              "subtitle": "SBI Clerk and PO Papers",
-              "testsLabel": "147 Tests",
-              "icon": "fa-solid fa-landmark",
-              "homePath": "examsnetapp/bank/home/sbi/"
-            },
-            {
               "id": "bank-rbi",
               "title": "RBI Exams",
               "subtitle": "RBI Assistant and Grade B Papers",
               "testsLabel": "42 Tests",
               "icon": "fa-solid fa-coins",
               "homePath": "examsnetapp/bank/home/rbi/"
+            },
+            {
+              "id": "bank-sbi",
+              "title": "SBI Exams",
+              "subtitle": "SBI Clerk and PO Papers",
+              "testsLabel": "147 Tests",
+              "icon": "fa-solid fa-landmark",
+              "homePath": "examsnetapp/bank/home/sbi/"
             }
           ]
         },
@@ -89,6 +89,14 @@
           "expanded": false,
           "icon": "fa-solid fa-school",
           "exams": [
+            {
+              "id": "board-andhra",
+              "title": "Andhra Pradesh Board",
+              "subtitle": "Andhra Pradesh Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open-reader",
+              "homePath": "examsnetapp/board/home/andhra/"
+            },
             {
               "id": "board-cbse",
               "title": "CBSE Board",
@@ -104,14 +112,6 @@
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book",
               "homePath": "examsnetapp/board/home/icse/"
-            },
-            {
-              "id": "board-andhra",
-              "title": "Andhra Pradesh Board",
-              "subtitle": "Andhra Pradesh Exam Papers",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-book-open-reader",
-              "homePath": "examsnetapp/board/home/andhra/"
             }
           ]
         },
@@ -124,20 +124,20 @@
           "icon": "fa-solid fa-graduation-cap",
           "exams": [
             {
-              "id": "tech-certification",
-              "title": "Technical Certification",
-              "subtitle": "Java, TOGAF etc.",
-              "testsLabel": "36 Tests",
-              "icon": "fa-solid fa-microchip",
-              "homePath": "examsnetapp/tech/home/tech/"
-            },
-            {
               "id": "manage-certification",
               "title": "Management Certification",
               "subtitle": "PMP, Scrum, PMI-ACP etc",
               "testsLabel": "56 Tests",
               "icon": "fa-solid fa-briefcase",
               "homePath": "examsnetapp/tech/home/manag/"
+            },
+            {
+              "id": "other-certification",
+              "title": "Other Certifications",
+              "subtitle": "ITIL and other certifications",
+              "testsLabel": "6 Tests",
+              "icon": "fa-solid fa-award",
+              "homePath": "examsnetapp/tech/home/other/"
             },
             {
               "id": "security-certification",
@@ -148,12 +148,12 @@
               "homePath": "examsnetapp/tech/home/security/"
             },
             {
-              "id": "other-certification",
-              "title": "Other Certifications",
-              "subtitle": "ITIL and other certifications",
-              "testsLabel": "6 Tests",
-              "icon": "fa-solid fa-award",
-              "homePath": "examsnetapp/tech/home/other/"
+              "id": "tech-certification",
+              "title": "Technical Certification",
+              "subtitle": "Java, TOGAF etc.",
+              "testsLabel": "36 Tests",
+              "icon": "fa-solid fa-microchip",
+              "homePath": "examsnetapp/tech/home/tech/"
             }
           ]
         },
@@ -187,7 +187,7 @@
           "id": "engineering",
           "active": true,
           "title": "Engineering Exams",
-          "subtitle": "BITSAT, EAMCET, KCET, VITEEE, and more",
+          "subtitle": "BITSAT, EAMCET, KCET, COMEDK, KEAM, WBJEE and more",
           "expanded": false,
           "icon": "fa-solid fa-gears",
           "exams": [
@@ -200,12 +200,28 @@
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
             {
+              "id": "eng-comedk",
+              "title": "COMEDK",
+              "subtitle": "COMEDK UGET Exam Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-gears",
+              "homePath": "examsnetapp/engineering/home/comedk/"
+            },
+            {
               "id": "eng-eamcet",
               "title": "EAMCET or EAPCET",
               "subtitle": "AP and TS EAMCET Papers",
               "testsLabel": "266 Tests",
               "icon": "fa-solid fa-drafting-compass",
               "homePath": "examsnetapp/engineering/home/eamcet/"
+            },
+            {
+              "id": "eng-gujcet",
+              "title": "GUJCET",
+              "subtitle": "Gujarat CET Exam Papers",
+              "testsLabel": "54 Tests",
+              "icon": "fa-solid fa-pen-ruler",
+              "homePath": "examsnetapp/engineering/home/gujcet/"
             },
             {
               "id": "eng-kcet",
@@ -216,12 +232,71 @@
               "homePath": "examsnetapp/engineering/home/kcet/"
             },
             {
+              "id": "eng-keam",
+              "title": "KEAM",
+              "subtitle": "Kerala Engineering Entrance Papers",
+              "testsLabel": "34 Tests",
+              "icon": "fa-solid fa-pencil-ruler",
+              "homePath": "examsnetapp/engineering/home/keam/"
+            },
+            {
+              "id": "eng-manipal",
+              "title": "Manipal MET",
+              "subtitle": "Manipal Entrance Test Papers",
+              "testsLabel": "35 Tests",
+              "icon": "fa-solid fa-school-flag",
+              "homePath": "examsnetapp/engineering/home/manipal/"
+            },
+            {
+              "id": "eng-mhtcet",
+              "title": "MHT CET",
+              "subtitle": "Maharashtra MHT CET Exam Papers",
+              "testsLabel": "55 Tests",
+              "icon": "fa-solid fa-square-root-variable",
+              "homePath": "examsnetapp/engineering/home/mhtcet/"
+            },
+            {
               "id": "eng-viteee",
               "title": "VITEEE",
               "subtitle": "VIT Engineering Entrance Exam Papers",
               "testsLabel": "16 Tests",
               "icon": "fa-solid fa-microchip",
               "homePath": "examsnetapp/engineering/home/viteee/"
+            },
+            {
+              "id": "eng-wbjee",
+              "title": "WBJEE",
+              "subtitle": "West Bengal JEE Exam Papers",
+              "testsLabel": "39 Tests",
+              "icon": "fa-solid fa-calculator",
+              "homePath": "examsnetapp/engineering/home/wbjee/"
+            }
+          ]
+        },
+        {
+          "id": "finance-exams",
+          "active": true,
+          "title": "Finance Exams",
+          "subtitle": "CA Foundation and other CA exams",
+          "expanded": false,
+          "icon": "fa-solid fa-hand-holding-dollar",
+          "exams": [
+            {
+              "id": "ca-foundation",
+              "title": "CA Foundation",
+              "subtitle": "CA Foundation Papers, RTP, MTP and Books",
+              "testsLabel": "42 Tests",
+              "icon": "fa-solid fa-file-invoice",
+              "homePath": "examsnetapp/caexam/home/foundation/"
+            },
+            {
+              "id": "ca-cpt",
+              "title": "CA CPT Exams",
+              "subtitle": "CA CPT Previous and Model Papers",
+              "testsLabel": "0 Tests",
+              "icon": "fa-solid fa-receipt",
+              "homePath": "examsnetapp/caexam/home/ca/",
+              "active": false
             }
           ]
         },
@@ -286,6 +361,14 @@
           "icon": "fa-solid fa-user-tie",
           "exams": [
             {
+              "id": "mba-icet",
+              "title": "AP & TG ICET",
+              "subtitle": "AP ICET and TS ICET",
+              "testsLabel": "53 Tests",
+              "icon": "fa-solid fa-id-card",
+              "homePath": "examsnetapp/mba/home/icet/"
+            },
+            {
               "id": "mba-cat",
               "title": "CAT Papers",
               "subtitle": "CAT Exam Papers",
@@ -308,14 +391,6 @@
               "testsLabel": "6 Tests",
               "icon": "fa-solid fa-clipboard-list",
               "homePath": "examsnetapp/mba/home/mat/"
-            },
-            {
-              "id": "mba-icet",
-              "title": "AP & TG ICET",
-              "subtitle": "AP ICET and TS ICET",
-              "testsLabel": "53 Tests",
-              "icon": "fa-solid fa-id-card",
-              "homePath": "examsnetapp/mba/home/icet/"
             },
             {
               "id": "mca-nimcet",
@@ -352,14 +427,6 @@
           "icon": "fa-solid fa-stethoscope",
           "exams": [
             {
-              "id": "neet",
-              "title": "NEET",
-              "subtitle": "NEET Exam Papers",
-              "testsLabel": "187 Tests",
-              "icon": "fa-solid fa-notes-medical",
-              "homePath": "examsnetapp/medical/home/neet/"
-            },
-            {
               "id": "aipmt",
               "title": "AIPMT",
               "subtitle": "AIPMT Exam Papers",
@@ -374,6 +441,14 @@
               "testsLabel": "78 Tests",
               "icon": "fa-solid fa-heart-pulse",
               "homePath": "examsnetapp/medical/home/eamcet/"
+            },
+            {
+              "id": "neet",
+              "title": "NEET",
+              "subtitle": "NEET Exam Papers",
+              "testsLabel": "187 Tests",
+              "icon": "fa-solid fa-notes-medical",
+              "homePath": "examsnetapp/medical/home/neet/"
             }
           ]
         },
@@ -404,6 +479,88 @@
           ]
         },
         {
+          "id": "police-exams",
+          "active": true,
+          "title": "Police Exams",
+          "subtitle": "AP, TS, UP, MP, Delhi, Bihar and other state police exams",
+          "expanded": false,
+          "icon": "fa-solid fa-user-shield",
+          "exams": [
+            {
+              "id": "police-ap",
+              "title": "AP Police",
+              "subtitle": "AP Police SI and Constable Papers",
+              "testsLabel": "37 Tests",
+              "icon": "fa-solid fa-user-shield",
+              "homePath": "examsnetapp/police/home/ap/"
+            },
+            {
+              "id": "police-bihar",
+              "title": "Bihar Police",
+              "subtitle": "Bihar Police Constable Papers",
+              "testsLabel": "32 Tests",
+              "icon": "fa-solid fa-shield-halved",
+              "homePath": "examsnetapp/police/home/bihar/"
+            },
+            {
+              "id": "police-delhi",
+              "title": "Delhi Police",
+              "subtitle": "Constable and Head Constable Papers",
+              "testsLabel": "95 Tests",
+              "icon": "fa-solid fa-city",
+              "homePath": "examsnetapp/police/home/delhi/"
+            },
+            {
+              "id": "police-mp",
+              "title": "MP Police",
+              "subtitle": "MP Police Constable Papers",
+              "testsLabel": "70 Tests",
+              "icon": "fa-solid fa-landmark",
+              "homePath": "examsnetapp/police/home/mp/"
+            },
+            {
+              "id": "police-rajasthan",
+              "title": "Rajasthan Police",
+              "subtitle": "Rajasthan Police Constable Papers",
+              "testsLabel": "35 Tests",
+              "icon": "fa-solid fa-person-military-rifle",
+              "homePath": "examsnetapp/police/home/rajasthan/"
+            },
+            {
+              "id": "police-telangana",
+              "title": "Telangana Police",
+              "subtitle": "TS Police SI and Constable Papers",
+              "testsLabel": "46 Tests",
+              "icon": "fa-solid fa-landmark-flag",
+              "homePath": "examsnetapp/police/home/telangana/"
+            },
+            {
+              "id": "police-up",
+              "title": "UP Police",
+              "subtitle": "UP Police SI and Constable Papers",
+              "testsLabel": "86 Tests",
+              "icon": "fa-solid fa-scale-balanced",
+              "homePath": "examsnetapp/police/home/up/"
+            },
+            {
+              "id": "police-westbengal",
+              "title": "West Bengal Police",
+              "subtitle": "WB Police Constable Papers",
+              "testsLabel": "14 Tests",
+              "icon": "fa-solid fa-id-card",
+              "homePath": "examsnetapp/police/home/westbengal/"
+            },
+            {
+              "id": "police-tamilnadu",
+              "title": "Tamil Nadu Police",
+              "subtitle": "Tamil Nadu Police Previous Papers",
+              "testsLabel": "14 Tests",
+              "icon": "fa-solid fa-building-columns",
+              "homePath": "examsnetapp/police/home/tamilnadu/"
+            }
+          ]
+        },
+        {
           "id": "psc-exams",
           "active": true,
           "title": "PSC Exams",
@@ -411,6 +568,14 @@
           "expanded": false,
           "icon": "fa-solid fa-landmark-flag",
           "exams": [
+            {
+              "id": "appsc-exams",
+              "title": "APPSC Exams",
+              "subtitle": "APPSC Previous, Model and Group 3 Papers",
+              "testsLabel": "50 Tests",
+              "icon": "fa-solid fa-building-columns",
+              "homePath": "examsnetapp/psc/home/appsc/"
+            },
             {
               "id": "bpsc-exams",
               "title": "BPSC Papers",
@@ -442,14 +607,6 @@
               "testsLabel": "24 Tests",
               "icon": "fa-solid fa-landmark",
               "homePath": "examsnetapp/psc/home/tgpsc/"
-            },
-            {
-              "id": "appsc-exams",
-              "title": "APPSC Exams",
-              "subtitle": "APPSC Previous, Model and Group 3 Papers",
-              "testsLabel": "50 Tests",
-              "icon": "fa-solid fa-building-columns",
-              "homePath": "examsnetapp/psc/home/appsc/"
             }
           ]
         },
@@ -520,20 +677,20 @@
               "homePath": "examsnetapp/ssc/home/chsl/"
             },
             {
-              "id": "ssc-steno",
-              "title": "SSC Stenographer",
-              "subtitle": "SSC Stenographer Exam Papers",
-              "testsLabel": "102 Tests",
-              "icon": "fa-solid fa-keyboard",
-              "homePath": "examsnetapp/ssc/home/steno/"
-            },
-            {
               "id": "ssc-junior-engineer",
               "title": "SSC Junior Engineer",
               "subtitle": "SSC JE Exam Papers",
               "testsLabel": "136 Tests",
               "icon": "fa-solid fa-helmet-safety",
               "homePath": "examsnetapp/ssc/home/je/"
+            },
+            {
+              "id": "ssc-steno",
+              "title": "SSC Stenographer",
+              "subtitle": "SSC Stenographer Exam Papers",
+              "testsLabel": "102 Tests",
+              "icon": "fa-solid fa-keyboard",
+              "homePath": "examsnetapp/ssc/home/steno/"
             }
           ]
         },
@@ -570,6 +727,14 @@
               "homePath": "examsnetapp/tets/home/ctet/"
             },
             {
+              "id": "teacher-mahatet",
+              "title": "Maha TET",
+              "subtitle": "Maharashtra TET Exam Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetapp/tets/home/mahatet/"
+            },
+            {
               "id": "teacher-tget",
               "title": "TG TET",
               "subtitle": "TG TET and TG DSC",
@@ -592,14 +757,6 @@
               "testsLabel": "62 Tests",
               "icon": "fa-solid fa-user-pen",
               "homePath": "examsnetapp/tets/home/uptet/"
-            },
-            {
-              "id": "teacher-mahatet",
-              "title": "Maha TET",
-              "subtitle": "Maharashtra TET Exam Papers",
-              "testsLabel": "18 Tests",
-              "icon": "fa-solid fa-user-graduate",
-              "homePath": "examsnetapp/tets/home/mahatet/"
             }
           ]
         },

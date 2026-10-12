@@ -1,0 +1,58 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "products": {
+    "parentType": "product",
+    "items": []
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "CA CPT Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "CA CPT Previous Papers",
+              "chapterpath": "examsnetapp/caexam/cptprev/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": false,
+              "common": false,
+              "subjectKeys": [
+                "CACPT"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests",
+              "savekey": "A0L1"
+            },
+            {
+              "chaptertitle": "CA CPT Model Papers",
+              "chapterpath": "examsnetapp/caexam/cptmodel/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": false,
+              "common": false,
+              "subjectKeys": [
+                "CACPTMODEL"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests",
+              "savekey": "A0L2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

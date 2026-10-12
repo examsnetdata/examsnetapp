@@ -1,0 +1,169 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "products": {
+    "parentType": "product",
+    "items": []
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "CA Foundation Tests",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "CA Foundation Previous Tests",
+              "chapterpath": "examsnetapp/caexam/cafoundprev/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CAFOUND"
+              ],
+              "totalTests": 19,
+              "testsLabel": "19 Tests",
+              "badgeText": "19 Tests",
+              "savekey": "A0L3"
+            },
+            {
+              "chaptertitle": "CA Foundation By Chapter (Maths)",
+              "chapterpath": "examsnetapp/caexam/cafoundchapter/math/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "CAFOUNDCHAP"
+              ],
+              "totalTests": 23,
+              "testsLabel": "23 Tests",
+              "badgeText": "23 Tests",
+              "savekey": "A0L4"
+            },
+            {
+              "chaptertitle": "CA Foundation Model Papers",
+              "chapterpath": "examsnetapp/caexam/cafoundmodel/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": false,
+              "common": false,
+              "subjectKeys": [
+                "CAFOUNDMD"
+              ],
+              "totalTests": 0,
+              "testsLabel": "0 Tests",
+              "badgeText": "0 Tests",
+              "savekey": "A0L5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "Papers, RTP and MTP",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "CA Foundation Previous Papers",
+              "chapterpath": "examsnetapp/gdrive/india/cafoundation/previous/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0LV"
+            },
+            {
+              "chaptertitle": "CA Foundation RTP",
+              "chapterpath": "examsnetapp/gdrive/india/cafoundation/rtp/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0LW"
+            },
+            {
+              "chaptertitle": "CA Foundation MTP",
+              "chapterpath": "examsnetapp/gdrive/india/cafoundation/mtp/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0LX"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Books",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Accounting",
+              "chapterpath": "examsnetapp/gdrive/study/cafoundation/accounting/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0LY"
+            },
+            {
+              "chaptertitle": "Business Laws",
+              "chapterpath": "examsnetapp/gdrive/study/cafoundation/businesslaws/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0LZ"
+            },
+            {
+              "chaptertitle": "Quantitative Aptitude",
+              "chapterpath": "examsnetapp/gdrive/study/cafoundation/quantitativeaptitude/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0M0"
+            },
+            {
+              "chaptertitle": "Business Economics",
+              "chapterpath": "examsnetapp/gdrive/study/cafoundation/businesseconomics/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0M1"
+            },
+            {
+              "chaptertitle": "Last Mile Referencer",
+              "chapterpath": "examsnetapp/gdrive/study/cafoundation/lastmilereferencer/",
+              "clogo": "fa-solid fa-book-open",
+              "datatype": "link",
+              "active": true,
+              "common": true,
+              "savekey": "A0M2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

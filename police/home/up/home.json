@@ -1,0 +1,217 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "products": {
+    "parentType": "product",
+    "items": []
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "UP Police Constable Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "UP Police Constable Previous Papers",
+              "chapterpath": "examsnetapp/police/upconstprev/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "up-police-constable-prev-papers"
+              ],
+              "totalTests": 24,
+              "testsLabel": "24 Tests",
+              "badgeText": "24 Tests",
+              "savekey": "A0LQ"
+            },
+            {
+              "chaptertitle": "UP Police Constable Model Papers",
+              "chapterpath": "examsnetapp/police/upconstmd/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "up-police-constable-entrance-exam"
+              ],
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests",
+              "savekey": "A0LR"
+            }
+          ]
+        },
+        {
+          "subjecttitle": "UP Police SI Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "UP Police SI Previous Papers",
+              "chapterpath": "examsnetapp/police/upsiprev/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "up-police-si-constable-prev-papers"
+              ],
+              "totalTests": 42,
+              "testsLabel": "42 Tests",
+              "badgeText": "42 Tests",
+              "savekey": "A0LS"
+            },
+            {
+              "chaptertitle": "UP Police SI Model Papers",
+              "chapterpath": "examsnetapp/police/upsimodel/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "up-police-si-entrance-exam"
+              ],
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests",
+              "savekey": "A0LT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "General Studies",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Biology",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Environment Ecology",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/environmentecology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "History",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "India and World Geography",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indiaandworldgeography/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Economy",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianeconomy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Politics",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/indianpolitics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Science and Technology",
+              "chapterpath": "examsnetapp/gdrive/study/generalstudies/scienceandtechnology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Aptitude Formula Notes",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Number System",
+              "chapterpath": "examsnetapp/notes/aptitude/numbers/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "A0JN",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Basic Arithmetic",
+              "chapterpath": "examsnetapp/notes/aptitude/arithmetic/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "A0JM",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

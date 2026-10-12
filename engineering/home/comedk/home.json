@@ -1,0 +1,115 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "products": {
+    "parentType": "product",
+    "items": []
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "COMEDK Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "COMEDK Exam Papers",
+              "chapterpath": "examsnetapp/engineering/comedk/",
+              "clogo": "fa-solid fa-pen",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "COMEDK"
+              ],
+              "totalTests": 18,
+              "testsLabel": "18 Tests",
+              "badgeText": "18 Tests",
+              "savekey": "A0L6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categorytitle": "Study Resources",
+      "subjects": [
+        {
+          "subjecttitle": "Math Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Math Class 11 Notes",
+              "chapterpath": "examsnetapp/notes/hb/math11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Math Class 12 Notes",
+              "chapterpath": "examsnetapp/notes/hb/math12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Chemistry Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Chemistry Class 11 Notes",
+              "chapterpath": "examsnetapp/notes/hb/chemistry11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry Class 12 Notes",
+              "chapterpath": "examsnetapp/notes/hb/chemistry12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
+          "subjecttitle": "Physics Notes",
+          "slogo": "fa-solid fa-book",
+          "chapters": [
+            {
+              "chaptertitle": "Physics Class 11 Notes",
+              "chapterpath": "examsnetapp/notes/hb/physics11/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics Class 12 Notes",
+              "chapterpath": "examsnetapp/notes/hb/physics12/",
+              "clogo": "fa-brands fa-readme",
+              "datatype": "notes",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ],
+      "expand": true
+    }
+  ]
+}
