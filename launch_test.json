@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "75",
+        "value": "76",
         "label": "Exams"
       },
       {
-        "value": "5535",
+        "value": "5553",
         "label": "Mock Tests"
       },
       {
@@ -482,7 +482,7 @@
           "id": "police-exams",
           "active": true,
           "title": "Police Exams",
-          "subtitle": "AP, TS, UP, MP, Delhi, Bihar and other state police exams",
+          "subtitle": "AP, TS, UP, MP, Delhi, Maharashtra, Bihar and other state police exams",
           "expanded": false,
           "icon": "fa-solid fa-user-shield",
           "exams": [
@@ -509,6 +509,14 @@
               "testsLabel": "95 Tests",
               "icon": "fa-solid fa-city",
               "homePath": "examsnetapp/police/home/delhi/"
+            },
+            {
+              "id": "police-maharashtra",
+              "title": "Maharashtra Police",
+              "subtitle": "Maharashtra Police Constable Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-city",
+              "homePath": "examsnetapp/police/home/maharashtra/"
             },
             {
               "id": "police-mp",

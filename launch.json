@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "59",
+        "value": "76",
         "label": "Exams"
       },
       {
-        "value": "4829",
+        "value": "5553",
         "label": "Mock Tests"
       },
       {
@@ -187,7 +187,7 @@
           "id": "engineering",
           "active": true,
           "title": "Engineering Exams",
-          "subtitle": "BITSAT, EAMCET, KCET, VITEEE, and more",
+          "subtitle": "BITSAT, EAMCET, KCET, COMEDK, KEAM, WBJEE and more",
           "expanded": false,
           "icon": "fa-solid fa-gears",
           "exams": [
@@ -200,12 +200,28 @@
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
             {
+              "id": "eng-comedk",
+              "title": "COMEDK",
+              "subtitle": "COMEDK UGET Exam Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-gears",
+              "homePath": "examsnetapp/engineering/home/comedk/"
+            },
+            {
               "id": "eng-eamcet",
               "title": "EAMCET or EAPCET",
               "subtitle": "AP and TS EAMCET Papers",
               "testsLabel": "266 Tests",
               "icon": "fa-solid fa-drafting-compass",
               "homePath": "examsnetapp/engineering/home/eamcet/"
+            },
+            {
+              "id": "eng-gujcet",
+              "title": "GUJCET",
+              "subtitle": "Gujarat CET Exam Papers",
+              "testsLabel": "54 Tests",
+              "icon": "fa-solid fa-pen-ruler",
+              "homePath": "examsnetapp/engineering/home/gujcet/"
             },
             {
               "id": "eng-kcet",
@@ -216,12 +232,71 @@
               "homePath": "examsnetapp/engineering/home/kcet/"
             },
             {
+              "id": "eng-keam",
+              "title": "KEAM",
+              "subtitle": "Kerala Engineering Entrance Papers",
+              "testsLabel": "34 Tests",
+              "icon": "fa-solid fa-pencil-ruler",
+              "homePath": "examsnetapp/engineering/home/keam/"
+            },
+            {
+              "id": "eng-manipal",
+              "title": "Manipal MET",
+              "subtitle": "Manipal Entrance Test Papers",
+              "testsLabel": "35 Tests",
+              "icon": "fa-solid fa-school-flag",
+              "homePath": "examsnetapp/engineering/home/manipal/"
+            },
+            {
+              "id": "eng-mhtcet",
+              "title": "MHT CET",
+              "subtitle": "Maharashtra MHT CET Exam Papers",
+              "testsLabel": "55 Tests",
+              "icon": "fa-solid fa-square-root-variable",
+              "homePath": "examsnetapp/engineering/home/mhtcet/"
+            },
+            {
               "id": "eng-viteee",
               "title": "VITEEE",
               "subtitle": "VIT Engineering Entrance Exam Papers",
               "testsLabel": "16 Tests",
               "icon": "fa-solid fa-microchip",
               "homePath": "examsnetapp/engineering/home/viteee/"
+            },
+            {
+              "id": "eng-wbjee",
+              "title": "WBJEE",
+              "subtitle": "West Bengal JEE Exam Papers",
+              "testsLabel": "39 Tests",
+              "icon": "fa-solid fa-calculator",
+              "homePath": "examsnetapp/engineering/home/wbjee/"
+            }
+          ]
+        },
+        {
+          "id": "finance-exams",
+          "active": true,
+          "title": "Finance Exams",
+          "subtitle": "CA Foundation and other CA exams",
+          "expanded": false,
+          "icon": "fa-solid fa-hand-holding-dollar",
+          "exams": [
+            {
+              "id": "ca-foundation",
+              "title": "CA Foundation",
+              "subtitle": "CA Foundation Papers, RTP, MTP and Books",
+              "testsLabel": "42 Tests",
+              "icon": "fa-solid fa-file-invoice",
+              "homePath": "examsnetapp/caexam/home/foundation/"
+            },
+            {
+              "id": "ca-cpt",
+              "title": "CA CPT Exams",
+              "subtitle": "CA CPT Previous and Model Papers",
+              "testsLabel": "0 Tests",
+              "icon": "fa-solid fa-receipt",
+              "homePath": "examsnetapp/caexam/home/ca/",
+              "active": false
             }
           ]
         },
@@ -400,6 +475,96 @@
               "testsLabel": "17 Tests",
               "icon": "fa-solid fa-hotel",
               "homePath": "examsnetapp/other/home/nchmct/"
+            }
+          ]
+        },
+        {
+          "id": "police-exams",
+          "active": true,
+          "title": "Police Exams",
+          "subtitle": "AP, TS, UP, MP, Delhi, Maharashtra, Bihar and other state police exams",
+          "expanded": false,
+          "icon": "fa-solid fa-user-shield",
+          "exams": [
+            {
+              "id": "police-ap",
+              "title": "AP Police",
+              "subtitle": "AP Police SI and Constable Papers",
+              "testsLabel": "37 Tests",
+              "icon": "fa-solid fa-user-shield",
+              "homePath": "examsnetapp/police/home/ap/"
+            },
+            {
+              "id": "police-bihar",
+              "title": "Bihar Police",
+              "subtitle": "Bihar Police Constable Papers",
+              "testsLabel": "32 Tests",
+              "icon": "fa-solid fa-shield-halved",
+              "homePath": "examsnetapp/police/home/bihar/"
+            },
+            {
+              "id": "police-delhi",
+              "title": "Delhi Police",
+              "subtitle": "Constable and Head Constable Papers",
+              "testsLabel": "95 Tests",
+              "icon": "fa-solid fa-city",
+              "homePath": "examsnetapp/police/home/delhi/"
+            },
+            {
+              "id": "police-maharashtra",
+              "title": "Maharashtra Police",
+              "subtitle": "Maharashtra Police Constable Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-city",
+              "homePath": "examsnetapp/police/home/maharashtra/"
+            },
+            {
+              "id": "police-mp",
+              "title": "MP Police",
+              "subtitle": "MP Police Constable Papers",
+              "testsLabel": "70 Tests",
+              "icon": "fa-solid fa-landmark",
+              "homePath": "examsnetapp/police/home/mp/"
+            },
+            {
+              "id": "police-rajasthan",
+              "title": "Rajasthan Police",
+              "subtitle": "Rajasthan Police Constable Papers",
+              "testsLabel": "35 Tests",
+              "icon": "fa-solid fa-person-military-rifle",
+              "homePath": "examsnetapp/police/home/rajasthan/"
+            },
+            {
+              "id": "police-telangana",
+              "title": "Telangana Police",
+              "subtitle": "TS Police SI and Constable Papers",
+              "testsLabel": "46 Tests",
+              "icon": "fa-solid fa-landmark-flag",
+              "homePath": "examsnetapp/police/home/telangana/"
+            },
+            {
+              "id": "police-up",
+              "title": "UP Police",
+              "subtitle": "UP Police SI and Constable Papers",
+              "testsLabel": "86 Tests",
+              "icon": "fa-solid fa-scale-balanced",
+              "homePath": "examsnetapp/police/home/up/"
+            },
+            {
+              "id": "police-westbengal",
+              "title": "West Bengal Police",
+              "subtitle": "WB Police Constable Papers",
+              "testsLabel": "14 Tests",
+              "icon": "fa-solid fa-id-card",
+              "homePath": "examsnetapp/police/home/westbengal/"
+            },
+            {
+              "id": "police-tamilnadu",
+              "title": "Tamil Nadu Police",
+              "subtitle": "Tamil Nadu Police Previous Papers",
+              "testsLabel": "14 Tests",
+              "icon": "fa-solid fa-building-columns",
+              "homePath": "examsnetapp/police/home/tamilnadu/"
             }
           ]
         },
