@@ -13,12 +13,13 @@
           "subjecttitle": "Class 10 Previous Papers",
           "slogo": "fa-solid fa-user-astronaut",
           "expand": false,
+          "display": "list",
           "active": true,
           "chapters": [
             {
               "chaptertitle": "Computer Applications",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/computerapplications/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01D",
               "datatype": "link",
               "active": true,
@@ -27,7 +28,7 @@
             {
               "chaptertitle": "English",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/english/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01E",
               "datatype": "link",
               "active": true,
@@ -36,34 +37,25 @@
             {
               "chaptertitle": "Hindi",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/hindi/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01F",
               "datatype": "link",
               "active": true,
               "common": true
             },
             {
-              "chaptertitle": "Math",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/class10/math/",
-              "clogo": "fa-solid fa-list",
-              "savekey": "A01H",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "CBSE Class 10 Math Basic Papers",
+              "chaptertitle": "Math Basic",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/mathbasic/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01I",
               "datatype": "link",
               "active": true,
               "common": true
             },
             {
-              "chaptertitle": "CBSE Class 10 Math Standard Papers",
+              "chaptertitle": "Math Standard",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/mathstandard/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01J",
               "datatype": "link",
               "active": true,
@@ -72,7 +64,7 @@
             {
               "chaptertitle": "Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/science/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01L",
               "datatype": "link",
               "active": true,
@@ -81,7 +73,7 @@
             {
               "chaptertitle": "Social Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/socialscience/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01M",
               "datatype": "link",
               "active": true,
@@ -90,16 +82,16 @@
             {
               "chaptertitle": "Sanskrit",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/sanskrit/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01K",
               "datatype": "link",
               "active": true,
               "common": true
             },
             {
-              "chaptertitle": "InformationTechnology",
+              "chaptertitle": "Information Technology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class10/informationtechnology/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01G",
               "datatype": "link",
               "active": true,
@@ -112,11 +104,12 @@
           "slogo": "fa-solid fa-user-astronaut",
           "active": true,
           "expand": false,
+          "display": "list",
           "chapters": [
             {
               "chaptertitle": "Accountancy",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/accountancy/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01N",
               "datatype": "link",
               "active": true,
@@ -125,7 +118,7 @@
             {
               "chaptertitle": "Applied Mathematics",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/appliedmathematics/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01O",
               "datatype": "link",
               "active": true,
@@ -134,7 +127,7 @@
             {
               "chaptertitle": "Biology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/biology/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01P",
               "datatype": "link",
               "active": true,
@@ -143,7 +136,7 @@
             {
               "chaptertitle": "Biotechnology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/biotechnology/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01Q",
               "datatype": "link",
               "active": true,
@@ -152,7 +145,7 @@
             {
               "chaptertitle": "Business Studies",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/businessstudies/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01R",
               "datatype": "link",
               "active": true,
@@ -161,7 +154,7 @@
             {
               "chaptertitle": "Chemistry",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/chemistry/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01S",
               "datatype": "link",
               "active": true,
@@ -170,7 +163,7 @@
             {
               "chaptertitle": "Computer Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/computerscience/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01T",
               "datatype": "link",
               "active": true,
@@ -179,7 +172,7 @@
             {
               "chaptertitle": "Economics",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/economics/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01U",
               "datatype": "link",
               "active": true,
@@ -188,7 +181,7 @@
             {
               "chaptertitle": "Engineering Graphics",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/engineeringgraphics/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA16",
               "datatype": "link",
               "active": true,
@@ -197,16 +190,16 @@
             {
               "chaptertitle": "English",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/english/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01V",
               "datatype": "link",
               "active": true,
               "common": true
             },
             {
-              "chaptertitle": "Enterpreneurship",
+              "chaptertitle": "Entrepreneurship",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/enterpreneurship/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01W",
               "datatype": "link",
               "active": true,
@@ -215,7 +208,7 @@
             {
               "chaptertitle": "Geography",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/geography/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA19",
               "datatype": "link",
               "active": true,
@@ -224,7 +217,7 @@
             {
               "chaptertitle": "Hindi Core",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/hindicore/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01X",
               "datatype": "link",
               "active": true,
@@ -233,7 +226,7 @@
             {
               "chaptertitle": "Hindi Elective",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/hindielective/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01Y",
               "datatype": "link",
               "active": true,
@@ -242,7 +235,7 @@
             {
               "chaptertitle": "History",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/history/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A01Z",
               "datatype": "link",
               "active": true,
@@ -251,7 +244,7 @@
             {
               "chaptertitle": "Home Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/homescience/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A020",
               "datatype": "link",
               "active": true,
@@ -260,7 +253,7 @@
             {
               "chaptertitle": "Informatics Practices",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/informaticspractices/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A021",
               "datatype": "link",
               "active": true,
@@ -269,7 +262,7 @@
             {
               "chaptertitle": "Legal Studies",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/legalstudies/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "A022",
               "datatype": "link",
               "active": true,
@@ -278,7 +271,7 @@
             {
               "chaptertitle": "Math",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/math/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA26",
               "datatype": "link",
               "active": true,
@@ -287,7 +280,7 @@
             {
               "chaptertitle": "Physical Education",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/physicaleducation/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA27",
               "datatype": "link",
               "active": true,
@@ -296,7 +289,7 @@
             {
               "chaptertitle": "Physics",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/physics/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA28",
               "datatype": "link",
               "active": true,
@@ -305,7 +298,7 @@
             {
               "chaptertitle": "Political Science",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/politicalscience/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA29",
               "datatype": "link",
               "active": true,
@@ -314,7 +307,7 @@
             {
               "chaptertitle": "Psychology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/psychology/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA30",
               "datatype": "link",
               "active": true,
@@ -323,25 +316,25 @@
             {
               "chaptertitle": "Sociology",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/sociology/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA31",
               "datatype": "link",
               "active": true,
               "common": true
             },
             {
-              "chaptertitle": "SanskritCore",
+              "chaptertitle": "Sanskrit Core",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/sanskritcore/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA32",
               "datatype": "link",
               "active": true,
               "common": true
             },
             {
-              "chaptertitle": "SanskritElective",
+              "chaptertitle": "Sanskrit Elective",
               "chapterpath": "examsnetapp/gdrive/board/cbse/class12/sanskritelective/",
-              "clogo": "fa-solid fa-list",
+              "clogo": "fa-regular fa-file-pdf",
               "savekey": "BA33",
               "datatype": "link",
               "active": true,
