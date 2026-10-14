@@ -18,7 +18,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 10 Biology Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class10/biology/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class10/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A023",
               "datatype": "link",
@@ -27,7 +27,7 @@
             },
             {
               "chaptertitle": "Class 10 Chemistry Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class10/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class10/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A024",
               "datatype": "link",
@@ -36,7 +36,7 @@
             },
             {
               "chaptertitle": "Class 10 Math Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class10/math/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class10/math/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A025",
               "datatype": "link",
@@ -45,7 +45,7 @@
             },
             {
               "chaptertitle": "Class 10 Physics Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class10/physics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class10/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A026",
               "datatype": "link",
@@ -54,7 +54,7 @@
             },
             {
               "chaptertitle": "Class 10 Social Science Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class10/socialscience/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class10/socialscience/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A027",
               "datatype": "link",
@@ -71,7 +71,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 11 Chemistry Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class11/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class11/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A028",
               "datatype": "link",
@@ -80,7 +80,7 @@
             },
             {
               "chaptertitle": "Class 11 Math Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class11/math/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class11/math/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A029",
               "datatype": "link",
@@ -89,7 +89,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class11/physics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class11/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A02A",
               "datatype": "link",
@@ -106,7 +106,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 12 Biology Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class12/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A02B",
               "datatype": "link",
@@ -115,7 +115,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class12/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A02C",
               "datatype": "link",
@@ -124,7 +124,7 @@
             },
             {
               "chaptertitle": "Class 12 Math Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class12/math/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class12/math/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A02D",
               "datatype": "link",
@@ -133,7 +133,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Concepts",
-              "chapterpath": "examsnetapp/gdrive/board/cbse/concepts/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/cbse/concepts/class12/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "A02E",
               "datatype": "link",

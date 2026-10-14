@@ -18,7 +18,7 @@
           "chapters": [
             {
               "chaptertitle": "ICSE Class 10 Biology Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/biology/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/biology/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02F",
               "datatype": "link",
@@ -27,7 +27,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Chemistry Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/chemistry/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02G",
               "datatype": "link",
@@ -36,7 +36,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Commercial Applications Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/commercialapplications/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/commercialapplications/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02H",
               "datatype": "link",
@@ -45,7 +45,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Commercial Studies Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/commercialstudies/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/commercialstudies/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02I",
               "datatype": "link",
@@ -54,7 +54,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Computer Applications Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/computerapplications/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/computerapplications/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02J",
               "datatype": "link",
@@ -63,7 +63,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Economics Applications Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/economicsapplications/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/economicsapplications/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02L",
               "datatype": "link",
@@ -72,7 +72,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Economics Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/economics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/economics/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02K",
               "datatype": "link",
@@ -81,7 +81,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 English Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/english/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/english/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02M",
               "datatype": "link",
@@ -90,7 +90,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Geography Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/geography/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/geography/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02N",
               "datatype": "link",
@@ -99,7 +99,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Hindi Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/hindi/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/hindi/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02O",
               "datatype": "link",
@@ -108,7 +108,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 History Civics Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/historycivics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/historycivics/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02P",
               "datatype": "link",
@@ -117,7 +117,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Home Science Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/homescience/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/homescience/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02Q",
               "datatype": "link",
@@ -126,7 +126,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Mathematics Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/mathematics/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02R",
               "datatype": "link",
@@ -135,7 +135,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Physical Education Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/physicaleducation/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02S",
               "datatype": "link",
@@ -144,7 +144,7 @@
             },
             {
               "chaptertitle": "ICSE Class 10 Physics Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class10/physics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class10/physics/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02T",
               "datatype": "link",
@@ -161,7 +161,7 @@
           "chapters": [
             {
               "chaptertitle": "ISC Class 12 Accountancy Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/accountancy/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/accountancy/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02U",
               "datatype": "link",
@@ -170,7 +170,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Biology Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/biology/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/biology/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02V",
               "datatype": "link",
@@ -179,7 +179,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Biotechnology Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/biotechnology/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/biotechnology/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02W",
               "datatype": "link",
@@ -188,7 +188,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Business Studies Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/businessstudies/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/businessstudies/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02X",
               "datatype": "link",
@@ -197,7 +197,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Chemistry Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/chemistry/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/chemistry/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02Y",
               "datatype": "link",
@@ -206,7 +206,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Commerce Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/commerce/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/commerce/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A02Z",
               "datatype": "link",
@@ -215,7 +215,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Computer Science Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/computerscience/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/computerscience/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A030",
               "datatype": "link",
@@ -224,7 +224,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Economics Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/economics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/economics/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A031",
               "datatype": "link",
@@ -233,7 +233,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 English Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/english/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/english/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A032",
               "datatype": "link",
@@ -242,7 +242,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Geography Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/geography/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/geography/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A033",
               "datatype": "link",
@@ -251,7 +251,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Hindi Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/hindi/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/hindi/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A034",
               "datatype": "link",
@@ -260,7 +260,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 History Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/history/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/history/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A035",
               "datatype": "link",
@@ -269,7 +269,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Home Science Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/homescience/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/homescience/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A036",
               "datatype": "link",
@@ -278,7 +278,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Mathematics Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/mathematics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/mathematics/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A037",
               "datatype": "link",
@@ -287,7 +287,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Physical Education Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/physicaleducation/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/physicaleducation/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A038",
               "datatype": "link",
@@ -296,7 +296,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Physics Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/physics/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/physics/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A039",
               "datatype": "link",
@@ -305,7 +305,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Political Science Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/politicalscience/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/politicalscience/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A03A",
               "datatype": "link",
@@ -314,7 +314,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Psychology Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/psychology/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/psychology/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A03B",
               "datatype": "link",
@@ -323,7 +323,7 @@
             },
             {
               "chaptertitle": "ISC Class 12 Sociology Papers",
-              "chapterpath": "examsnetapp/gdrive/board/icse/class12/sociology/",
+              "chapterpath": "examsnetapp/gdrive/india/board/icse/class12/sociology/",
               "clogo": "fa-regular fa-file-pdf",
               "savekey": "A03C",
               "datatype": "link",

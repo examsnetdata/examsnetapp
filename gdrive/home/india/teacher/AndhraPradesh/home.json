@@ -1,0 +1,60 @@
+{
+  "searchPlaceholder": "Search papers…",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Andhra Pradesh Teacher Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "Andhra Pradesh Previous Papers",
+          "slogo": "fa-solid fa-folder-open",
+          "expand": true,
+          "display": "list",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "AP DSC School Assistant",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/ap-dsc-school-assistant/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "D4865211",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "AP DSC SGT",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/ap-dsc-sgt/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "DA99ADAE",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "AP TET",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/ap-tet/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "DA636BD6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Apset Exam",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/apset-exam/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "DFE8C82F",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
