@@ -60,7 +60,7 @@
         "subjecttitle": "Bihar Teacher Papers (PDF)",
         "slogo": "fa-solid fa-file-pdf",
         "active": true,
-        "expand": true,
+        "expand": false,
         "chapters": [
           {
             "chaptertitle": "Bihar CET BEd Papers PDF",
