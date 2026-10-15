@@ -1,5 +1,6 @@
 [
   {
+    "expandCollapseBar": true,
     "categorytitle": "Publice Service Commision (PSC) Exams",
     "elogo": "fa-solid fa-file-pen",
     "active": true,

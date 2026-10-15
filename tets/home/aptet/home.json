@@ -1,4 +1,5 @@
 {
+  "expandCollapseBar": true,
   "searchPlaceholder": "Search papers, notes, resources...",
   "searchBar": {
     "active": true
@@ -65,9 +66,63 @@
       ]
     },
     {
+      "categorytitle": "AP Teacher Exams",
+      "elogo": "fa-solid fa-file-pdf",
+      "active": true,
+      "display": "list",
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "AP Teacher Papers (PDF)",
+          "slogo": "fa-solid fa-file-pdf",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "AP SET Papers PDF",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/apset-exam/",
+              "clogo": "fa-solid fa-file-pdf",
+              "savekey": "DFE8C82F",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "AP TET Papers PDF",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/ap-tet/",
+              "clogo": "fa-solid fa-file-pdf",
+              "savekey": "DA636BD6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "AP DSC SGT Papers PDF",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/ap-dsc-sgt/",
+              "clogo": "fa-solid fa-file-pdf",
+              "savekey": "DA99ADAE",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "AP DSC School Assistant Papers PDF",
+              "chapterpath": "examsnetapp/gdrive/india/teacher/AndhraPradesh/ap-dsc-school-assistant/",
+              "clogo": "fa-solid fa-file-pdf",
+              "savekey": "D4865211",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ],
+          "expand": true
+        }
+      ]
+    },
+    {
       "categorytitle": "Study Material",
       "elogo": "fa-solid fa-file-pen",
       "active": true,
+      "display": "list",
       "expand": true,
       "subjects": [
         {

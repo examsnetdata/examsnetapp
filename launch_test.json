@@ -13,7 +13,7 @@
         "label": "Exams"
       },
       {
-        "value": "5553",
+        "value": "5542",
         "label": "Mock Tests"
       },
       {
@@ -127,7 +127,7 @@
               "id": "manage-certification",
               "title": "Management Certification",
               "subtitle": "PMP, Scrum, PMI-ACP etc",
-              "testsLabel": "56 Tests",
+              "testsLabel": "45 Tests",
               "icon": "fa-solid fa-briefcase",
               "homePath": "examsnetapp/tech/home/manag/"
             },
@@ -712,16 +712,16 @@
           "exams": [
             {
               "id": "teacher-apet",
-              "title": "AP TET",
-              "subtitle": "AP TET and AP DSC",
+              "title": "AP Teacher",
+              "subtitle": "AP TET, DSC and SET Papers",
               "testsLabel": "65 Tests",
               "icon": "fa-solid fa-user-graduate",
               "homePath": "examsnetapp/tets/home/aptet/"
             },
             {
               "id": "teacher-bpsctre",
-              "title": "BPSC TRE",
-              "subtitle": "TRE Primary and Middle School",
+              "title": "Bihar Teacher",
+              "subtitle": "BPSC TRE, STET, CET BEd and DElEd Papers",
               "testsLabel": "30 Tests",
               "icon": "fa-solid fa-chalkboard",
               "homePath": "examsnetapp/tets/home/bpsctre/"

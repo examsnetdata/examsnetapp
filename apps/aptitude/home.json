@@ -1,5 +1,6 @@
 [
   {
+    "expandCollapseBar": true,
     "categorytitle": "Aptitude Practice",
     "elogo": "fa-solid fa-file-pen",
     "subjects": [

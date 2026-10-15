@@ -1,5 +1,6 @@
 [
   {
+    "expandCollapseBar": true,
     "categorytitle": "KCPE Exam Papers",
     "elogo": "fa-solid fa-file-pen",
     "subjects": [

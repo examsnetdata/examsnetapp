@@ -1,5 +1,6 @@
 [
   {
+    "expandCollapseBar": true,
     "categorytitle": "Choose Your Exam",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
@@ -7,7 +8,7 @@
       {
         "subjecttitle": "Bihar PSC Exam Papers",
         "slogo": "fa-solid fa-user-group",
-        "expand": true,
+        "expand": false,
         "chapters": [
           {
             "chaptertitle": "BPSC Previous Papers",
@@ -25,7 +26,7 @@
         "subjecttitle": "BPSC TRE Exam Papers",
         "slogo": "fa-solid fa-user-group",
         "active": true,
-        "expand": true,
+        "expand": false,
         "chapters": [
           {
             "chaptertitle": "BPSC TRE Primary Teache (1-5)",
@@ -44,6 +45,139 @@
             "datatype": "exams",
             "active": true,
             "common": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categorytitle": "Bihar Teacher Exams",
+    "elogo": "fa-solid fa-file-pdf",
+    "active": true,
+    "expand": false,
+    "subjects": [
+      {
+        "subjecttitle": "Bihar Teacher Papers (PDF)",
+        "slogo": "fa-solid fa-file-pdf",
+        "active": true,
+        "expand": true,
+        "chapters": [
+          {
+            "chaptertitle": "Bihar CET BEd Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-cet-bed/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D67BC93D",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar DElEd Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-deled/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D3E3A005",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar Primary Teacher Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-primary-teacher/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D0FEA4B7",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar Sakshamta Pariksha Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-sakshamta-pariksha/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D6798E99",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar Secondary Teacher Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-secondary-teacher/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "DBBD5FE0",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar Senior Secondary Teacher Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-senior-secondary-teacher/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "DCF3E1FE",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar Special Teacher Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-special-teacher/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D3E67AD2",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar STET Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-stet/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D31015D6",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "Bihar Upper Primary Teacher Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bihar-upper-primary-teacher/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D5D8C058",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "BPSC Assistant Professor Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bpsc-assistant-professor/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D50E6D9D",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "BPSC Head Master Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bpsc-head-master/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "DF546D9F",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "BPSC Head Teacher Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bpsc-head-teacher/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "DC79DAEA",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "BSSTET Papers PDF",
+            "chapterpath": "gdrive/india/teacher/Bihar/bsstet/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D79888F6",
+            "datatype": "link",
+            "active": true,
+            "common": true
           }
         ]
       }

@@ -1,5 +1,6 @@
 [
   {
+    "expandCollapseBar": true,
     "categorytitle": "Choose your exam",
     "elogo": "fa-solid fa-file-pen",
     "active": true,

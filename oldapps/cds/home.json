@@ -1,5 +1,6 @@
 [
   {
+    "expandCollapseBar": true,
     "categorytitle": "Practice Exams",
     "elogo": "fa-solid fa-file-pen",
     "subjects": [

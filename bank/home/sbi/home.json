@@ -1,4 +1,5 @@
 {
+  "expandCollapseBar": true,
   "searchPlaceholder": "Search papers, notes, resources...",
   "searchBar": {
     "active": true
