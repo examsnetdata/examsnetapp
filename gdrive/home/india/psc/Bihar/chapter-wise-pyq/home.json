@@ -1,0 +1,33 @@
+{
+  "searchPlaceholder": "Search papers…",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Chapter Wise Pyq PSC Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "Chapter Wise Pyq Previous Papers",
+          "slogo": "fa-solid fa-folder-open",
+          "expand": true,
+          "display": "list",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "English Medium",
+              "chapterpath": "examsnetapp/gdrive/india/psc/Bihar/chapter-wise-pyq/english-medium/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "DD26E9DD",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

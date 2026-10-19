@@ -249,5 +249,12 @@
         ]
       }
     ]
+  },
+  {
+    "pubid": "india/psc/Bihar/chapter-wise-pyq",
+    "categorytitle": "Chapter Wise Pyq PSC Exams",
+    "elogo": "fa-solid fa-file-pen",
+    "expand": true,
+    "subjects": []
   }
 ]

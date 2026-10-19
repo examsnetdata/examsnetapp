@@ -1,0 +1,42 @@
+{
+  "searchPlaceholder": "Search papers…",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Bihar PSC Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "Bihar Previous Papers",
+          "slogo": "fa-solid fa-folder-open",
+          "expand": true,
+          "display": "list",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "BPSC Mains",
+              "chapterpath": "examsnetapp/gdrive/india/psc/Bihar/bpsc-mains/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "D7AE2664",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "BPSC Prelims",
+              "chapterpath": "examsnetapp/gdrive/india/psc/Bihar/bpsc-prelims/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "D794EE76",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

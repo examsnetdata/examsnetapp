@@ -1,12 +1,12 @@
 [
   {
     "expandCollapseBar": true,
-    "categorytitle": "Choose Your Exam",
+    "categorytitle": "BPSC Papers",
     "elogo": "fa-solid fa-file-pen",
     "active": true,
     "subjects": [
       {
-        "subjecttitle": "Bihar PSC Exam Papers",
+        "subjecttitle": "BPSC Previous Papers",
         "slogo": "fa-solid fa-user-group",
         "expand": false,
         "chapters": [
@@ -22,6 +22,67 @@
           }
         ]
       },
+      {
+        "subjecttitle": "Chapter Wise PYQs",
+        "slogo": "fa-solid fa-folder-open",
+        "expand": false,
+        "display": "list",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "BPSC Prelims English",
+            "chapterpath": "gdrive/india/psc/Bihar/chapter-wise-pyq/english-medium/",
+            "clogo": "fa-regular fa-file-pdf",
+            "savekey": "D73385C3",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "BPSC Prelims Hindi",
+            "chapterpath": "gdrive/india/psc/Bihar/chapter-wise-pyq/hindi-medium/",
+            "clogo": "fa-regular fa-file-pdf",
+            "savekey": "D9AB955D",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          }
+        ]
+      },
+      {
+        "subjecttitle": "BPSC Previous PDF",
+        "slogo": "fa-solid fa-file-pdf",
+        "active": true,
+        "expand": false,
+        "chapters": [
+          {
+            "chaptertitle": "BPSC Prelims Papers PDF",
+            "chapterpath": "gdrive/india/psc/Bihar/bpsc-prelims/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D794EE76",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          },
+          {
+            "chaptertitle": "BPSC Mains Papers PDF",
+            "chapterpath": "gdrive/india/psc/Bihar/bpsc-mains/",
+            "clogo": "fa-solid fa-file-pdf",
+            "savekey": "D7AE2664",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "expandCollapseBar": true,
+    "categorytitle": "BPSC Teacher Exams",
+    "elogo": "fa-solid fa-file-pen",
+    "active": true,
+    "subjects": [
       {
         "subjecttitle": "BPSC TRE Exam Papers",
         "slogo": "fa-solid fa-user-group",
@@ -47,17 +108,9 @@
             "common": false
           }
         ]
-      }
-    ]
-  },
-  {
-    "categorytitle": "Bihar Teacher Exams",
-    "elogo": "fa-solid fa-file-pdf",
-    "active": true,
-    "expand": false,
-    "subjects": [
+      },
       {
-        "subjecttitle": "Bihar Teacher Papers (PDF)",
+        "subjecttitle": "BPSC Teacher Paper PDF",
         "slogo": "fa-solid fa-file-pdf",
         "active": true,
         "expand": false,
@@ -270,6 +323,32 @@
             "chapterpath": "gdrive/study/generalstudies/scienceandtechnology/",
             "clogo": "fa-solid fa-book-open",
             "savekey": "EXA8",
+            "datatype": "link",
+            "active": true,
+            "common": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pubid": "india/psc/Bihar/chapter-wise-pyq",
+    "categorytitle": "Chapter Wise Pyq PSC Exams",
+    "elogo": "fa-solid fa-file-pen",
+    "expand": true,
+    "subjects": [
+      {
+        "subjecttitle": "Chapter Wise Pyq Previous Papers",
+        "slogo": "fa-solid fa-folder-open",
+        "expand": true,
+        "display": "list",
+        "active": true,
+        "chapters": [
+          {
+            "chaptertitle": "Hindi Medium",
+            "chapterpath": "gdrive/india/psc/Bihar/chapter-wise-pyq/Hindi Medium/",
+            "clogo": "fa-regular fa-file-pdf",
+            "savekey": "D28BDF80",
             "datatype": "link",
             "active": true,
             "common": true
