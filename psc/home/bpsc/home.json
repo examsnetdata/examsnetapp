@@ -12,7 +12,7 @@
       "expand": true,
       "subjects": [
         {
-          "subjecttitle": "BPSC Previous Papers",
+          "subjecttitle": "BPSC Previous Practice Papers",
           "slogo": "fa-solid fa-user-group",
           "chapters": [
             {
@@ -33,6 +33,33 @@
           ]
         },
         {
+          "subjecttitle": "BPSC Prelims Chapter Wise PYQs",
+          "slogo": "fa-solid fa-folder-open",
+          "display": "list",
+          "active": true,
+          "expand": false,
+          "chapters": [
+            {
+              "chaptertitle": "BPSC Prelims English Medium",
+              "chapterpath": "examsnetapp/gdrive/india/psc/bihar/chapter-wise-pyq/english-medium/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "D73385C3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "BPSC Prelims Hindi Medium",
+              "chapterpath": "examsnetapp/gdrive/india/psc/bihar/chapter-wise-pyq/hindi-medium/",
+              "clogo": "fa-regular fa-file-pdf",
+              "savekey": "D9AB955D",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        },
+        {
           "subjecttitle": "BPSC Previous PDF",
           "slogo": "fa-solid fa-file-pdf",
           "display": "list",
@@ -41,7 +68,7 @@
           "chapters": [
             {
               "chaptertitle": "BPSC Prelims Papers PDF",
-              "chapterpath": "examsnetapp/gdrive/india/psc/Bihar/bpsc-prelims/",
+              "chapterpath": "examsnetapp/gdrive/india/psc/bihar/bpsc-prelims/",
               "clogo": "fa-solid fa-file-pdf",
               "savekey": "D794EE76",
               "datatype": "link",
@@ -50,7 +77,7 @@
             },
             {
               "chaptertitle": "BPSC Mains Papers PDF",
-              "chapterpath": "examsnetapp/gdrive/india/psc/Bihar/bpsc-mains/",
+              "chapterpath": "examsnetapp/gdrive/india/psc/bihar/bpsc-mains/",
               "clogo": "fa-solid fa-file-pdf",
               "savekey": "D7AE2664",
               "datatype": "link",

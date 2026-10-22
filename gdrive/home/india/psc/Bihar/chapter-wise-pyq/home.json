@@ -17,10 +17,10 @@
           "active": true,
           "chapters": [
             {
-              "chaptertitle": "English Medium",
-              "chapterpath": "examsnetapp/gdrive/india/psc/Bihar/chapter-wise-pyq/english-medium/",
+              "chaptertitle": "Hindi Medium",
+              "chapterpath": "examsnetapp/gdrive/india/psc/Bihar/chapter-wise-pyq/hindi-medium/",
               "clogo": "fa-regular fa-file-pdf",
-              "savekey": "DD26E9DD",
+              "savekey": "D274613E",
               "datatype": "link",
               "active": true,
               "common": true
